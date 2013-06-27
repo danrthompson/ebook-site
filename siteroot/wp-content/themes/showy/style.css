@@ -4946,3 +4946,81 @@ body {
 
 
 }
+
+
+/*//////////////////////////////////
+////////////////////////////////////
+		  CUSTOM ALTERATIONS
+////////////////////////////////////
+////////////////////////////////////*/
+
+/* ------------- Home Page  ------------*/
+
+#home_page h2 {
+	font-weight: 300;
+	font-size: 48px;
+	color: #636363;
+	letter-spacing: 2px;
+}
+
+.content {
+    margin: 0 auto;
+	max-width:960px;
+	padding-left:50px;
+	padding-right:50px;
+	padding-bottom: 65px;
+}
+
+#home_firstpg {
+}
+
+#home_firstpg .centerpiece{
+	padding:30px;
+}
+
+#home_firstpg img{
+	width: 800px;
+	margin: auto;
+}
+
+#home_secondpg {
+}
+
+#how_tag{
+	width:300px;
+	text-align:center;
+	margin:auto;	
+}
+
+#how_tag h3{
+	font-size: 32px;
+	font-weight:600;
+	color:#7f7f7f;
+	padding: 10px;
+	letter-spacing: 1px;
+	margin: 0;
+	background-color: white;
+
+	-webkit-border-radius: 15px 15px 0 0;
+	-moz-border-radius: 15px 15px 0 0;
+	border-radius: 15px 15px 0 0;
+}
+
+#secondpg_content{
+	width: 100%;
+	background-color: white;
+	margin-top: -2px;
+	text-align:center;
+	height: 800px;
+	padding-top: 65px;
+}
+
+
+#secondpg_content h2 span {
+	color:#df7e00;
+}
+
+
+
+
+
