@@ -16,16 +16,29 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'ebooksitewordpress');
+
+// remote db
+// define('DB_NAME', 'ebooksitewordpress');
+// local db
+define('DB_NAME', 'ebooksitewordpressimport');
 
 /** MySQL database username */
-define('DB_USER', 'dsquared');
+// remote
+// define('DB_USER', 'dsquared');
+// local
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'dNd6482013');
+// remote
+// define('DB_PASSWORD', 'dNd6482013');
+// local
+define('DB_PASSWORD', 'root');
 
 /** MySQL hostname */
-define('DB_HOST', 'ebooksitewordpress.ccev9d5iopk9.us-east-1.rds.amazonaws.com:3306');
+// remote
+// define('DB_HOST', 'ebooksitewordpress.ccev9d5iopk9.us-east-1.rds.amazonaws.com:3306');
+// local
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
