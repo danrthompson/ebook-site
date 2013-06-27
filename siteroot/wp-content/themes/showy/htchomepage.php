@@ -21,9 +21,9 @@ Template Name: HTC Homepage
 						<h2>Crowdfunding Can Be <span>Simple</span></h2>
 						<div class="thirds">
 							<ul>
-								<li class="thirds_box"><img src="" alt=""></li>
-								<li></li>
-								<li></li>
+								<li class="thirds_box"><img src="" alt="">asgsadf</li>
+								<li class="thirds_box"><img src="" alt="">asdfasdf</li>
+								<li class="thirds_box"><img src="" alt="">asdfasdf</li>
 							</ul>
 
 						</div>

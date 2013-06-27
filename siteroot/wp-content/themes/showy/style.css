@@ -5020,7 +5020,16 @@ body {
 	color:#df7e00;
 }
 
+#secondpg_content ul {
+	list-style:none;
+	width: 100%;
+}
 
-
+#thirds_box {
+	width:30%;
+	margin:1.6%;
+	border: 2px solid #ccc;
+	float:left;
+}
 
 
