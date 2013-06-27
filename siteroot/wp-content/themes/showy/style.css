@@ -3494,6 +3494,7 @@ html[xmlns] .slides {
 
 #footer-bottom-inside a {
 	color:#FFF;
+	text-transform: uppercase;
 }
 
 #footer-bottom-inside a:hover {
