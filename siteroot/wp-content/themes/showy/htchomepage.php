@@ -21,9 +21,24 @@ Template Name: HTC Homepage
 						<h2>Crowdfunding Can Be <span>Simple</span></h2>
 						<div class="thirds">
 							<ul>
-								<li class="thirds_box"><img src="" alt="">asgsadf</li>
-								<li class="thirds_box"><img src="" alt="">asdfasdf</li>
-								<li class="thirds_box"><img src="" alt="">asdfasdf</li>
+								<li class="thirds_box">
+									<img src="<?php echo get_bloginfo('template_url') ?>/images/cf_simple_icons/lightbulb_gray.png"/>
+									<p>Learn What</p>
+									<p>To Do</p>
+									<br>
+								</li>
+								<li class="thirds_box">
+									<img src="<?php echo get_bloginfo('template_url') ?>/images/cf_simple_icons/tools_gray.png"/>
+									<p>Find the tools</p>
+									<p>to do it</p>
+									<br>
+								</li>
+								<li class="thirds_box">
+									<img src="<?php echo get_bloginfo('template_url') ?>/images/cf_simple_icons/pros_gray.png"/>
+									<p>Build a team &</p>
+									<p>make it happen</p>
+									<br>
+								</li>
 							</ul>
 
 						</div>
