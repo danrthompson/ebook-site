@@ -4,6 +4,7 @@ Template Name: HTC Resources
 */
 ?>
 <?php get_header(); ?>
+TEST
 		<div id="content">
 			<div class="content-posts clearfix">
 	
