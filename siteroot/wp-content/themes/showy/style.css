@@ -5266,6 +5266,16 @@ a:hover{
 		background-color: #eff0f1;
 
 }
+#thirdpg_content .content{
+		padding-top: 50px;
+		background-color: white;
+		-webkit-border-radius: 25px;
+		-moz-border-radius: 25px;
+		border-radius: 25px;
+		margin-bottom: 50px;
+		padding-bottom: 20px;
+
+}
 
 #thirdpg_content span{
 	color: #df7e00;
@@ -5350,4 +5360,8 @@ a:hover{
 	-moz-border-radius: 15px;
 	border-radius: 15px;
 
+}
+
+#lets_go_button:hover{
+	background-color: #636363;
 }
