@@ -5157,11 +5157,23 @@ body {
 
 }
 
+.thirds_box:hover {
+	cursor: pointer;
+}
+
+.thirds_box:hover p {
+	color:#000;
+}
+
+	
 
 .thirds_box p{
 	font-size: 24px;
 	font-weight: 300;
 	color: #636363;
+ 	-webkit-transition: all 0.4s ease;
+	-moz-transition: all 0.4s ease;
+	transition: all 0.4s ease;
 
 }
 
