@@ -78,6 +78,12 @@ global $data;
 								<span class="HTC-icon-text">Professionals</span>
 							</a>
 						</li>
+						<li id="menu-item-8" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8">
+							<a href="/why-crowdfunding">
+								<div id="menu-item-8-icon"> </div>
+								<span class="HTC-icon-text">Why</span>
+							</a>
+						</li>
 					</ul>
 				</div>			
 			</nav>

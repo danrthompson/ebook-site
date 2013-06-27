@@ -1366,6 +1366,10 @@ h1.logo-text:hover {
 	background-image: url(/wp-content/themes/showy/images/nav_icons/group_colored.png);
 }
 
+#menu-main-header-menu li:hover #menu-item-8-icon {
+	background-image: url(/wp-content/themes/showy/images/nav_icons/radio_colored.png);
+}
+
 #menu-main-header-menu #menu-item-12-icon {
 	background-image: url(/wp-content/themes/showy/images/nav_icons/home.png);
 }
@@ -1380,6 +1384,10 @@ h1.logo-text:hover {
 
 #menu-main-header-menu #menu-item-9-icon {
 	background-image: url(/wp-content/themes/showy/images/nav_icons/group.png);
+}
+
+#menu-main-header-menu #menu-item-8-icon {
+	background-image: url(/wp-content/themes/showy/images/nav_icons/radio.png);
 }
 
 .nav .HTC-icon-text {
