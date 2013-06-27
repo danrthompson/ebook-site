@@ -3384,6 +3384,10 @@ html[xmlns] .slides {
 
 /* 12. FOOTER
 ---------------------------------------- */
+.HTC-footer-links {
+	float: right;
+	text-transform: uppercase;
+}
 
 .socials {
    	float:right;
