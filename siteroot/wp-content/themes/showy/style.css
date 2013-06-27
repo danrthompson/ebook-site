@@ -231,6 +231,64 @@ ul {
 	font-size: 29px;
 }
 
+.sidebar-inner {
+	text-align: center;
+}
+
+.sidebar-inner hr, .entry-content hr{
+	border-top: 1px solid #52a18a;
+	width: 80%;
+}
+
+.sidebar-inner a{
+	display: block;
+	margin: 15px;
+	padding: 5px 10px;
+	font-size: 18px;
+	font-weight:600;
+	color: white;
+	text-transform: uppercase;
+	background-color: #52a18a;
+
+	-moz-border-radius    : 5px;
+  	-webkit-border-radius : 5px;  
+  	border-radius         : 5px;
+}
+
+.sidebar-inner a:hover{
+	background-color:#7fe1c6;
+}
+
+.sidebar-list{
+	margin: 15px 0;
+}
+
+.sidebar-list-entry a {
+	font-size: 14px;
+	text-align: left;
+	background-color: #77d1b8;
+	font-weight: 800px;
+	padding: 5px 0 5px 10px;
+	margin:0;
+
+}
+
+.sidebar-list-entry a:hover {
+	background-color: #52a18a;
+	color: white;
+}
+
+#campaign_services_link{
+	position: absolute;
+	left: 0;
+	width: 100%;
+	font-size: 16px;
+	padding: 5px 0px;
+	margin: 0;
+	-moz-border-radius    : 0px;
+  	-webkit-border-radius : 0px;  
+  	border-radius         : 0px;
+}
 
 /* //////// SIDEBAR WIDGETS /////////// */
 
@@ -692,7 +750,7 @@ hr {
 }
 
 .accent {
-	border-bottom:1px solid #fe544a; 
+	border-bottom:1px solid #5ebfa4; 
 	width:50px; 
 	height:1px;
 	margin-bottom:40px;
@@ -1816,7 +1874,7 @@ h1.logo-text:hover {
 }
 
 #sidebar .accent {
-	border-bottom:1px solid #FFF !important;
+	border-bottom:1px solid #5ebfa4 !important;
 	width:100%;
 	opacity: 0.1;
 	-moz-opacity: 0.1;
@@ -1863,6 +1921,40 @@ h1.logo-text:hover {
 
 .posts-content {
 	text-align:justify;
+	margin-bottom: 50px;
+}
+
+.posts-content h5{
+	font-weight: 400;
+	color: #52a18a;
+	font-size: 24px;
+	text-transform: uppercase;
+	margin-top: 35px;
+	margin-bottom: 30px;
+}
+
+.posts-content h6{
+	font-size: 18px;
+	font-weight: 600;
+	color: gray;
+	text-transform: uppercase;
+	margin: 25px 0px 5px 50px;
+}
+
+.posts-content a h6:hover{
+	color:#52a18a;
+}
+
+.posts-content .intro{
+	font-size: 20px;
+	font-weight: 300;
+}
+
+
+#post-paragraph {
+	margin-left: 50px;
+	font-size: 18px;
+	margin-bottom: 0px;
 }
 
 .entry-title {
@@ -1890,6 +1982,9 @@ h1.logo-text:hover {
 	transition: all 0.2s ease; 
 }
 
+
+
+
 .centered {
 	text-align:left;
 	padding-top:0px;
@@ -1912,7 +2007,8 @@ h1.logo-text:hover {
 }
 
 #content p { 
-	margin: 0 0 30px;
+/*	margin: 0 0 30px; SEARCH KEY*/
+
 }
 
 #content img {
@@ -4556,6 +4652,7 @@ body {
 
 #sidebar-inner {
 	padding:10px;
+	text-align: center;
 }
 
 .nav {

@@ -6,111 +6,101 @@ Template Name: HTC Resources
 <?php get_header(); ?>
 
 		<div id="content">
-			
+
+	<!--  Resource Content-->
 			<div class="content-posts clearfix">
 	
 				<div class="entry-content">
 					<img src="<?php echo get_bloginfo('template_url') ?>/images/central_graphic_placeholder.png"/>
+					
 					<header>
 						<div class="archive-titlewrapper">
-							<h2 class="entry-title">SAMPLE TITLE</h2>
+							<h2 class="entry-title">Featured Resources</h2>
 						</div>
 					</header>
+					
 					<div class="accent"></div>
 					<div class="posts-content">
-						<div class="intro"> SAMPLE INTRO TEXTSAMPLE INTRO TEXTSAMPLE INTRO TEXTSAMPLE INTRO TEXT</div>
-						<p> SAMPLE <a href="">SAMPLE LINK</a> MORE CONTENT</p>
+						<div class="intro"> Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.</div>
+
+						<h5>Example Title</h5>
+						
+						<a href=""><h6>Resource Title</h6></a>
+						<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+
+						<a href=""><h6>The Title of the Second Resource</h6></a>
+						<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+
+						<a href=""><h6>Third Resource Name</h6></a>
+						<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+
+						<h5>The Second Sub-Heading Title</h5>
+
+						<a href=""><h6>Resource Title</h6></a>
+						<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
 						<div class="centered">
 							<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
 						</div>
 					</div>
+
+
+					<header>
+						<div class="archive-titlewrapper">
+							<h2 class="entry-title">Featured Resources</h2>
+						</div>
+					</header>
+					
+					<div class="accent"></div>
+					<div class="posts-content">
+						<div class="intro"> Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.</div>
+
+						<h5>Example Title</h5>
+						
+						<a href=""><h6>Resource Title</h6></a>
+						<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+
+						<a href=""><h6>The Title of the Second Resource</h6></a>
+						<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+
+						<a href=""><h6>Third Resource Name</h6></a>
+						<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+
+						<h5>The Second Sub-Heading Title</h5>
+
+						<a href=""><h6>Resource Title</h6></a>
+						<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+						<div class="centered">
+							<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
+						</div>
+					</div>
+					
 				</div>
 
-<!-- 				/////////// START TEST /////////////// -->
-				<div class="entry-content">
-					<header>
-						<div class="archive-titlewrapper">
-							<h2 class="entry-title">SAMPLE TITLE</h2>
-						</div>
-					</header>
-					<div class="accent"></div>
-					<div class="posts-content">
-						<div class="intro"> SAMPLE INTRO TEXTSAMPLE INTRO TEXTSAMPLE INTRO TEXTSAMPLE INTRO TEXT</div>
-						<p> SAMPLE <a href="">SAMPLE LINK</a> MORE CONTENT</p>
-						<div class="centered">
-							<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
-						</div>
-					</div>
-				</div>
-				<div class="entry-content">
-					<header>
-						<div class="archive-titlewrapper">
-							<h2 class="entry-title">SAMPLE TITLE</h2>
-						</div>
-					</header>
-					<div class="accent"></div>
-					<div class="posts-content">
-						<div class="intro"> SAMPLE INTRO TEXTSAMPLE INTRO TEXTSAMPLE INTRO TEXTSAMPLE INTRO TEXT</div>
-						<p> SAMPLE <a href="">SAMPLE LINK</a> MORE CONTENT</p>
-						<div class="centered">
-							<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
-						</div>
-					</div>
-				</div>
-				<div class="entry-content">
-					<header>
-						<div class="archive-titlewrapper">
-							<h2 class="entry-title">SAMPLE TITLE</h2>
-						</div>
-					</header>
-					<div class="accent"></div>
-					<div class="posts-content">
-						<div class="intro"> SAMPLE INTRO TEXTSAMPLE INTRO TEXTSAMPLE INTRO TEXTSAMPLE INTRO TEXT</div>
-						<p> SAMPLE <a href="">SAMPLE LINK</a> MORE CONTENT</p>
-						<div class="centered">
-							<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
-						</div>
-					</div>
-				</div>
-				<div class="entry-content">
-					<header>
-						<div class="archive-titlewrapper">
-							<h2 class="entry-title">SAMPLE TITLE</h2>
-						</div>
-					</header>
-					<div class="accent"></div>
-					<div class="posts-content">
-						<div class="intro"> SAMPLE INTRO TEXTSAMPLE INTRO TEXTSAMPLE INTRO TEXTSAMPLE INTRO TEXT</div>
-						<p> SAMPLE <a href="">SAMPLE LINK</a> MORE CONTENT</p>
-						<div class="centered">
-							<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
-						</div>
-					</div>
-				</div>
-				<div class="entry-content">
-					<header>
-						<div class="archive-titlewrapper">
-							<h2 class="entry-title">SAMPLE TITLE</h2>
-						</div>
-					</header>
-					<div class="accent"></div>
-					<div class="posts-content">
-						<div class="intro"> SAMPLE INTRO TEXTSAMPLE INTRO TEXTSAMPLE INTRO TEXTSAMPLE INTRO TEXT</div>
-						<p> SAMPLE <a href="">SAMPLE LINK</a> MORE CONTENT</p>
-						<div class="centered">
-							<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
-						</div>
-					</div>
-				</div>
-<!-- 				///////////// END TEST /////////// -->
 
 			</div>	
+
+	<!-- Sidebar -->
 		<div class="sidebar-wrapper content">
 			<div id="sidebar" class="clearfix">
 				<div class="sidebar-inner">
 					<h1><span>Crowdfunding</span> Resources</h1>
 					<hr>
-					<a href="http://www.google.com">Submit A Resource</a>
+					<a href="http://www.google.com">Suggest A Resource</a>
+					<hr>
+					
+					<ul class="sidebar-list">
+						<li class="sidebar-list-entry"><a href="">Featured Resources</a></li>
+						<li class="sidebar-list-entry"><a href="">Booklist</a></li>
+						<li class="sidebar-list-entry"><a href="">About Crowdfunding</a></li>
+						<li class="sidebar-list-entry"><a href="">Idea Development</a></li>
+						<li class="sidebar-list-entry"><a href="">Campaign Prep</a></li>
+						<li class="sidebar-list-entry"><a href="">Manage The Campaign</a></li>
+						<li class="sidebar-list-entry"><a href="">After The Campaign</a></li>
+					</ul>
+
+					<a href="www.google.com" id="campaign_services_link">Helpful Services</a>
+
+
 				</div>
 			</div>
 		</div>
