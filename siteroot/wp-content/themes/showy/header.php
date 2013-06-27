@@ -45,7 +45,7 @@ global $data;
 						<?php } else { ?>
 	    
 		    				
-		    				<h1 class="logo-text"><a href="<?php echo home_url( '/' ); ?>" title="<?php bloginfo('name'); ?>"><?php bloginfo('name') ?></a></h1>
+		    				<h1 class="logo-text"><a href="/" title="<?php bloginfo('name'); ?>"><span id="main-logo-1">Harness</span><br /><span id="main-logo-2">The Crowd</span></a></h1>
 		    				
 						
 	    					<?php } ?>

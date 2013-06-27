@@ -905,7 +905,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 { 
 	font-size: 34px;
 	line-height: 40px;
-	letter-spacing: -2px;
+	/*letter-spacing: -2px;*/
 }
 
 h2 { 
@@ -1027,7 +1027,7 @@ header {
 	display:block;
 	margin:0 auto;
 	position:relative;
-	padding:30px 50px;
+	/*padding:30px 50px;*/
 	font-size:14px;
 }
 
@@ -1081,11 +1081,11 @@ header {
 .logo-text {
     	font-family: 'Raleway', sans-serif;
     	font-size: 35px;
-    	font-weight: 800;
-    	line-height: 70px;
+    	font-weight: 500;
+    	line-height: 45px;
     	text-transform:uppercase;
-    	letter-spacing: -2px;
-    	padding: 0;
+    	/*letter-spacing: -2px;*/
+    	padding: 20px;
     	text-align:left;
     	color: #FFF;
 	float:left;
@@ -1100,12 +1100,20 @@ header {
 	transition: all 0.4s ease; 
 }
 
-.logo-text a:hover {
-	color:#FFF !important;
+.logo-text a #main-logo-1 {
+	font-size: 32px;
+}
+
+.logo-text a #main-logo-2 {
+	font-size: 50px;
+}
+
+h1.logo-text:hover {
+/*	color:#FFF !important;
 	padding-left: 12px;
 	-webkit-transition: all 0.4s ease;
 	-moz-transition: all 0.4s ease;
-	transition: all 0.4s ease;
+	transition: all 0.4s ease;*/
 }
 
 .logo-text-footer-wrap {
@@ -1118,12 +1126,12 @@ header {
 	display:block;
     	font-family: 'Raleway', sans-serif;
     	font-size: 28px;
-    	font-weight: 800;
+    	font-weight: 500;
     	line-height: 35px;
     	text-transform:uppercase;
 	padding-top:5px;
 	margin-bottom:15px;
-    	letter-spacing: -1px;
+    	/*letter-spacing: -1px;*/
  	padding:0;
     	text-align:left;
 	color:#FFF;
@@ -1309,7 +1317,7 @@ header {
 	margin:0;
 	float:right;
 	line-height: 20px;
-	padding-top: 30px;
+	padding: 35px 0 25px 0;
 }
 
 .header-nav-right {
@@ -4591,7 +4599,7 @@ body {
 }
 
 .header-top-inner {
-	padding:30px 50px;
+	/*padding:30px 50px;*/
 }
 
 .intro-box {
