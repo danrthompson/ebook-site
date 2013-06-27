@@ -22,27 +22,32 @@ Template Name: HTC Homepage
 						<div class="thirds">
 							<ul>
 								<li class="thirds_box">
-									<a href="http://www.google.com"><div id="bulb_img" class="third_contained_img">  </div>
-<!-- 									<img src="<?php echo get_bloginfo('template_url') ?>/images/cf_simple_icons/lightbulb_gray.png"/> -->
-									<p>Learn What</p>
-									<p>To Do</p>
-									<br>
+									<a href="http://www.google.com">
+										<div id="bulb_img" class="third_contained_img">  </div>
+	<!-- 									<img src="<?php echo get_bloginfo('template_url') ?>/images/cf_simple_icons/lightbulb_gray.png"/> -->
+										<p>Learn What</p>
+										<p>To Do</p>
+										<br>
 									</a>
 								</li>
 								<li class="thirds_box">
-									<div id="tools_img" class="third_contained_img"> </div>
+									<a href="http://www.google.com">
+										<div id="tools_img" class="third_contained_img"> </div>
 
-<!-- 									<img src="<?php echo get_bloginfo('template_url') ?>/images/cf_simple_icons/tools_gray.png"/> -->
-									<p>Find the tools</p>
-									<p>to do it</p>
-									<br>
+	<!-- 									<img src="<?php echo get_bloginfo('template_url') ?>/images/cf_simple_icons/tools_gray.png"/> -->
+										<p>Find the tools</p>
+										<p>to do it</p>
+										<br>
+									</a>
 								</li>
 								<li class="thirds_box">
-									<div id="pros_img" class="third_contained_img"> </div>
-<!-- 									<a href=""><img src="<?php echo get_bloginfo('template_url') ?>/images/cf_simple_icons/pros_gray.png"/></a> -->
-									<p>Build a team &</p>
-									<p>make it happen</p>
-									<br>
+									<a href="http://www.google.com">
+										<div id="pros_img" class="third_contained_img"> </div>
+	<!-- 									<a href=""><img src="<?php echo get_bloginfo('template_url') ?>/images/cf_simple_icons/pros_gray.png"/></a> -->
+										<p>Build a team &</p>
+										<p>make it happen</p>
+										<br>
+									</a>
 								</li>
 							</ul>
 

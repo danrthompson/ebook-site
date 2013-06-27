@@ -5127,9 +5127,17 @@ body {
 	background-image: url(/wp-content/themes/showy/images/cf_simple_icons/lightbulb_gray.png);
 }
 
+.thirds_box:hover p{
+	font-weight: 600;
+	letter-spacing: -1px;
+	color: #7f7f7f;
+	/*-webkit-transition: all 1s;
+	-moz-transition: all 1s;
+	transition: all 1s;*/
+}
+
 .thirds_box:hover #bulb_img{
 	background-image: url(/wp-content/themes/showy/images/cf_simple_icons/lightbulb_colored.png);
-
 }
 
 #tools_img{
@@ -5138,7 +5146,6 @@ body {
 
 .thirds_box:hover #tools_img{
 	background-image: url(/wp-content/themes/showy/images/cf_simple_icons/tools_colored.png);
-
 }
 
 #pros_img{
