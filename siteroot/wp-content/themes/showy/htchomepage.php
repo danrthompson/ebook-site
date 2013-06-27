@@ -13,10 +13,10 @@ Template Name: HTC Homepage
 		</div>
 
 		<div id="home_secondpg">
-				<div id="how_tag">
-					<h3>HERE'S HOW</h3>
+				<div id="how_tag" class="tag">
+					<a href="http://www.google.com"><h3>HERE'S HOW</h3></a>
 				</div>
-				<div id="secondpg_content">
+				<div id="secondpg_content" class="pgcontent">
 					<div class="content">
 						<h2>Crowdfunding Can Be <span>Simple</span></h2>
 						<div class="thirds">
@@ -50,15 +50,62 @@ Template Name: HTC Homepage
 									</a>
 								</li>
 							</ul>
-
-
+						</div> <!-- End Thirds -->
+								<br>
+						<div class="caption_paragraph">
+							<p>
+								Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis 
+								vestibulum. <span>Morbi leo risus, porta ac consectetur ac</span>, vestibulum at eros. <span>Curabitur blandit </span>tempus porttitor. Cum sociis natoque
+								penatibus parturient montes, nascetur ridiculus mus. Praesent commodo cursus magna, vel scelerisque nisl consectetur
+								et. Nullam quis risus <span>et magnis dis</span> eget urna mollis ornare vel eu leo.
+							</p>
+							<a href="http://www.google.com">Here's how to start</a>
 						</div>
-					</div>
-				</div>
-		</div>
+					</div> <!-- End Content -->
+
+				</div><!-- End Secondpg_content -->
+		</div> <!-- End home_secondpg -->
 
 		<div id="home_thridpg">
-			
+			<div id="why_tag" class="tag">
+					<a href="http://www.google.com"><h3>HERE'S WHY</h3></a>
+				</div>
+				<div id="thirdpg_content" class="pgcontent">
+					<div class="content">
+						<h2>Crowdfunding Is <span>Important</span></h2>
+					<br>
+					<br>
+					<hr>
+					<div class="why_sect_block">
+						<div class="thirty left_offset f_left">
+							<h4>WORTH YOUR <span id="orange">TIME</span></h4>
+						</div>
+						<div class="fifty f_right">
+							<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus. Aenean lacinia bibendum nulla sed consectetur. Donec id elit non mi porta gravida at eget metus.</p>
+						</div>
+					</div><!-- End Block -->
+					<hr>
+					<div class="why_sect_block">
+						<div class="fifty f_left">
+							<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus. Aenean lacinia bibendum nulla sed consectetur. Donec id elit non mi porta gravida at eget metus.</p>
+						</div>
+						<div class="thirty right_offset f_right">
+							<h4><span id="yellow">YOU CAN</span> DO IT!</h4>
+						</div>
+					</div><!-- End Block -->
+					<hr>
+					<div class="why_sect_block">
+						<div class="thirty left_offset f_left">
+							<h4>WE WILL <span id="blue">HELP YOU</span></h4>
+						</div>
+						<div class="fifty f_right">
+							<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus. Aenean lacinia bibendum nulla sed consectetur. Donec id elit non mi porta gravida at eget metus.</p>
+						</div>
+					</div><!-- End Block -->
+					</div> <!-- End Content -->
+					
+					<a href="http://www.google.com" id="lets_go_button">Let's Go!</a>
+				</div><!-- End Secondpg_content -->
 
 		</div>
 </div>
