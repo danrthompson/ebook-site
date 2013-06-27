@@ -10,7 +10,10 @@ Template Name: HTC Homepage
 		<img src="<?php echo get_bloginfo('template_url') ?>/images/central_graphic_placeholder.png"/>
 	</div>
 <!-- 
-Adding a comment -->
+Adding a comment
+
+
+ -->
 
 </div>
 <?php get_footer(); ?>
