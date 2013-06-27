@@ -1346,7 +1346,7 @@ h1.logo-text:hover {
 	transition: all 0.4s ease;
 }
 
-#menu-main-header-menu li:hover a {
+#menu-main-header-menu li:hover .HTC-icon-text {
 	color:#FFF;
 }
 
@@ -1382,7 +1382,7 @@ h1.logo-text:hover {
 	background-image: url(/wp-content/themes/showy/images/nav_icons/group.png);
 }
 
-.nav a {
+.nav .HTC-icon-text {
 	font-family: 'Raleway', sans-serif;
     	color: #707984;	
 	font-weight:500;
@@ -1400,18 +1400,18 @@ h1.logo-text:hover {
 	
 }
 
-.nav .current-menu-item > a, .nav a:hover {
+.nav .current-menu-item > .HTC-icon-text, .nav .HTC-icon-text:hover {
 	color: #FFF;
 }
 
-.nav a:hover {
+.nav .HTC-icon-text:hover {
     	cursor: pointer;
     	-webkit-transition: all 0.2s ease;
 	-moz-transition: all 0.2s ease;
 	transition: all 0.2s ease;
 }
 
-.nav li .current-menu-item ul li a {
+.nav li .current-menu-item ul li .HTC-icon-text {
 	border-bottom:none !important;
 }
 
