@@ -5016,7 +5016,7 @@ body {
 
 #home_page h2 {
 	font-weight: 300;
-	font-size: 48px;
+	font-size: 52px;
 	color: #636363;
 	letter-spacing: 2px;
 }
@@ -5082,13 +5082,19 @@ body {
 	list-style:none;
 	width: 100%;
 	display:block;
+	margin: auto;
 	margin-top: 45px;
+
+}
+
+.thirds{
+	margin:auto;
 }
 
 .thirds_box {
 	display:block;
 	width:250px;
-	margin:15px;
+	margin:31px;
 	border: 4px solid #eff0f1;
 	float:left;
 	text-align: center;
@@ -5114,9 +5120,30 @@ body {
 
 }
 
+#tools_img{
+	background-image: url(/wp-content/themes/showy/images/cf_simple_icons/tools_gray.png);
+}
+
+.thirds_box:hover #tools_img{
+	background-image: url(/wp-content/themes/showy/images/cf_simple_icons/tools_colored.png);
+
+}
+
+#pros_img{
+	background-image: url(/wp-content/themes/showy/images/cf_simple_icons/pros_gray.png);
+}
+
+.thirds_box:hover #pros_img{
+	background-image: url(/wp-content/themes/showy/images/cf_simple_icons/pros_colored.png);
+
+}
+
+
 .thirds_box p{
 	font-size: 24px;
 	font-weight: 300;
+	color: #636363;
+
 }
 
 
