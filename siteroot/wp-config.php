@@ -20,7 +20,7 @@
 // remote db
 // define('DB_NAME', 'ebooksitewordpress');
 // local db
-define('DB_NAME', 'ebook_site_wordpress');
+define('DB_NAME', 'ebooksitewordpressimport');
 
 /** MySQL database username */
 // remote
