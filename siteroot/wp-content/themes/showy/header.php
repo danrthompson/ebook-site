@@ -51,7 +51,27 @@ global $data;
 	    					<?php } ?>
 			<!-- Navigation -->
 			<nav role="navigation" class="header-nav">
-					<?php wp_nav_menu(array('theme_location' => 'main', 'menu_class' => 'nav')); ?>
+<!-- 					<?php wp_nav_menu(array('theme_location' => 'main', 'menu_class' => 'nav')); ?> -->
+				<div class="menu-main-header-menu-container">
+					<ul id="menu-main-header-menu" class="nav">
+						<li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12">
+							<div id="menu-item-12-icon"> </div>
+							<a href="/">Home</a>
+						</li>
+						<li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11">
+							<div id="menu-item-11-icon"> </div>
+							<a href="/field-guide">Fieldguide</a>
+						</li>
+						<li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10">
+							<div id="menu-item-10-icon"> </div>
+							<a href="/resources">Resources</a>
+						</li>
+						<li id="menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9">
+							<div id="menu-item-9-icon"> </div>
+							<a href="/professionals">Professionals</a>
+						</li>
+					</ul>
+				</div>			
 			</nav>
 			</div>
 		</div>
