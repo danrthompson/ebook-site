@@ -5259,6 +5259,7 @@ a:hover{
 #home_thridpg{
 	position:relative;
 	margin-top:-50px;
+	margin-bottom: 50px;
 }
 
 #thirdpg_content{
@@ -5324,5 +5325,29 @@ a:hover{
 }
 
 .why_sect_block span{
-	font-weight: 600;
+	font-weight: 800;
+	font-size:48px;
+}
+
+.why_sect_block #blue {
+	color: #279ccc;
+}
+
+.why_sect_block #yellow {
+	color: #dfbd00;
+}
+
+#lets_go_button{
+	font-weight: 700;
+	margin-bottom: 30px;
+	font-size: 40px;
+	color: white;
+	background-color: #828d91;
+	padding: 10px 50px;
+	text-transform: uppercase;
+
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+
 }
