@@ -5108,6 +5108,10 @@ body {
 	text-align: center;
 }
 
+.third_contained_img {
+	transition: background-image 0.4s ease-in-out;
+}
+
 
 .third_contained_img{
 	width: 150px;
