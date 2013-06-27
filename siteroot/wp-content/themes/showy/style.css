@@ -1328,9 +1328,35 @@ header {
 	background-size: 100% 100%;
 	margin-left: 20px;
 	margin-right: 20px;
+	transition: background-image 0.4s ease-in-out;
 }
 
+#menu-main-header-menu li:hover {
+	    	cursor: pointer;
+    	-webkit-transition: all 0.4s ease;
+	-moz-transition: all 0.4s ease;
+	transition: all 0.4s ease;
+}
 
+#menu-main-header-menu li:hover a {
+	color:#FFF;
+}
+
+#menu-main-header-menu li:hover #menu-item-12-icon {
+	background-image: url(/wp-content/themes/showy/images/nav_icons/home_colored.png);
+}
+
+#menu-main-header-menu li:hover #menu-item-11-icon {
+	background-image: url(/wp-content/themes/showy/images/nav_icons/bulb_colored.png);
+}
+
+#menu-main-header-menu li:hover #menu-item-10-icon {
+	background-image: url(/wp-content/themes/showy/images/nav_icons/tools_colored.png);
+}
+
+#menu-main-header-menu li:hover #menu-item-9-icon {
+	background-image: url(/wp-content/themes/showy/images/nav_icons/group_colored.png);
+}
 
 #menu-main-header-menu #menu-item-12-icon {
 	background-image: url(/wp-content/themes/showy/images/nav_icons/home.png);
@@ -1375,7 +1401,6 @@ header {
     	-webkit-transition: all 0.2s ease;
 	-moz-transition: all 0.2s ease;
 	transition: all 0.2s ease;
-	color:#FFF;
 }
 
 .nav li .current-menu-item ul li a {
