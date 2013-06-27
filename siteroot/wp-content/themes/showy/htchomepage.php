@@ -16,7 +16,7 @@ Template Name: HTC Homepage
 				<div id="how_tag" class="tag">
 					<a href="http://www.google.com"><h3>HERE'S HOW</h3></a>
 				</div>
-				<div id="secondpg_content">
+				<div id="secondpg_content" class="pgcontent">
 					<div class="content">
 						<h2>Crowdfunding Can Be <span>Simple</span></h2>
 						<div class="thirds">
@@ -67,14 +67,42 @@ Template Name: HTC Homepage
 		</div> <!-- End home_secondpg -->
 
 		<div id="home_thridpg">
-			<div id="how_tag" class="tag">
-					<a href="http://www.google.com"><h3>HERE'S HOW</h3></a>
+			<div id="why_tag" class="tag">
+					<a href="http://www.google.com"><h3>HERE'S WHY</h3></a>
 				</div>
-				<div id="secondpg_content">
+				<div id="thirdpg_content" class="pgcontent">
 					<div class="content">
-						<h2>Crowdfunding Can Be <span>Simple</span></h2>
+						<h2>Crowdfunding Is <span>Important</span></h2>
+					<br>
+					<br>
+					<hr>
+					<div class="why_sect_block">
+						<div class="thirty left_offset f_left">
+							<h4>WORTH YOUR <span>TIME</span></h4>
+						</div>
+						<div class="fifty f_right">
+							<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus. Aenean lacinia bibendum nulla sed consectetur. Donec id elit non mi porta gravida at eget metus.</p>
+						</div>
+					</div><!-- End Block -->
+					<hr>
+					<div class="why_sect_block">
+						<div class="fifty f_left">
+							<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus. Aenean lacinia bibendum nulla sed consectetur. Donec id elit non mi porta gravida at eget metus.</p>
+						</div>
+						<div class="thirty right_offset f_right">
+							<h4><span>YOU CAN</span> DO IT!</h4>
+						</div>
+					</div><!-- End Block -->
+					<hr>
+					<div class="why_sect_block">
+						<div class="thirty left_offset f_left">
+							<h4>WE WILL <span>HELP YOU</span></h4>
+						</div>
+						<div class="fifty f_right">
+							<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus. Aenean lacinia bibendum nulla sed consectetur. Donec id elit non mi porta gravida at eget metus.</p>
+						</div>
+					</div><!-- End Block -->
 					</div> <!-- End Content -->
-
 				</div><!-- End Secondpg_content -->
 
 		</div>

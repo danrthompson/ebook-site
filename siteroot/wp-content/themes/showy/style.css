@@ -5030,6 +5030,13 @@ body {
 	margin: 50px 0;
 }
 
+#home_page h4 {
+	font-weight: 300;
+	font-size: 38px;
+	color: #636363;
+	letter-spacing: 2px;
+}
+
 .content {
     margin: 0 auto;
 	max-width:960px;
@@ -5080,7 +5087,7 @@ a:hover{
 	transition: all 0.2s ease-in-out;
 }
 
-#how_tag{
+.tag{
 	width:300px;
 	text-align:center;
 	margin:auto;	
@@ -5096,13 +5103,28 @@ a:hover{
 
 }
 
-#secondpg_content{
+
+
+#why_tag h3{
+	background-color: #eff0f1;
+}
+
+#why_tag:hover h3{
+	background-color: #ccc;
+	color: white;
+
+}
+.pgcontent{
 	width: 100%;
-	background-color: white;
 	margin-top: -2px;
 	text-align:center;
-	height: 800px;
 	padding-top: 65px;
+
+}
+#secondpg_content{
+	background-color: white;
+	height: 850px;
+
 }
 
 
@@ -5234,7 +5256,73 @@ a:hover{
 	background-color: #aaa;
 }
 
+#home_thridpg{
+	position:relative;
+	margin-top:-50px;
+}
+
+#thirdpg_content{
+		background-color: #eff0f1;
+
+}
+
+#thirdpg_content span{
+	color: #df7e00;
+}
+
+.why_sect_block{
+	padding:50px;
+	height: 220px;
+	overflow: none;
+}
+
+.why_sect_block h4{
+	margin: 0;
+	padding:0;
+		line-height: 42px;
+}
+
+.why_sect_block p{
+	text-align: justify;
+}
+
+.f_right{
+	float: right;
+}
+
+.f_right h4{
+	text-align: left;
+}
+
+.f_left {
+	float: left;
+}
+
+.f_left h4{
+	text-align: right;
+}
+
+.thirty {
+	width: 30%;
+}
+
+.fifty {
+	width: 50%;
+}
+
+.left_offset {
+	margin-left: 15%;
+}
 
 
+.right_offset {
+	margin-right: 15%;
+}
 
+#thirdpg_content hr{
+	width: 150px;
+}
 
+.why_sect_block span{
+	font-weight: 600;
+}
