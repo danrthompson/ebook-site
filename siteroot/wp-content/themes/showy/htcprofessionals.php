@@ -5,124 +5,131 @@ Template Name: Professionals
 ?>  
 <?php get_header(); ?>
 
-<div id="content">
-	<div class="content-posts-full">
+		<div id="content">
+
+	<!--  Resource Content-->
+			<div class="content-posts clearfix">
 	
-			<!-- Create the filter menu -->
-		<div id="portfolio-filter-wrapper" class="clearfix">
-			<div id="filter-hide">
-			<?php
-				 $terms = get_terms("tagportfolio");
-				 $count = count($terms);
-				 echo '<ul id="portfolio-filter">';
-				 echo '<li><a href="#" data-filter="*" title="">All</a></li>';
-				 if ( $count > 0 ){
-						foreach ( $terms as $term ) {
-							$termname = strtolower($term->name);
-							$termname = str_replace(' ', '-', $termname);
-							echo '<li><a href="#" rel="'.$termname.'" data-filter=".'.$termname.'">'.$term->name.'</a></li>';
-						}
-				 }
-				 echo "</ul>";
-			?>
-			</div>
-				<div class="right-float">
-					<a href="#filter-hide" class="togglefilter" title="Filter Work"><i class="icon-reorder"></i></a>
+				<div class="entry-content">
+					<img src="<?php echo get_bloginfo('template_url') ?>/images/resources_title_img.png"/>
+					
+					<header>
+						<div class="archive-titlewrapper">
+							<h2 class="entry-title" id="resource_sect2">Booklist</h2>
+						</div>
+					</header>
+					
+					<div class="accent"></div>
+					<div class="posts-content">
+						<div class="featured-pros-wrapper">
+							<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+								<div class="flipper">
+									<div class="front">
+										a
+									</div>
+									<div class="back">
+										a
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="intro"> Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.</div>
+
+						<h5>Example Title</h5>
+						
+						<a href=""><h6>Resource Title</h6></a>
+						<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+
+						<a href=""><h6>The Title of the Second Resource</h6></a>
+						<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+
+						<a href=""><h6>Third Resource Name</h6></a>
+						<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+
+						<h5>The Second Sub-Heading Title</h5>
+
+						<a href=""><h6>Resource Title</h6></a>
+						<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+						<div class="centered">
+							<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
+						</div>
+
+						<header>
+						<div class="archive-titlewrapper">
+							<h2 class="entry-title" id="resource_sect1">Featured Resources</h2>
+						</div>
+						
+						</header>
+						
+						<div class="accent"></div>
+						<div class="posts-content">
+							<div class="intro"> Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.</div>
+
+							<h5>Example Title</h5>
+							
+							<a href=""><h6>Resource Title</h6></a>
+							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+
+							<a href=""><h6>The Title of the Second Resource</h6></a>
+							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+
+							<a href=""><h6>Third Resource Name</h6></a>
+							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+
+							<h5>The Second Sub-Heading Title</h5>
+
+							<a href=""><h6>Resource Title</h6></a>
+							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+							<div class="centered">
+								<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
+							</div>
+						</div>
+
+
+					</div>
+
 				</div>
-		</div>
-			<div id="portfolio-wrapper">
-			<?php
-				$loop = new WP_Query(array('post_type' => 'project', 'posts_per_page' => -1));
-				$count =0;
-			?>
-				<!-- Portfolio items list -->
-				<div id="portfolio-list">
-				<?php if ( $loop ) :
-					while ( $loop->have_posts() ) : $loop->the_post(); ?>
-						<?php
-						$terms = get_the_terms( $post->ID, 'tagportfolio' );
-						if ( $terms && ! is_wp_error( $terms ) ) :
-							$links = array();
-							foreach ( $terms as $term )
-							{
-								$links[] = $term->name;
-							}
-							$links = str_replace(' ', '-', $links);
-							$tax = join( " ", $links );
-						else :
-							$tax = '';
-						endif;
-						?>
-						<?php $infos = get_post_custom_values('_url'); ?>
-				
-<div class="portfolio-item two <?php echo strtolower($tax); ?>">
-	<!-- Display portfolio thumb -->
-	<?php if( has_post_thumbnail() ) {  ?>
-		<div class="front">
-			<?php the_post_thumbnail( 'large-image' ); ?>
-		</div>
-		<a class="featuredimage" href="<?php the_permalink(); ?>">
-		<div class="back">
-			<div class="caption-inner">
-						<div class="line"></div>
-						<h1 class="caption-header"><?php the_title(); ?></h1>
-						<p><?php echo strtolower($term->name); ?></p>
+
+
+			</div>	
+
+	<!-- Sidebar -->
+		<div class="sidebar-wrapper content">
+			<div id="sidebar" class="clearfix">
+				<div class="sidebar-inner">
+					<h1><span>Crowdfunding</span> Services</h1>
+					<hr>
+					<a href="http://www.google.com">Suggest A Group</a>
+					<hr>
+					
+					<ul class="sidebar-list">
+						<li class="sidebar-list-entry"><a href="#resource_sect1">Featured Services</a></li>
+						<li class="sidebar-list-entry"><a href="#resource_sect2">Booklist</a></li>
+						<li class="sidebar-list-entry"><a href="#resource_sect3">About Crowdfunding</a></li>
+						<li class="sidebar-list-entry"><a href="#resource_sect4">Idea Development</a></li>
+						<li class="sidebar-list-entry"><a href="#resource_sect5">Campaign Prep</a></li>
+						<li class="sidebar-list-entry"><a href="#resource_sect6">Manage The Campaign</a></li>
+						<li class="sidebar-list-entry"><a href="#resource_sect7">After The Campaign</a></li>
+					</ul>
+
+					<a href="www.google.com" id="campaign_services_link">Browse Resources</a>
+
+
+				</div>
 			</div>
 		</div>
-		</a>
-	<?php } ?>				
-</div>
-					<?php endwhile; else: ?>
-					<div class="error-not-found">Sorry, no portfolio entries found :(.</div>
-				<?php endif; ?>
+
+	<div class="clearfix"></div>
+
+	<!-- If there is pagination display load area -->
+	<div id="load" class="clearfix">
+				<div class="inside">
 				</div>
-				
-			</div> <!-- end #portfolio-wrapper-->
-			<!-- Portfolio filterable jQuery -->
-			<script>
-		jQuery(window).load(function ($) {
-	"use strict";	
-
-	var $container = $('#portfolio-wrapper');
-	$container.isotope({
-		filter: '*',
-		animationOptions: {
-			duration: 750,
-			easing: 'linear',
-			queue: false,
-		}
-	});
-
-	$('#portfolio-filter li a').click(function(){
-		var selector = $(this).attr('data-filter');
-		$container.isotope({
-			filter: selector,
-			animationOptions: {
-				duration: 750,
-				easing: 'linear',
-				queue: false,
-			}
-		});
-	  return false;
-	});
-
-	var $optionSets = $('#portfolio-filter'),
-	       $optionLinks = $optionSets.find('a');
-	 
-	       $optionLinks.click(function(){
-	          var $this = $(this);
-		  // don't proceed if already selected
-		  if ( $this.hasClass('selected') ) {
-		      return false;
-		  }
-	   var $optionSet = $this.parents('#portfolio-filter');
-	   $optionSet.find('.selected').removeClass('selected');
-	   $this.addClass('selected'); 
-	});
-
-				});
-			</script>
 	</div>
-	<br/>
+
+		
 </div>
-<?php get_footer(); ?>
+		</div>
+	
+			<?php get_footer(); ?>
