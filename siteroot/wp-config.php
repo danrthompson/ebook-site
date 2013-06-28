@@ -18,27 +18,27 @@
 /** The name of the database for WordPress */
 
 // remote db
-define('DB_NAME', 'ebooksitewordpress');
+// define('DB_NAME', 'ebooksitewordpress');
 // local db
-// define('DB_NAME', 'ebooksitewordpressimport');
+define('DB_NAME', 'ebooksitewordpressimport');
 
 /** MySQL database username */
 // remote
-define('DB_USER', 'dsquared');
+// define('DB_USER', 'dsquared');
 // local
-// define('DB_USER', 'root');
+define('DB_USER', 'root');
 
 /** MySQL database password */
 // remote
-define('DB_PASSWORD', 'dNd6482013');
+// define('DB_PASSWORD', 'dNd6482013');
 // local
-// define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', 'root');
 
 /** MySQL hostname */
 // remote
-define('DB_HOST', 'ebooksitewordpress.ccev9d5iopk9.us-east-1.rds.amazonaws.com:3306');
+// define('DB_HOST', 'ebooksitewordpress.ccev9d5iopk9.us-east-1.rds.amazonaws.com:3306');
 // local
-// define('DB_HOST', 'localhost');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
