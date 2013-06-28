@@ -11,11 +11,11 @@ Template Name: HTC Resources
 			<div class="content-posts clearfix">
 	
 				<div class="entry-content">
-					<img src="<?php echo get_bloginfo('template_url') ?>/images/central_graphic_placeholder.png"/>
+					<img src="<?php echo get_bloginfo('template_url') ?>/images/resources_title_img.png"/>
 					
 					<header>
 						<div class="archive-titlewrapper">
-							<h2 class="entry-title">Featured Resources</h2>
+							<h2 class="entry-title" id="resource_sect1">Featured Resources</h2>
 						</div>
 					</header>
 					
@@ -46,7 +46,7 @@ Template Name: HTC Resources
 
 					<header>
 						<div class="archive-titlewrapper">
-							<h2 class="entry-title">Featured Resources</h2>
+							<h2 class="entry-title" id="resource_sect2">Booklist</h2>
 						</div>
 					</header>
 					
@@ -73,7 +73,7 @@ Template Name: HTC Resources
 							<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
 						</div>
 					</div>
-					
+
 				</div>
 
 
@@ -89,13 +89,13 @@ Template Name: HTC Resources
 					<hr>
 					
 					<ul class="sidebar-list">
-						<li class="sidebar-list-entry"><a href="">Featured Resources</a></li>
-						<li class="sidebar-list-entry"><a href="">Booklist</a></li>
-						<li class="sidebar-list-entry"><a href="">About Crowdfunding</a></li>
-						<li class="sidebar-list-entry"><a href="">Idea Development</a></li>
-						<li class="sidebar-list-entry"><a href="">Campaign Prep</a></li>
-						<li class="sidebar-list-entry"><a href="">Manage The Campaign</a></li>
-						<li class="sidebar-list-entry"><a href="">After The Campaign</a></li>
+						<li class="sidebar-list-entry"><a href="#resource_sect1">Featured Resources</a></li>
+						<li class="sidebar-list-entry"><a href="#resource_sect2">Booklist</a></li>
+						<li class="sidebar-list-entry"><a href="#resource_sect3">About Crowdfunding</a></li>
+						<li class="sidebar-list-entry"><a href="#resource_sect4">Idea Development</a></li>
+						<li class="sidebar-list-entry"><a href="#resource_sect5">Campaign Prep</a></li>
+						<li class="sidebar-list-entry"><a href="#resource_sect6">Manage The Campaign</a></li>
+						<li class="sidebar-list-entry"><a href="#resource_sect7">After The Campaign</a></li>
 					</ul>
 
 					<a href="www.google.com" id="campaign_services_link">Helpful Services</a>
