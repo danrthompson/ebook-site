@@ -8,13 +8,17 @@ Template Name: HTC Homepage
 	<div id="home_page">
 		<div id="home_firstpg" class="content">
 			<div class="centerpiece">
-				<img src="<?php echo get_bloginfo('template_url') ?>/images/central_graphic_placeholder.png"/>
+				<ul id="mycarousel" class="jcarousel-skin-tango">
+				   <li><img src="<?php echo get_bloginfo('template_url') ?>/images/central_graphic_placeholder.png" alt="" /></li>
+				   <li><img src="<?php echo get_bloginfo('template_url') ?>/images/central_graphic_placeholder.png" alt="" /></li>
+				   <li><img src="<?php echo get_bloginfo('template_url') ?>/images/central_graphic_placeholder.png" alt="" /></li>
+				</ul>
 			</div>
 		</div>
 
 		<div id="home_secondpg">
 				<div id="how_tag" class="tag">
-					<a href="http://www.google.com"><h3>HERE'S HOW</h3></a>
+					<a href='javascript: void(0);' onclick="javascript: $('body').scrollTo('#how_tag',500, {'offset': {'top': -10}});"><h3>HERE'S HOW</h3></a>
 				</div>
 				<div id="secondpg_content" class="pgcontent">
 					<div class="content">
@@ -59,7 +63,7 @@ Template Name: HTC Homepage
 								penatibus parturient montes, nascetur ridiculus mus. Praesent commodo cursus magna, vel scelerisque nisl consectetur
 								et. Nullam quis risus <span>et magnis dis</span> eget urna mollis ornare vel eu leo.
 							</p>
-							<a href="http://www.google.com">Here's how to start</a>
+							<a href="/field-guide">Here's how to start</a>
 						</div>
 					</div> <!-- End Content -->
 
@@ -68,7 +72,7 @@ Template Name: HTC Homepage
 
 		<div id="home_thridpg">
 			<div id="why_tag" class="tag">
-					<a href="http://www.google.com"><h3>HERE'S WHY</h3></a>
+					<a href='javascript: void(0);' onclick="javascript: $('body').scrollTo('#why_tag',500, {'offset': {'top': -10}});"><h3>HERE'S WHY</h3></a>
 				</div>
 				<div id="thirdpg_content" class="pgcontent">
 					<div class="content">
@@ -104,7 +108,7 @@ Template Name: HTC Homepage
 					</div><!-- End Block -->
 					</div> <!-- End Content -->
 					
-					<a href="http://www.google.com" id="lets_go_button">Let's Go!</a>
+					<a href="/field-guide" id="lets_go_button">Let's Go!</a>
 				</div><!-- End Secondpg_content -->
 
 		</div>

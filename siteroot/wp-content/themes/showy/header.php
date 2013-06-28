@@ -29,6 +29,18 @@ global $data;
 
 	<?php if ( is_singular() ) wp_enqueue_script( 'comment-reply' ); wp_head(); ?>
 
+	<script type="text/javascript" src="/wp-includes/js/jquery/jquery-1.9.1.min.js"></script>
+	<script type="text/javascript" src="/wp-includes/js/jquery/jquery.scrollTo.min.js"></script>
+	<script type="text/javascript" src="/wp-includes/js/jquery/jquery.jcarousel.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="/wp-includes/skins/tango/skin.css" />
+	<link href="/wp-includes/css/jscarousel-style.css" rel="stylesheet" type="text/css" />
+
+		<script type="text/javascript">
+	jQuery(document).ready(function() {
+	    jQuery('#mycarousel').jcarousel({'scroll': 1, 'visible': 1, 'auto': 0, 'wrap': 'circular'});
+	});
+	</script>
+
 </head>
 
 <body <?php body_class(); ?>>
