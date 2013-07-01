@@ -5660,5 +5660,13 @@ a:hover{
 
 /*  */
 
+.htc-featured-services-text {
+	text-align: justify;
+}
+
+.featured-pros-wrapper {
+	height: 624px;
+}
+
 
 
