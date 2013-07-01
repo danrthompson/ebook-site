@@ -5,6 +5,7 @@ Template Name: Professionals
 ?>  
 <?php get_header(); ?>
 
+
 		<div id="content">
 
 	<!--  Resource Content-->
@@ -33,6 +34,8 @@ Template Name: Professionals
 								</div>
 							</div>
 						</div>
+
+
 
 						<div class="intro"> Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.</div>
 

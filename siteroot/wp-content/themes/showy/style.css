@@ -5410,7 +5410,7 @@ a:hover{
 		background-color: #eff0f1;
 
 }
-#thirdpg_content .content{
+#thirdpg_content .content, #why_pg .content{
 		padding-top: 50px;
 		background-color: white;
 		-webkit-border-radius: 25px;
@@ -5487,6 +5487,10 @@ a:hover{
 	color: #279ccc;
 }
 
+#orange{
+	color: #df7e00;
+}
+
 .why_sect_block #yellow {
 	color: #dfbd00;
 }
@@ -5510,6 +5514,22 @@ a:hover{
 	background-color: #636363;
 }
 
+.img_txt_by_side{
+	width:80%;
+	margin: auto;
+}
+
+.img_text_by_side img{
+	width: 50%;
+}
+
+#central_img {
+	width: 80%;
+}
+
+.block{
+	display: block;
+}
 /* ////////// Flip Functionality ///////////// */
 /* entire container, keeps perspective */
 .flip-container {
@@ -5559,4 +5579,6 @@ a:hover{
 		background-image: url(/wp-content/themes/showy/images/flip_back_test.png);
 
 }
+
+
 
