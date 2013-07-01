@@ -15,23 +15,69 @@ Template Name: Professionals
 					
 					<header>
 						<div class="archive-titlewrapper">
-							<h2 class="entry-title" id="resource_sect2">Booklist</h2>
+							<h2 class="entry-title" id="resource_sect2">Featured Services</h2>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, puis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 						</div>
 					</header>
 					
 					<div class="accent"></div>
 					<div class="posts-content">
 						<div class="featured-pros-wrapper">
-							<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
-								<div class="flipper">
-									<div class="front">
-										a
+							<div class="featured-pros-top-row">
+								<div class="first-feature">
+									<div id="htc-feature-1" class="htc-hover htc-panel">
+										<div class="htc-front">
+
+										</div>
+										<div class="htc-back">
+											<div class="htc-pad">
+												<h2>Test title</h2>
+<!-- 												<h4>Test category</h4>
+												<p>Test desc</p>
+ -->											</div>
+										</div>
 									</div>
-									<div class="back">
-										a
+								</div>
+								<div class="second-feature">
+									<div id="htc-feature-2" class="htc-hover htc-panel">
+										<div class="htc-front">
+
+										</div>
+										<div class="htc-back">
+											<div class="htc-pad">
+												<h2>check you on the flip side</h2>
+											</div>
+										</div>
 									</div>
 								</div>
 							</div>
+							<div class="featured-pros-bottom-row">
+								<div class="first-feature">
+									<div id="htc-feature-3" class="htc-hover htc-panel">
+										<div class="htc-front">
+
+										</div>
+										<div class="htc-back">
+											<div class="htc-pad">
+												<h2>check you on the flip side</h2>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="second-feature">
+									<div id="htc-feature-4" class="htc-hover htc-panel">
+										<div class="htc-front">
+
+										</div>
+										<div class="htc-back">
+											<div class="htc-pad">
+												<h2>check you on the flip side</h2>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
 						</div>
 
 						<div class="intro"> Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.</div>

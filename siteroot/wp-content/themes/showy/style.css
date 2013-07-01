@@ -5512,51 +5512,134 @@ a:hover{
 
 /* ////////// Flip Functionality ///////////// */
 /* entire container, keeps perspective */
-.flip-container {
-	perspective: 1000;
-}
-	/* flip the pane when hovered */
-	.flip-container:hover .flipper, .flip-container.hover .flipper {
-		transform: rotateY(180deg);
-	}
 
-.flip-container, .front, .back {
-	width: 320px;
-	height: 480px;
-}
-
-/* flip speed goes here */
-.flipper {
-	transition: 0.6s;
-	transform-style: preserve-3d;
-
+.htc-panel {
+	float: left;
+	width: 312px;
+	height: 312px;
+	/*margin: 5px;*/
 	position: relative;
+	-webkit-perspective: 600px;
+	-moz-perspective: 600px;
 }
 
-/* hide back of pane during swap */
-.front, .back {
-	backface-visibility: hidden;
-
+/* --make sure to declare a default for every property that you want animated --*/
+/* --general styles, including Y axis rotation --*/
+.htc-panel .htc-front {
+	float: none;
 	position: absolute;
 	top: 0;
 	left: 0;
+	z-index: 900;
+	width: inherit;
+	height: inherit;
+	/*background: #6b7077;*/
+	text-align: center;
+
+	-webkit-transform: rotateX(0deg) rotateY(0deg);
+	-moz-transform: rotateX(0deg) rotateY(0deg);
+	-o-transform: rotateX(0deg) rotateY(0deg);
+	-ms-transform: rotateX(0deg) rotateY(0deg);
+	transform: rotateX(0deg) rotateY(0deg);
+
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	-ms-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden; /* --transition is the magic sauce for animation --*/
+
+-webkit-transition: all .4s ease-in-out;
+	-moz-transition: all .4s ease-in-out;
+	-o-transition: all .4s ease-in-out;
+	-ms-transition: all .4s ease-in-out;
+	transition: all .4s ease-in-out;
+
+	-webkit-background-size: 100%;
+	-moz-background-size: 100%;
+	background-size: 100%;
 }
 
-/* front pane, placed above back */
-.front {
-	width: 300px;
-	height: 300px;
-	z-index: 2;
-	background-image: url(/wp-content/themes/showy/images/flip_front_test.png);
-
-}
-
-/* back, initially hidden pane */
-.back {
-	width: 300px;
-	height: 300px;
+.htc-panel.htc-flip .htc-front {
+	z-index: 900;
+/*	border-color: #eee;
+	background: #333;
+*/
+	-webkit-transform: rotateY(180deg);
+	-moz-transform: rotateY(180deg);
+	-o-transform: rotateY(180deg);
+	-ms-transform: rotateY(180deg);
 	transform: rotateY(180deg);
-		background-image: url(/wp-content/themes/showy/images/flip_back_test.png);
+
+
+	-webkit-background-size: 100%;
+	-moz-background-size: 100%;
+	background-size: 100%;
+}
+
+.htc-panel .htc-back {
+	float: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 800;
+	width: inherit;
+	height: inherit;
+	/*background: #333;*/
+	/*text-shadow: 1px 1px 1px rgba(0,0,0,0.6);*/
+
+	-webkit-transform: rotateY(-180deg);
+	-moz-transform: rotateY(-180deg);
+	-o-transform: rotateY(-180deg);
+	-ms-transform: rotateY(-180deg);
+	transform: rotateY(-180deg);
+
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	-ms-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden; /* --transition is the magic sauce for animation --*/
+
+-webkit-transition: all .4s ease-in-out;
+	-moz-transition: all .4s ease-in-out;
+	-o-transition: all .4s ease-in-out;
+	-ms-transition: all .4s ease-in-out;
+	transition: all .4s ease-in-out;
+}
+
+.htc-panel.htc-flip .htc-back {
+	z-index: 1000;
+	background: #73d2b9;
+
+	-webkit-transform: rotateX(0deg) rotateY(0deg);
+	-moz-transform: rotateX(0deg) rotateY(0deg);
+	-o-transform: rotateX(0deg) rotateY(0deg);
+	-ms-transform: rotateX(0deg) rotateY(0deg);
+	transform: rotateX(0deg) rotateY(0deg);
+
 
 }
+
+#htc-feature-1 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/test_img_1.jpg);
+}
+
+#htc-feature-2 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/test_img_2.jpg);
+}
+
+#htc-feature-3 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/test_img_3.jpg);
+}
+
+#htc-feature-4 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/test_img_4.jpg);
+}
+
+/*  */
+
+
+
+
 

@@ -1,0 +1,8 @@
+make professionals button light up when on that page
+make sidebar look like spec
+center copy under featured services and change font
+under "featured services" add 4 tiles that flip
+	side1: image of service
+	side2: service name / brief desc
+
+element finder
