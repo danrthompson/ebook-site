@@ -33,10 +33,10 @@ Template Name: Professionals
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Test title</h2>
-<!-- 												<h4>Test category</h4>
-												<p>Test desc</p>
- -->											</div>
+												<h2>Lorem ipsum</h2>
+												<h4>Lorem ipsum dolor</h4>
+												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+											</div>
 										</div>
 									</div>
 								</div>
@@ -47,7 +47,9 @@ Template Name: Professionals
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>check you on the flip side</h2>
+												<h2>Lorem ipsum</h2>
+												<h4>Lorem ipsum dolor</h4>
+												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
 											</div>
 										</div>
 									</div>
@@ -61,7 +63,9 @@ Template Name: Professionals
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>check you on the flip side</h2>
+												<h2>Lorem ipsum</h2>
+												<h4>Lorem ipsum dolor</h4>
+												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
 											</div>
 										</div>
 									</div>
@@ -73,7 +77,9 @@ Template Name: Professionals
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>check you on the flip side</h2>
+												<h2>Lorem ipsum</h2>
+												<h4>Lorem ipsum dolor</h4>
+												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
 											</div>
 										</div>
 									</div>
@@ -96,6 +102,70 @@ Template Name: Professionals
 
 
 						<div class="intro"> Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.</div>
+
+						<div class="featured-pros-wrapper">
+							<div class="featured-pros-top-row">
+								<div class="first-feature">
+									<div id="htc-feature-1" class="htc-hover htc-panel">
+										<div class="htc-front">
+
+										</div>
+										<div class="htc-back">
+											<div class="htc-pad">
+												<h2>Lorem ipsum</h2>
+												<h4>Lorem ipsum dolor</h4>
+												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="second-feature">
+									<div id="htc-feature-2" class="htc-hover htc-panel">
+										<div class="htc-front">
+
+										</div>
+										<div class="htc-back">
+											<div class="htc-pad">
+												<h2>Lorem ipsum</h2>
+												<h4>Lorem ipsum dolor</h4>
+												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="featured-pros-bottom-row">
+								<div class="first-feature">
+									<div id="htc-feature-3" class="htc-hover htc-panel">
+										<div class="htc-front">
+
+										</div>
+										<div class="htc-back">
+											<div class="htc-pad">
+												<h2>Lorem ipsum</h2>
+												<h4>Lorem ipsum dolor</h4>
+												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="second-feature">
+									<div id="htc-feature-4" class="htc-hover htc-panel">
+										<div class="htc-front">
+
+										</div>
+										<div class="htc-back">
+											<div class="htc-pad">
+												<h2>Lorem ipsum</h2>
+												<h4>Lorem ipsum dolor</h4>
+												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+						</div>
 
 						<h5>Example Title</h5>
 						
@@ -126,6 +196,70 @@ Template Name: Professionals
 						<div class="accent"></div>
 						<div class="posts-content">
 							<div class="intro"> Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.</div>
+
+						<div class="featured-pros-wrapper">
+							<div class="featured-pros-top-row">
+								<div class="first-feature">
+									<div id="htc-feature-1" class="htc-hover htc-panel">
+										<div class="htc-front">
+
+										</div>
+										<div class="htc-back">
+											<div class="htc-pad">
+												<h2>Lorem ipsum</h2>
+												<h4>Lorem ipsum dolor</h4>
+												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="second-feature">
+									<div id="htc-feature-2" class="htc-hover htc-panel">
+										<div class="htc-front">
+
+										</div>
+										<div class="htc-back">
+											<div class="htc-pad">
+												<h2>Lorem ipsum</h2>
+												<h4>Lorem ipsum dolor</h4>
+												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="featured-pros-bottom-row">
+								<div class="first-feature">
+									<div id="htc-feature-3" class="htc-hover htc-panel">
+										<div class="htc-front">
+
+										</div>
+										<div class="htc-back">
+											<div class="htc-pad">
+												<h2>Lorem ipsum</h2>
+												<h4>Lorem ipsum dolor</h4>
+												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="second-feature">
+									<div id="htc-feature-4" class="htc-hover htc-panel">
+										<div class="htc-front">
+
+										</div>
+										<div class="htc-back">
+											<div class="htc-pad">
+												<h2>Lorem ipsum</h2>
+												<h4>Lorem ipsum dolor</h4>
+												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+						</div>
 
 							<h5>Example Title</h5>
 							
@@ -158,6 +292,71 @@ Template Name: Professionals
 						<div class="posts-content">
 							<div class="intro"> Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.</div>
 
+
+							<div class="featured-pros-wrapper">
+								<div class="featured-pros-top-row">
+									<div class="first-feature">
+										<div id="htc-feature-1" class="htc-hover htc-panel">
+											<div class="htc-front">
+
+											</div>
+											<div class="htc-back">
+												<div class="htc-pad">
+													<h2>Lorem ipsum</h2>
+													<h4>Lorem ipsum dolor</h4>
+													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="second-feature">
+										<div id="htc-feature-2" class="htc-hover htc-panel">
+											<div class="htc-front">
+
+											</div>
+											<div class="htc-back">
+												<div class="htc-pad">
+													<h2>Lorem ipsum</h2>
+													<h4>Lorem ipsum dolor</h4>
+													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="featured-pros-bottom-row">
+									<div class="first-feature">
+										<div id="htc-feature-3" class="htc-hover htc-panel">
+											<div class="htc-front">
+
+											</div>
+											<div class="htc-back">
+												<div class="htc-pad">
+													<h2>Lorem ipsum</h2>
+													<h4>Lorem ipsum dolor</h4>
+													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="second-feature">
+										<div id="htc-feature-4" class="htc-hover htc-panel">
+											<div class="htc-front">
+
+											</div>
+											<div class="htc-back">
+												<div class="htc-pad">
+													<h2>Lorem ipsum</h2>
+													<h4>Lorem ipsum dolor</h4>
+													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+							</div>
+
 							<h5>Example Title</h5>
 							
 							<a href=""><h6>Resource Title</h6></a>
@@ -188,6 +387,70 @@ Template Name: Professionals
 						<div class="accent"></div>
 						<div class="posts-content">
 							<div class="intro"> Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.</div>
+
+							<div class="featured-pros-wrapper">
+								<div class="featured-pros-top-row">
+									<div class="first-feature">
+										<div id="htc-feature-1" class="htc-hover htc-panel">
+											<div class="htc-front">
+
+											</div>
+											<div class="htc-back">
+												<div class="htc-pad">
+													<h2>Lorem ipsum</h2>
+													<h4>Lorem ipsum dolor</h4>
+													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="second-feature">
+										<div id="htc-feature-2" class="htc-hover htc-panel">
+											<div class="htc-front">
+
+											</div>
+											<div class="htc-back">
+												<div class="htc-pad">
+													<h2>Lorem ipsum</h2>
+													<h4>Lorem ipsum dolor</h4>
+													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="featured-pros-bottom-row">
+									<div class="first-feature">
+										<div id="htc-feature-3" class="htc-hover htc-panel">
+											<div class="htc-front">
+
+											</div>
+											<div class="htc-back">
+												<div class="htc-pad">
+													<h2>Lorem ipsum</h2>
+													<h4>Lorem ipsum dolor</h4>
+													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="second-feature">
+										<div id="htc-feature-4" class="htc-hover htc-panel">
+											<div class="htc-front">
+
+											</div>
+											<div class="htc-back">
+												<div class="htc-pad">
+													<h2>Lorem ipsum</h2>
+													<h4>Lorem ipsum dolor</h4>
+													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+							</div>
 
 							<h5>Example Title</h5>
 							
@@ -220,6 +483,70 @@ Template Name: Professionals
 						<div class="posts-content">
 							<div class="intro"> Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.</div>
 
+							<div class="featured-pros-wrapper">
+								<div class="featured-pros-top-row">
+									<div class="first-feature">
+										<div id="htc-feature-1" class="htc-hover htc-panel">
+											<div class="htc-front">
+
+											</div>
+											<div class="htc-back">
+												<div class="htc-pad">
+													<h2>Lorem ipsum</h2>
+													<h4>Lorem ipsum dolor</h4>
+													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="second-feature">
+										<div id="htc-feature-2" class="htc-hover htc-panel">
+											<div class="htc-front">
+
+											</div>
+											<div class="htc-back">
+												<div class="htc-pad">
+													<h2>Lorem ipsum</h2>
+													<h4>Lorem ipsum dolor</h4>
+													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="featured-pros-bottom-row">
+									<div class="first-feature">
+										<div id="htc-feature-3" class="htc-hover htc-panel">
+											<div class="htc-front">
+
+											</div>
+											<div class="htc-back">
+												<div class="htc-pad">
+													<h2>Lorem ipsum</h2>
+													<h4>Lorem ipsum dolor</h4>
+													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="second-feature">
+										<div id="htc-feature-4" class="htc-hover htc-panel">
+											<div class="htc-front">
+
+											</div>
+											<div class="htc-back">
+												<div class="htc-pad">
+													<h2>Lorem ipsum</h2>
+													<h4>Lorem ipsum dolor</h4>
+													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+							</div>
+
 							<h5>Example Title</h5>
 							
 							<a href=""><h6>Resource Title</h6></a>
@@ -251,6 +578,70 @@ Template Name: Professionals
 						<div class="posts-content">
 							<div class="intro"> Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.</div>
 
+							<div class="featured-pros-wrapper">
+								<div class="featured-pros-top-row">
+									<div class="first-feature">
+										<div id="htc-feature-1" class="htc-hover htc-panel">
+											<div class="htc-front">
+
+											</div>
+											<div class="htc-back">
+												<div class="htc-pad">
+													<h2>Lorem ipsum</h2>
+													<h4>Lorem ipsum dolor</h4>
+													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="second-feature">
+										<div id="htc-feature-2" class="htc-hover htc-panel">
+											<div class="htc-front">
+
+											</div>
+											<div class="htc-back">
+												<div class="htc-pad">
+													<h2>Lorem ipsum</h2>
+													<h4>Lorem ipsum dolor</h4>
+													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="featured-pros-bottom-row">
+									<div class="first-feature">
+										<div id="htc-feature-3" class="htc-hover htc-panel">
+											<div class="htc-front">
+
+											</div>
+											<div class="htc-back">
+												<div class="htc-pad">
+													<h2>Lorem ipsum</h2>
+													<h4>Lorem ipsum dolor</h4>
+													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="second-feature">
+										<div id="htc-feature-4" class="htc-hover htc-panel">
+											<div class="htc-front">
+
+											</div>
+											<div class="htc-back">
+												<div class="htc-pad">
+													<h2>Lorem ipsum</h2>
+													<h4>Lorem ipsum dolor</h4>
+													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+							</div>
+
 							<h5>Example Title</h5>
 							
 							<a href=""><h6>Resource Title</h6></a>
@@ -281,6 +672,70 @@ Template Name: Professionals
 						<div class="accent"></div>
 						<div class="posts-content">
 							<div class="intro"> Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.</div>
+
+							<div class="featured-pros-wrapper">
+								<div class="featured-pros-top-row">
+									<div class="first-feature">
+										<div id="htc-feature-1" class="htc-hover htc-panel">
+											<div class="htc-front">
+
+											</div>
+											<div class="htc-back">
+												<div class="htc-pad">
+													<h2>Lorem ipsum</h2>
+													<h4>Lorem ipsum dolor</h4>
+													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="second-feature">
+										<div id="htc-feature-2" class="htc-hover htc-panel">
+											<div class="htc-front">
+
+											</div>
+											<div class="htc-back">
+												<div class="htc-pad">
+													<h2>Lorem ipsum</h2>
+													<h4>Lorem ipsum dolor</h4>
+													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="featured-pros-bottom-row">
+									<div class="first-feature">
+										<div id="htc-feature-3" class="htc-hover htc-panel">
+											<div class="htc-front">
+
+											</div>
+											<div class="htc-back">
+												<div class="htc-pad">
+													<h2>Lorem ipsum</h2>
+													<h4>Lorem ipsum dolor</h4>
+													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="second-feature">
+										<div id="htc-feature-4" class="htc-hover htc-panel">
+											<div class="htc-front">
+
+											</div>
+											<div class="htc-back">
+												<div class="htc-pad">
+													<h2>Lorem ipsum</h2>
+													<h4>Lorem ipsum dolor</h4>
+													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+							</div>
 
 							<h5>Example Title</h5>
 							

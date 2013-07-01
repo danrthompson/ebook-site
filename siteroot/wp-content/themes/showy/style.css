@@ -5668,5 +5668,24 @@ a:hover{
 	height: 624px;
 }
 
+.htc-back .htc-pad {
+
+}
+
+.htc-back .htc-pad h2 {
+	text-transform: uppercase;
+	color: white;
+	font-weight: 300;
+}
+
+.htc-back .htc-pad h4 {
+	color: white;
+	font-weight: 500;
+}
+
+.htc-back .htc-pad p {
+	color: white;
+	font-weight: 300;
+}
 
 
