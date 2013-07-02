@@ -1,8 +1,3 @@
-<?php
-/*
-Template Name: Service Page
-*/
-?>
 <?php get_header(); ?>
 		<div id="content">
 			<div class="content-posts">
