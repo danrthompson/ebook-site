@@ -2293,9 +2293,9 @@ h1.logo-text:hover {
 	width: 48%;
 }
 
-.one-third {
-	width: 30%;
-}
+
+
+.
 
 .two-third {
 	width: 63.33%;
@@ -5164,7 +5164,7 @@ body {
 
 /* ------------- Home Page  ------------*/
 
-#home_page h2 {
+.pgcontent h2 {
 	font-weight: 300;
 	font-size: 52px;
 	color: #636363;
@@ -5172,7 +5172,7 @@ body {
 	margin: 50px 0;
 }
 
-#home_page h4 {
+.pgcontent h4 {
 	font-weight: 300;
 	font-size: 38px;
 	color: #636363;
@@ -5184,8 +5184,8 @@ body {
 	max-width:960px;
 		min-width:960px;
 
-	padding-left:50px;
-	padding-right:50px;
+/*	padding-left:50px;
+	padding-right:50px;*/
 	padding-bottom: 65px;
 }
 
@@ -5465,6 +5465,14 @@ a:hover{
 	width: 50%;
 }
 
+.sixty {
+	width: 60%;
+}
+
+.one-third {
+	width: 30%;
+}
+
 .left_offset {
 	margin-left: 15%;
 }
@@ -5478,17 +5486,21 @@ a:hover{
 	width: 150px;
 }
 
-.why_sect_block span{
+.why_sect_block span, h4 span{
 	font-weight: 800;
 	font-size:48px;
 }
 
-.why_sect_block #blue {
+#blue {
 	color: #279ccc;
 }
 
 #orange{
 	color: #df7e00;
+}
+
+.teal {
+	color: #50a28b;
 }
 
 .why_sect_block #yellow {
@@ -5660,6 +5672,7 @@ a:hover{
 
 /*  */
 
+<<<<<<< HEAD
 .htc-featured-services-text {
 	text-align: justify;
 }
@@ -5686,6 +5699,113 @@ a:hover{
 .htc-back .htc-pad p {
 	color: white;
 	font-weight: 300;
+=======
+.why_pg_central_content {
+	width: 80%;
+	margin: auto;
+	display: block;
+	padding-bottom: 80px;
+}
+
+.why_pg_central_content p{
+	font-size: 24px;
+	line-height: 32px;
+	text-align: justify;
+/*	color: #636363;*/
+	color: #999;
+
+}
+
+.why_pg_central_content .wide_img {
+	width: 95%;
+	margin: auto;
+	padding: 25px;
+	margin-bottom: 25px;
+
+}
+
+.half {
+	width: 45%;
 }
 
 
+.in-text {
+	margin: 15px 0 10px 25px;
+	padding: 0 2%;
+
+}
+
+.why_pg_central_content h5{
+	font-size: 30px;
+	font-weight: 700;
+	text-align: left;
+	letter-spacing: 1px;
+	margin-bottom:24px;
+}
+
+#larger_p_text{
+	font-weight:200;
+	font-size: 24px !important;
+	}
+
+#why_page .pgcontent{
+	padding-top: 0;
+}
+
+#anyone-can-wrapper{
+	width: 90%;
+	padding-top: 20px;
+	margin-left: 10%;
+	overflow: hidden;
+}
+
+#anyone-can-wrapper p{
+	font-size: 18px;
+}
+
+#anyone-can-wrapper a {
+	font-weight: 600;
+}
+
+
+#anyone-can-wrapper a:hover {
+	color: #636363;
+}
+
+.why_pg_central_content hr {
+	width: 80%;
+	opacity: .3;
+}
+
+.semi-bold {
+	font-weight: 600;
+}
+
+.whitebg {
+	background-color: #white;
+	width: 100%;
+}
+.links-sect {
+	padding-top: 30px;
+}
+
+.links-sect .dividerlines {
+		position: relative;
+		top: -35px;
+}
+
+.dividerlines hr{
+
+	margin-top:10px;
+>>>>>>> 5c28e16841120094334b12d44882e4db21b3c98d
+}
+
+.side-by-side-imgs {
+	overflow: hidden;
+	padding: 15px 0 35px 0;
+}
+
+.bottom-button-wrapper {
+	width: 100%;
+	text-align: center;
+}
