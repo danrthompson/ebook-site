@@ -45,7 +45,7 @@ Template Name: Ebook Page
 					<div class="half right-float top-margin">
 						<h5 id="right-float"> This Is How To Start</h4>
 						<h5><span class="yellow thick-title right-float">LEARNING</span></h4>
-						<div class="accent yellow"></div>
+						<div class="accent orange"></div>
 						<p>
 						Crowdfunding - the collective effort across a group to make a particular idea a reality - is taking the world by storm. In 2011, entrepreneurs raised over $1.5 Billion to make their ideas a reality. This year, that number is expected to grow to $5.1 Billion.
 						</p>

@@ -5671,6 +5671,34 @@ a:hover{
 
 /*  */
 
+.htc-featured-services-text {
+	text-align: justify;
+}
+
+.featured-pros-wrapper {
+	height: 624px;
+}
+
+.htc-back .htc-pad {
+
+}
+
+.htc-back .htc-pad h2 {
+	text-transform: uppercase;
+	color: white;
+	font-weight: 300;
+}
+
+.htc-back .htc-pad h4 {
+	color: white;
+	font-weight: 500;
+}
+
+.htc-back .htc-pad p {
+	color: white;
+	font-weight: 300;
+}
+
 .why_pg_central_content {
 	width: 80%;
 	margin: auto;
@@ -5784,6 +5812,7 @@ a:hover{
 }
 
 
+
 .ebook_pg{
 
 }
@@ -5861,4 +5890,4 @@ a:hover{
 }
 
 
-.
+
