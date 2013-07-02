@@ -12,7 +12,7 @@ Template Name: Professionals
 			<div class="content-posts clearfix">
 	
 				<div class="entry-content">
-					<img src="<?php echo get_bloginfo('template_url') ?>/images/resources_title_img.png"/>
+<!-- 					<img src="<?php echo get_bloginfo('template_url') ?>/images/resources_title_img.png"/>
 					
 					<header>
 						<div class="archive-titlewrapper">
@@ -20,10 +20,10 @@ Template Name: Professionals
 						</div>
 					</header>
 					
-					<div class="accent"></div>
+					<div class="accent"></div> -->
 						
 					<div class="posts-content">
-					<p class="htc-featured-services-text intro">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+<!-- 					<p class="htc-featured-services-text intro">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p> -->
 						<div class="featured-pros-wrapper">
 							<div class="featured-pros-top-row">
 								<div class="first-feature">
@@ -775,16 +775,16 @@ Template Name: Professionals
 					<hr>
 					
 					<ul class="sidebar-list">
-						<li class="sidebar-list-entry"><a href="#resource_sect1">Featured Services</a></li>
+						<!-- <li class="sidebar-list-entry"><a href="#resource_sect1">Featured Services</a></li> -->
 						<li class="sidebar-list-entry"><a href="#resource_sect2">Advice and Consulting</a></li>
 						<li class="sidebar-list-entry"><a href="#resource_sect3">Campaign Management Tools</a></li>
 						<li class="sidebar-list-entry"><a href="#resource_sect4">Video Production</a></li>
 						<li class="sidebar-list-entry"><a href="#resource_sect5">Website Development</a></li>
 						<li class="sidebar-list-entry"><a href="#resource_sect6">Graphic Design</a></li>
 						<li class="sidebar-list-entry"><a href="#resource_sect7">PR and Marketing</a></li>
-						<li class="sidebar-list-entry"><a href="#resource_sect8">Misc</a></li>
+						<li class="sidebar-list-entry"><a href="#resource_sect8">MISCELLANEOUS</a></li>
 					</ul>
-
+ 
 					<a href="#resource_sect9" id="campaign_services_link">By Campaign Type</a>
 
 

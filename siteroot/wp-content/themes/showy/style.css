@@ -1932,7 +1932,7 @@ h1.logo-text:hover {
 	color: #52a18a;
 	font-size: 24px;
 	text-transform: uppercase;
-	margin-top: 35px;
+	margin-top: 40px;
 	margin-bottom: 30px;
 }
 
@@ -1941,7 +1941,7 @@ h1.logo-text:hover {
 	font-weight: 600;
 	color: gray;
 	text-transform: uppercase;
-	margin: 25px 0px 5px 50px;
+	margin: 20px 0px 0px 50px;
 }
 
 .posts-content a h6:hover{
@@ -1958,6 +1958,7 @@ h1.logo-text:hover {
 	margin-left: 50px;
 	font-size: 18px;
 	margin-bottom: 0px;
+	line-height: 22px;
 }
 
 .entry-title {
@@ -1967,8 +1968,9 @@ h1.logo-text:hover {
 	letter-spacing: -1px;
 	text-align: left;
 	margin: 0px 0 0px 0;
-	font-size: 1.80em;
+	font-size: 2.80em;
 	margin-bottom:10px;
+	font-weight: 300;
 }
 
 .entry-title a {
@@ -5844,6 +5846,7 @@ a:hover{
 	color: #636363;
 }
 
+
 .button-outline{
 	padding: 5px 20px;
 	border: 1px solid #50a28b;
@@ -5876,6 +5879,39 @@ a:hover{
 	color: white;
 }
 
+.blue-button-outline{
+	padding: 5px 20px;
+	border: 1px solid #279ccc;
+/*	margin: 0 20px 0 0;
+*/	-moz-border-radius    : 10px;
+  	-webkit-border-radius : 10px;  
+  	border-radius         : 10px;
+  	color: #279ccc;
+}
+
+.blue-button-outline:hover{
+	padding: 5px 20px;
+	border: 1px solid #26b0db;
+	background-color: #26b0db;
+	color: white;
+}
+
+.blue-button-solid{
+	padding: 5px 20px;
+	margin: 0 0 0 20px;
+	background-color: #279ccc;
+	color: white;
+	-moz-border-radius    : 10px;
+  	-webkit-border-radius : 10px;  
+  	border-radius         : 10px;
+
+}
+
+.blue-button-solid:hover{
+	background-color: #26b0db;
+	color: white;
+}
+
 .ebook_buttons {
 	margin-top: 10px;
 }
@@ -5889,5 +5925,20 @@ a:hover{
 	padding-left: 0 !important;
 }
 
+.text-right{
+	text-align: right !important;
+}
+
+.accent_wrapper_right{
+	text-align: right;
+	overflow: hidden;
+	height: 4px;
+	padding-bottom: 20px;
+
+}
 
 
+.accent_wrapper_right .accent{
+	height: 4px;
+	float: right;
+}

@@ -40,18 +40,18 @@ Template Name: Ebook Page
 			
 				<div class="why_pg_central_content">
 					<div class="half right-float">
-						<img class="wide_img" id="kit-img" src="<?php echo get_bloginfo('template_url') ?>/images/book_placeholder.png"/>
+						<img class="wide_img" id="kit-img" src="<?php echo get_bloginfo('template_url') ?>/images/kit_placeholder.png"/>
 					</div>
-					<div class="half right-float top-margin">
-						<h5 id="right-float"> This Is How To Start</h4>
-						<h5><span class="yellow thick-title right-float">LEARNING</span></h4>
-						<div class="accent orange"></div>
+					<div class="half left-float top-margin">
+						<h5 class="text-right"> This Is How To Start</h4>
+						<h5><span id="blue" class="thick-title right-float">LEARNING</span></h4>
+						<div class="accent_wrapper_right"><div class="accent orange"></div></div>
 						<p>
 						Crowdfunding - the collective effort across a group to make a particular idea a reality - is taking the world by storm. In 2011, entrepreneurs raised over $1.5 Billion to make their ideas a reality. This year, that number is expected to grow to $5.1 Billion.
 						</p>
 						<div class="right-float ebook_buttons">
-							<a href="http://google.com" class="float-left button-outline teal">PREVIEW</a>
-							<a href="http://google.com" class="float-left button-solid teal">GET IT!</a>
+							<a href="http://google.com" class="float-left blue-button-outline">PREVIEW</a>
+							<a href="http://google.com" class="float-left blue-button-solid">GET IT!</a>
 						</div>
 					</div>
 				</div><!-- End Block -->
@@ -59,10 +59,10 @@ Template Name: Ebook Page
 
 			
 			
-	</div>
+	<!-- </div>
 	<div class="bottom-button-wrapper">
 		<a href="/field-guide" id="lets_go_button">Let's Go!</a>
-	</div>
+	</div> -->
 	<!--  ///////////// END WHY PAGE //////////////// -->
 		
 	<!-- small sidebar -->
