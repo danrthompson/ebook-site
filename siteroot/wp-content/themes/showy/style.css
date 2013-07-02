@@ -5423,6 +5423,19 @@ a:hover{
 
 }
 
+.white-content-box {
+	background-color: white;
+		-webkit-border-radius: 25px;
+		-moz-border-radius: 25px;
+		border-radius: 25px;
+		width: 950px;
+		margin: auto;
+		margin-bottom: 50px;
+		padding: 30px;
+
+
+}
+
 #thirdpg_content span{
 	color: #df7e00;
 }

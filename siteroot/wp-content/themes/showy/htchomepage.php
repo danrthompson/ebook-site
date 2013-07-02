@@ -6,13 +6,14 @@ Template Name: HTC Homepage
 <?php get_header(); ?>
 
 	<div id="home_page">
-		<div id="home_firstpg" class="content">
+		<div id="home_firstpg" class="white-content-box">
 			<div class="centerpiece">
 				<ul id="mycarousel" class="jcarousel-skin-tango">
 				   <li><img src="<?php echo get_bloginfo('template_url') ?>/images/central_graphic_placeholder.png" alt="" /></li>
 				   <li><img src="<?php echo get_bloginfo('template_url') ?>/images/central_graphic_placeholder2.png" alt="" /></li>
 				   <li><img src="<?php echo get_bloginfo('template_url') ?>/images/central_graphic_placeholder.png" alt="" /></li>
 				</ul>
+			</div>
 			</div>
 		</div>
 
