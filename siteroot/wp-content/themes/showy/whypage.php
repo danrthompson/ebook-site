@@ -152,9 +152,33 @@ Template Name: Why Page
 		<a href="/field-guide" id="lets_go_button">Let's Go!</a>
 	</div>
 	<!--  ///////////// END WHY PAGE //////////////// -->
-			
+		
+	<!-- small sidebar -->
+	<!-- <div class="sidebar-wrapper content">
+			<div id="sidebar" class="clearfix">
+				<div class="sidebar-inner">
+					<h1><span>Crowdfunding</span> Resources</h1>
+					<hr>
+					<a href="http://www.google.com">Suggest A Resource</a>
+					<hr>
+					
+					<ul class="sidebar-list">
+						<li class="sidebar-list-entry"><a href="#resource_sect1">Featured Resources</a></li>
+						<li class="sidebar-list-entry"><a href="#resource_sect2">Booklist</a></li>
+						<li class="sidebar-list-entry"><a href="#resource_sect3">About Crowdfunding</a></li>
+						<li class="sidebar-list-entry"><a href="#resource_sect4">Idea Development</a></li>
+						<li class="sidebar-list-entry"><a href="#resource_sect5">Campaign Prep</a></li>
+						<li class="sidebar-list-entry"><a href="#resource_sect6">Manage The Campaign</a></li>
+						<li class="sidebar-list-entry"><a href="#resource_sect7">After The Campaign</a></li>
+					</ul>
+
+					<a href="www.google.com" id="campaign_services_link">Helpful Services</a>
 
 
+				</div>
+			</div>
+		</div>
+ -->
 
 
 </div>
