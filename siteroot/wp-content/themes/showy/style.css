@@ -5882,7 +5882,7 @@ a:hover{
 }
 
 
-.teal-button-outline{
+.ebook-teal-button-outline{
 	border: 1px solid #50a28b;
 	margin: 0 20px 0 0;
 	color: #50a28b;
@@ -5891,13 +5891,13 @@ a:hover{
   	border-radius         : 10px;
 }
 
-.teal-button-outline:hover{
+.ebook-teal-button-outline:hover{
 	border: 1px solid #50a28b;
 	background-color: #50a28b;
 	color: white;
 }
 
-.button-solid {
+.ebook-button-solid {
 	margin: 0 20px 0 0;
 	background-color: #50a28b;
 	color: white;
@@ -5906,12 +5906,12 @@ a:hover{
   	border-radius         : 10px;
 }
 
-.button-solid:hover{
+.ebook-button-solid:hover{
 	background-color: #7fe1c6;
 	color: white;
 }
 
-.blue-button-outline{
+.ebook-blue-button-outline{
 	border: 1px solid #279ccc;
 /*	margin: 0 20px 0 0;
 */	-moz-border-radius    : 10px;
@@ -5920,13 +5920,13 @@ a:hover{
   	color: #279ccc;
 }
 
-.blue-button-outline:hover{
+.ebook-blue-button-outline:hover{
 	border: 1px solid #26b0db;
 	background-color: #26b0db;
 	color: white;
 }
 
-.blue-button-solid{
+.ebook-blue-button-solid{
 	margin: 0 0 0 20px;
 	background-color: #279ccc;
 	color: white;
@@ -5936,7 +5936,7 @@ a:hover{
 
 }
 
-.blue-button-solid:hover{
+.ebook-blue-button-solid:hover{
 	background-color: #26b0db;
 	color: white;
 }
@@ -6001,3 +6001,81 @@ a:hover{
 	left: 20px;
 	font-size: 14px;
 }	
+
+
+
+.button-outline {
+	padding: 5px 20px;
+	border: 1px solid #50a28b;
+	margin: 0 20px 0 0;
+	-moz-border-radius    : 10px;
+  -webkit-border-radius : 10px;  
+  border-radius         : 10px;
+}
+
+.button-outline:hover {
+	padding: 5px 20px;
+	border: 1px solid #50a28b;
+	background-color: #50a28b;
+	color: white;
+}
+
+
+.button-solid {
+	padding: 5px 20px;
+	margin: 0 20px 0 0;
+	background-color: #50a28b;
+	color: white;
+	-moz-border-radius    : 10px;
+  	-webkit-border-radius : 10px;  
+  	border-radius         : 10px;
+}
+
+.button-solid:hover{
+	padding: 5px 20px;
+	background-color: #7fe1c6;
+	color: white;
+}
+
+.blue-button-outline{
+	padding: 5px 20px;
+	border: 1px solid #279ccc;
+/*	margin: 0 20px 0 0;
+*/	-moz-border-radius    : 10px;
+  	-webkit-border-radius : 10px;  
+  	border-radius         : 10px;
+  	color: #279ccc;
+}
+
+.blue-button-outline:hover{
+	padding: 5px 20px;
+	border: 1px solid #26b0db;
+	background-color: #26b0db;
+	color: white;
+}
+
+.blue-button-solid{
+	padding: 5px 20px;
+	margin: 0 0 0 20px;
+	background-color: #279ccc;
+	color: white;
+	-moz-border-radius    : 10px;
+  	-webkit-border-radius : 10px;  
+  	border-radius         : 10px;
+
+}
+
+.blue-button-solid:hover{
+	background-color: #26b0db;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
