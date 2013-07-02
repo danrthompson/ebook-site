@@ -5682,23 +5682,44 @@ a:hover{
 }
 
 .htc-back .htc-pad {
-
+	padding: 10px 25px;
 }
 
 .htc-back .htc-pad h2 {
 	text-transform: uppercase;
 	color: white;
 	font-weight: 300;
+	font-size: 32px;
+	letter-spacing: 1px;
+	margin-bottom: 15px;
 }
 
 .htc-back .htc-pad h4 {
 	color: white;
 	font-weight: 500;
+	text-transform: uppercase;
+	text-align: left;
+	font-size: 16px;
+	margin: 15px 0 5px 0;
 }
 
 .htc-back .htc-pad p {
 	color: white;
 	font-weight: 300;
+	font-size: 16px;
+	line-height: 24px;
+	max-height: 90px;
+	overflow:hidden;
+}
+
+.htc-back .htc-pad hr{
+	float: left;
+	width: 30%;
+
+}
+
+.hr_wrapper{
+	height: 4px;
 }
 
 .why_pg_central_content {
@@ -5956,3 +5977,13 @@ a:hover{
 }
 
 
+.htc-pad .button-outline {
+	margin: 0 20px 15px 30px;
+}
+
+.htc-back .ebook_buttons{
+	position: absolute;
+	bottom: 20px;
+	left: 20px;
+	font-size: 14px;
+}	
