@@ -769,20 +769,20 @@ Template Name: Professionals
 		<div class="sidebar-wrapper content">
 			<div id="sidebar" class="clearfix">
 				<div class="sidebar-inner">
-					<h1><span>Crowdfunding</span> Services</h1>
+					<div onclick="javascript: $('body').scrollTo(0,500, {'offset': {'top': -10}});" style="cursor: pointer;"><h1><span>Crowdfunding</span> Services</h1></div>
 					<hr>
 					<a href="http://www.google.com">Suggest A Service</a>
 					<hr>
 					
 					<ul class="sidebar-list">
 						<!-- <li class="sidebar-list-entry"><a href="#resource_sect1">Featured Services</a></li> -->
-						<li class="sidebar-list-entry"><a href="#resource_sect2">Advice and Consulting</a></li>
-						<li class="sidebar-list-entry"><a href="#resource_sect3">Campaign Management Tools</a></li>
-						<li class="sidebar-list-entry"><a href="#resource_sect4">Video Production</a></li>
-						<li class="sidebar-list-entry"><a href="#resource_sect5">Website Development</a></li>
-						<li class="sidebar-list-entry"><a href="#resource_sect6">Graphic Design</a></li>
-						<li class="sidebar-list-entry"><a href="#resource_sect7">PR and Marketing</a></li>
-						<li class="sidebar-list-entry"><a href="#resource_sect8">MISCELLANEOUS</a></li>
+						<li class="sidebar-list-entry"><a href="javascript: void(0);" onclick="javascript: $('body').scrollTo('#resource_sect2',500, {'offset': {'top': -10}});">Advice and Consulting</a></li>
+						<li class="sidebar-list-entry"><a href="javascript: void(0);" onclick="javascript: $('body').scrollTo('#resource_sect3',500, {'offset': {'top': -10}});">Campaign Management Tools</a></li>
+						<li class="sidebar-list-entry"><a href="javascript: void(0);" onclick="javascript: $('body').scrollTo('#resource_sect4',500, {'offset': {'top': -10}});">Video Production</a></li>
+						<li class="sidebar-list-entry"><a href="javascript: void(0);" onclick="javascript: $('body').scrollTo('#resource_sect5',500, {'offset': {'top': -10}});">Website Development</a></li>
+						<li class="sidebar-list-entry"><a href="javascript: void(0);" onclick="javascript: $('body').scrollTo('#resource_sect6',500, {'offset': {'top': -10}});">Graphic Design</a></li>
+						<li class="sidebar-list-entry"><a href="javascript: void(0);" onclick="javascript: $('body').scrollTo('#resource_sect7',500, {'offset': {'top': -10}});">PR and Marketing</a></li>
+						<li class="sidebar-list-entry"><a href="javascript: void(0);" onclick="javascript: $('body').scrollTo('#resource_sect8',500, {'offset': {'top': -10}});">MISCELLANEOUS</a></li>
 					</ul>
  
 					<a href="#resource_sect9" id="campaign_services_link">By Campaign Type</a>
