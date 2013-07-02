@@ -753,7 +753,7 @@ hr {
 	border-bottom:1px solid #5ebfa4; 
 	width:50px; 
 	height:1px;
-	margin-bottom:40px;
+	margin-bottom:30px;
 	margin-top:-2px;
 }
 
@@ -5428,7 +5428,6 @@ a:hover{
 .why_sect_block{
 	padding:50px;
 	height: 220px;
-	overflow: none;
 }
 
 .why_sect_block h4{
@@ -5676,7 +5675,8 @@ a:hover{
 	width: 80%;
 	margin: auto;
 	display: block;
-	padding-bottom: 80px;
+/*	padding-bottom: 80px;*/
+	overflow: hidden;
 }
 
 .why_pg_central_content p{
@@ -5695,6 +5695,8 @@ a:hover{
 	margin-bottom: 25px;
 
 }
+
+
 
 .half {
 	width: 45%;
@@ -5780,3 +5782,83 @@ a:hover{
 	width: 100%;
 	text-align: center;
 }
+
+
+.ebook_pg{
+
+}
+
+.ebook_pg h5{
+	font-size: 28px;
+	line-height: 32px;
+	overflow: hidden;
+	font-weight: 300;
+	margin: 0;
+	color: #999;
+}
+
+.ebook_pg .thick-title{
+	font-weight: 600;
+	font-size: 42px;
+	padding: 10px 0;
+	margin-bottom: 25px;
+}
+
+.top-margin {
+	margin-top: 25px;
+}
+
+.ebook_pg p {
+	font-size: 20px;
+	line-height: 28px;
+	margin-bottom: 20px;
+	color: #636363;
+}
+
+.button-outline{
+	padding: 5px 20px;
+	border: 1px solid #50a28b;
+	margin: 0 20px 0 0;
+	-moz-border-radius    : 10px;
+  	-webkit-border-radius : 10px;  
+  	border-radius         : 10px;
+}
+
+.button-outline:hover{
+	padding: 5px 20px;
+	border: 1px solid #50a28b;
+	background-color: #50a28b;
+	color: white;
+}
+
+.button-solid {
+	padding: 5px 20px;
+	margin: 0 20px 0 0;
+	background-color: #50a28b;
+	color: white;
+	-moz-border-radius    : 10px;
+  	-webkit-border-radius : 10px;  
+  	border-radius         : 10px;
+}
+
+.button-solid:hover{
+	padding: 5px 20px;
+	background-color: #7fe1c6;
+	color: white;
+}
+
+.ebook_buttons {
+	margin-top: 10px;
+}
+#ebook-img {
+	width: 88% !important;
+	padding-right: 0 !important;
+}
+
+#kit-img {
+	width: 88% !important;
+	padding-left: 0 !important;
+}
+
+
+.
