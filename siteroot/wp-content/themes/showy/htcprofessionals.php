@@ -33,9 +33,16 @@ Template Name: Professionals
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												<h2>Backer Kit</h2>
+												<div class="hr_wrapper"><hr></div>
+												<h4>Post-Campaign Backer Management</h4>
+												<p>
+													Backer Kit is a helpful tool that allows project creators to manage backer relations after their campaign ends. Made by Kickstarter veterans.
+												</p>
+											</div>
+											<div class="left-float ebook_buttons">
+												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://google.com" class="float-left button-solid teal">Message Them</a>
 											</div>
 										</div>
 									</div>
@@ -48,8 +55,13 @@ Template Name: Professionals
 										<div class="htc-back">
 											<div class="htc-pad">
 												<h2>Lorem ipsum</h2>
+												<div class="hr_wrapper"><hr></div>
 												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+											</div>
+											<div class="left-float ebook_buttons">
+												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://google.com" class="float-left button-solid teal">Message Them</a>
 											</div>
 										</div>
 									</div>
@@ -64,8 +76,13 @@ Template Name: Professionals
 										<div class="htc-back">
 											<div class="htc-pad">
 												<h2>Lorem ipsum</h2>
+												<div class="hr_wrapper"><hr></div>
 												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+											</div>
+											<div class="left-float ebook_buttons">
+												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://google.com" class="float-left button-solid teal">Message Them</a>
 											</div>
 										</div>
 									</div>
@@ -78,8 +95,13 @@ Template Name: Professionals
 										<div class="htc-back">
 											<div class="htc-pad">
 												<h2>Lorem ipsum</h2>
+												<div class="hr_wrapper"><hr></div>
 												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+											</div>
+											<div class="left-float ebook_buttons">
+												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://google.com" class="float-left button-solid teal">Message Them</a>
 											</div>
 										</div>
 									</div>
