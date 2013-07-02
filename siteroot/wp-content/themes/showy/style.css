@@ -5682,7 +5682,7 @@ a:hover{
 }
 
 .htc-back .htc-pad {
-	padding: 10px 25px;
+	padding: 5px 25px;
 }
 
 .htc-back .htc-pad h2 {
@@ -5700,7 +5700,7 @@ a:hover{
 	text-transform: uppercase;
 	text-align: left;
 	font-size: 16px;
-	margin: 15px 0 5px 0;
+	margin: 11px 0 5px 0;
 }
 
 .htc-back .htc-pad p {
@@ -5708,7 +5708,7 @@ a:hover{
 	font-weight: 300;
 	font-size: 16px;
 	line-height: 24px;
-	max-height: 90px;
+	max-height: 94px;
 	overflow:hidden;
 }
 
@@ -5720,6 +5720,7 @@ a:hover{
 
 .hr_wrapper{
 	height: 4px;
+	opacity: 0.5;
 }
 
 .why_pg_central_content {

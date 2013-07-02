@@ -54,10 +54,10 @@ Template Name: Professionals
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Crowdfund Buzz</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<h4>Campaign Press Services</h4>
+												<p>Social media and PR services for camapaigns. Crowdfund Buzz is affordable and a great way to distribute your press release.</p>
 											</div>
 											<div class="left-float ebook_buttons">
 												<a href="http://google.com" class="float-left button-outline teal">Details</a>
@@ -75,9 +75,9 @@ Template Name: Professionals
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Acutrack Fulfillment</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
+												<h4>Backer Reward Fulfillment</h4>
 												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 											</div>
 											<div class="left-float ebook_buttons">

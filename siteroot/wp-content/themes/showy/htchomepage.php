@@ -10,7 +10,7 @@ Template Name: HTC Homepage
 			<div class="centerpiece">
 				<ul id="mycarousel" class="jcarousel-skin-tango">
 				   <li><img src="<?php echo get_bloginfo('template_url') ?>/images/central_graphic_placeholder.png" alt="" /></li>
-				   <li><img src="<?php echo get_bloginfo('template_url') ?>/images/central_graphic_placeholder.png" alt="" /></li>
+				   <li><img src="<?php echo get_bloginfo('template_url') ?>/images/central_graphic_placeholder2.png" alt="" /></li>
 				   <li><img src="<?php echo get_bloginfo('template_url') ?>/images/central_graphic_placeholder.png" alt="" /></li>
 				</ul>
 			</div>
