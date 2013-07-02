@@ -28,8 +28,16 @@ Template Name: Ebook Page
 						Crowdfunding - the collective effort across a group to make a particular idea a reality - is taking the world by storm. In 2011, entrepreneurs raised over $1.5 Billion to make their ideas a reality. This year, that number is expected to grow to $5.1 Billion.
 						</p>
 						<div class="left-float ebook_buttons">
-							<a href="http://google.com" class="float-left button-outline teal">PREVIEW</a>
-							<a href="http://google.com" class="float-left button-solid teal">GET IT!</a>
+							<a href="http://google.com" class="left-float teal-button-outline ebook_button">PREVIEW</a>
+							
+							<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" class="left-float">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+							">
+							<input class="left-float button-solid htc-paypal-button ebook_button" type="submit" value="GET IT!" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<!-- <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"> -->
+							</form>
+
 						</div>
 					</div>
 				</div><!-- End Block -->
@@ -50,8 +58,18 @@ Template Name: Ebook Page
 						Crowdfunding - the collective effort across a group to make a particular idea a reality - is taking the world by storm. In 2011, entrepreneurs raised over $1.5 Billion to make their ideas a reality. This year, that number is expected to grow to $5.1 Billion.
 						</p>
 						<div class="right-float ebook_buttons">
-							<a href="http://google.com" class="float-left blue-button-outline">PREVIEW</a>
-							<a href="http://google.com" class="float-left blue-button-solid">GET IT!</a>
+							
+
+							<a href="http://google.com" class="left-float blue-button-outline ebook_button">PREVIEW</a>
+
+							<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" class="left-float">
+							<input type="hidden" name="cmd" value="_s-xclick">
+							<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+							">
+							<input class="left-float blue-button-solid htc-paypal-button ebook_button" type="submit" value="GET IT!" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+							<!-- <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"> -->
+							</form>
+
 						</div>
 					</div>
 				</div><!-- End Block -->

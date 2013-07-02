@@ -5847,24 +5847,22 @@ a:hover{
 }
 
 
-.button-outline{
-	padding: 5px 20px;
+.teal-button-outline{
 	border: 1px solid #50a28b;
 	margin: 0 20px 0 0;
+	color: #50a28b;
 	-moz-border-radius    : 10px;
   	-webkit-border-radius : 10px;  
   	border-radius         : 10px;
 }
 
-.button-outline:hover{
-	padding: 5px 20px;
+.teal-button-outline:hover{
 	border: 1px solid #50a28b;
 	background-color: #50a28b;
 	color: white;
 }
 
 .button-solid {
-	padding: 5px 20px;
 	margin: 0 20px 0 0;
 	background-color: #50a28b;
 	color: white;
@@ -5874,13 +5872,11 @@ a:hover{
 }
 
 .button-solid:hover{
-	padding: 5px 20px;
 	background-color: #7fe1c6;
 	color: white;
 }
 
 .blue-button-outline{
-	padding: 5px 20px;
 	border: 1px solid #279ccc;
 /*	margin: 0 20px 0 0;
 */	-moz-border-radius    : 10px;
@@ -5890,14 +5886,12 @@ a:hover{
 }
 
 .blue-button-outline:hover{
-	padding: 5px 20px;
 	border: 1px solid #26b0db;
 	background-color: #26b0db;
 	color: white;
 }
 
 .blue-button-solid{
-	padding: 5px 20px;
 	margin: 0 0 0 20px;
 	background-color: #279ccc;
 	color: white;
@@ -5914,6 +5908,7 @@ a:hover{
 
 .ebook_buttons {
 	margin-top: 10px;
+	width: 100%;
 }
 #ebook-img {
 	width: 88% !important;
@@ -5942,3 +5937,22 @@ a:hover{
 	height: 4px;
 	float: right;
 }
+
+.htc-paypal-button {
+	text-decoration: none;
+	-webkit-transition: all 0.2s ease;
+	-moz-transition: all 0.2s ease;
+	transition: all 0.2s ease;
+	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	border: none;
+	cursor: pointer;
+	height:auto;
+	line-height: 28px;
+}
+
+.ebook_button {
+	padding:1px 20px;
+}
+
+
