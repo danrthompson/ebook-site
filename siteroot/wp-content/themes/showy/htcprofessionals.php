@@ -9,7 +9,7 @@ Template Name: Professionals
 		<div id="content">
 
 	<!--  Resource Content-->
-			<div class="content-posts clearfix">
+			<div class="professionals content-posts clearfix">
 	
 				<div class="entry-content">
 <!-- 					<img src="<?php echo get_bloginfo('template_url') ?>/images/resources_title_img.png"/>
@@ -110,9 +110,9 @@ Template Name: Professionals
 
 						</div>
 					</div>
-					<div class="intro"> If you've ever been part of a crowdfunding campaign, you'll know it takes a village. From marketing, to PR, to backer management, and product fulfillment there's a lot to be done. Here are some groups who can help along the way.</div>
+					<div class="intro no-margin"> If you've ever been part of a crowdfunding campaign, you'll know it takes a village. From marketing, to PR, to backer management, and product fulfillment there's a lot to be done. Here are some groups who can help along the way.</div>
 
-
+					<!-- ///////// ADVICE AND CONSULTING ///////// -->
 					<header>
 						<div class="archive-titlewrapper">
 							<h2 class="entry-title" id="resource_sect2">Advice and Consulting</h2>
@@ -124,7 +124,7 @@ Template Name: Professionals
 
 
 
-						<div class="intro"> Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.</div>
+						<div class="intro">Crowdfunding can be daunting, so it can be helpful to get feedback from someone who has been through it before. Here are a few people that can help.</div>
 
 						<div class="featured-pros-wrapper">
 							<div class="featured-pros-top-row">

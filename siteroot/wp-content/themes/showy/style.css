@@ -1919,12 +1919,12 @@ h1.logo-text:hover {
 }
 
 .page .entry-title {
-	padding-top: 50px;
+	padding-top: 90px;
 }
 
 .posts-content {
 	text-align:justify;
-	margin-bottom: 50px;
+	margin-bottom: 10px;
 }
 
 .posts-content h5{
@@ -6144,4 +6144,8 @@ color:#636363;
 
 .anyone-can-entry img{
 	width: 40%;
+}
+
+.no-margin{
+	margin: 0;
 }
