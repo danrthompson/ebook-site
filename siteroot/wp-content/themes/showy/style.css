@@ -2297,8 +2297,6 @@ h1.logo-text:hover {
 
 
 
-.
-
 .two-third {
 	width: 63.33%;
 }
@@ -5534,6 +5532,9 @@ a:hover{
 .teal {
 	color: #50a28b;
 }
+.blue {
+	color: #279ccc;
+}
 
 .why_sect_block #yellow {
 	color: #dfbd00;
@@ -5810,14 +5811,14 @@ a:hover{
 }
 
 #anyone-can-wrapper{
-	width: 90%;
+	width: 100%;
 	padding-top: 20px;
-	margin-left: 10%;
 	overflow: hidden;
 }
 
 #anyone-can-wrapper p{
 	font-size: 18px;
+	margin-top: -10px;
 }
 
 #anyone-can-wrapper a {
@@ -6108,5 +6109,39 @@ a:hover{
 	color: #33ae93;
 }
 
+.ebook_buttons form{
+	margin-right:30px;
+}
 
+.anyone-can-entry a{
+	color: #279ccc;
+	opacity: 0.6;
+}
 
+.anyone-can-entry a:hover {
+	opacity: 1;
+}
+
+.anyone-can-entry h5{
+	font-size: 24px;
+	margin-top:0;
+}
+
+.anyone-can-entry a h5:hover{
+color:#636363;
+}
+
+.anyone-can-entry{
+	width: 100%;
+	overflow: hidden;
+	margin-bottom: 30px;
+}
+
+.para-big-bold{
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+.anyone-can-entry img{
+	width: 40%;
+}

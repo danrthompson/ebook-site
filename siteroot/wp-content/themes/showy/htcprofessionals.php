@@ -110,6 +110,7 @@ Template Name: Professionals
 
 						</div>
 					</div>
+					<div class="intro"> If you've ever been part of a crowdfunding campaign, you'll know it takes a village. From marketing, to PR, to backer management, and product fulfillment there's a lot to be done. Here are some groups who can help along the way.</div>
 
 
 					<header>

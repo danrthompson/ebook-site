@@ -69,46 +69,44 @@ Template Name: Why Page
 					<h4><span class="teal">For Everyone</span></h4>
 					<br>			
 					<p>
-					In 2011, one million campaigns were crowdfunded. Sites like Kiva helped third world entrepreneurs fund local businesses, while Kickstarter and Indiegogo empowered artists, teachers, and everyday individual bring their ideas to life.
+					In 2011, one million crowdfunding campaigns were funded. From third world entrepreneurs, to american artists, sites like Kiva, Indiegogo, and Kickstarter have made it possible for anyone with a good idea to realize their dreams.
 					</p>
 
-					<img class="wide_img" src="<?php echo get_bloginfo('template_url') ?>/images/why-wide-narrow-placeholder.png"/>
-			
-					<p>
-					Crowdfunding is a people's movement. It exists to help everyone realize their ideas - even you. Here are some examples of ordinary people doing extraordinary things:
-					</p>	
+					<p>This is what makes crowdfunding so unique. It is a people's movement. It exists to help anyone realize their ideas - even you. Here are some examples of ordinary people doing extraordinary things with Crowdfunding. </p>
+
 					<br>
 					<div id="anyone-can-wrapper">
+
 						<div class="anyone-can-entry">
-							<img src="<?php echo get_bloginfo('template_url') ?>/images/sexy.png" alt="" class="anyone-can-thumbnail one-fourth left-float">
-							<div class="anyone-can-text two-third right-float">
-								<p>Donec id elit non mi porta gravida at eget metus. Sed posuere consectetur est at lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas.</p>
-								<a href="http://google.com" class="left-float">Visit The Campaign</a>
+							<img src="<?php echo get_bloginfo('template_url') ?>/images/karen.jpg" alt="" class="anyone-can-thumbnail one-third left-float">
+							<div class="anyone-can-text fifty right-float">
+								<a href=""><h5 class="para-big-bold blue">Let's give Karen A Vacation</h5></a>
+								<p>After a heartbreaking youtube video was posted showing schoolbus monitor Karen Kelein being bullied students, Max Sidorov created an Indiegogo campaign to send Karen on the vacation she could never afford. One month later, thousands came together to speak out against bullying & raising over $700,000 for Karen.
+								</p>
 							</div>
 						</div>
 
 						<div class="anyone-can-entry">
-							<img src="<?php echo get_bloginfo('template_url') ?>/images/sexy.png" alt="" class="anyone-can-thumbnail one-fourth left-float">
-							<div class="anyone-can-text two-third right-float">
-								<p>Donec id elit non mi porta gravida at eget metus. Sed posuere consectetur est at lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas.</p>
-								<a href="http://google.com" class="left-float">Visit The Campaign</a>
+							<img src="<?php echo get_bloginfo('template_url') ?>/images/porthole.jpg
+							" alt="" class="anyone-can-thumbnail one-fourth left-float">
+							<div class="anyone-can-text fifty right-float">
+								<a href=""><h5 class="para-big-bold blue">The Porthole</h5></a>
+								<p>Less than a month after launching, culinary enthusiast Martin Kastner raised nearly $750,000 for the Porthole - an artistic vessel for infusing oils and wines. It goes to show how even the simplest ideas can inspire people, and find incredible success success with crowdfunding. </p>
+							
 							</div>
 						</div>
 
 						<div class="anyone-can-entry">
-							<img src="<?php echo get_bloginfo('template_url') ?>/images/sexy.png" alt="" class="anyone-can-thumbnail one-fourth left-float">
-							<div class="anyone-can-text two-third right-float">
-								<p>Donec id elit non mi porta gravida at eget metus. Sed posuere consectetur est at lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas.</p>
-								<a href="http://google.com" class="left-float">Visit The Campaign</a>
+							<img src="<?php echo get_bloginfo('template_url') ?>/images/kika.jpg" alt="" class="anyone-can-thumbnail one-fourth left-float">
+							<div class="anyone-can-text fifty right-float">
+								<a href=""><h5 class="para-big-bold blue">The Kinkajou</h5></a>
+								<p>Prototyped using legos and spare bolts, over 1,000 individuals backed the Kinkajou - a tool that helps you turn glass bottles into cups. Ideas with humble beginnings can become smash hits.
+								</p>
 							</div>
 						</div>
-					</div> <!-- END anyone-can-wrapper -->
 
-					<p>
-						Crowdfunding is a people's movement. It exists to help everyone realize their ideas - even you. Here are some examples of ordinary people doing extraordinary things:
-					</p>	
-
-					
+						</div>
+					</div> <!-- END anyone-can-wrapper -->					
 				</div><!-- End Block -->
 			</div> <!-- End Content -->
 			<!-- End Third Page -->
@@ -124,26 +122,19 @@ Template Name: Why Page
 					<img class="wide_img" src="<?php echo get_bloginfo('template_url') ?>/images/why-wide-narrow-placeholder.png"/>
 					
 					<p>
-					In 2011, one million campaigns were crowdfunded. Sites like Kiva helped third world entrepreneurs fund local businesses, while Kickstarter and Indiegogo empowered artists, teachers, and everyday individual bring their ideas to life.
+					Anyone can crowdfund, but it takes a village to make your project. We've been there. From start to finish, we've launched three campaigns of our own, and been advisors to many others. Plus, we've conducted dozens of hours of research, to help you reach your crowdfunding goals.
 					</p>
-					<p>
-					Crowdfunding is a people's movement. It exists to help everyone realize their ideas - even you. Here are some examples of ordinary people doing extraordinary things:
-					</p>	
 					<br>
-					
-					<div class="side-by-side-imgs" style="display:block;">
+				<!-- 	<div class="side-by-side-imgs" style="display:block;">
 						<img class="half left-float" src="<?php echo get_bloginfo('template_url') ?>/images/why-wide-narrow-placeholder.png"/>
 						<img class="half right-float" src="<?php echo get_bloginfo('template_url') ?>/images/why-wide-narrow-placeholder.png"/>
-
 					</div>
-
+ -->
 					<p>
-						Crowdfunding is a people's movement. It exists to help everyone realize their ideas - even you. Here are some examples of ordinary people doing extraordinay.
+						Crowdfunding is about community, and shouldn't be something you go through alone. We're here to give you the tools to learn, the confidence to create, and the connections you need to make your idea a reality. It's going to be fun. So let's get started!
 					</p>	
 					<br>
-
-					<p id="larger_p_text">Never before has it been so easy to raise so much money, involve so many people, and <span class="teal"> bring an idea to life.</span></p>
-					
+					<br>
 				</div><!-- End Block -->
 			</div> <!-- End Content -->
 			<!-- End Third Page -->
