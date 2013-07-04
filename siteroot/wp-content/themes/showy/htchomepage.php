@@ -27,7 +27,7 @@ Template Name: HTC Homepage
 						<div class="thirds">
 							<ul>
 								<li class="thirds_box">
-									<a href="http://www.google.com">
+									<a href="/field-guide/">
 										<div id="bulb_img" class="third_contained_img">  </div>
 	<!-- 									<img src="<?php echo get_bloginfo('template_url') ?>/images/cf_simple_icons/lightbulb_gray.png"/> -->
 										<p>Learn What</p>
@@ -36,7 +36,7 @@ Template Name: HTC Homepage
 									</a>
 								</li>
 								<li class="thirds_box">
-									<a href="http://www.google.com">
+									<a href="/resources/">
 										<div id="tools_img" class="third_contained_img"> </div>
 
 	<!-- 									<img src="<?php echo get_bloginfo('template_url') ?>/images/cf_simple_icons/tools_gray.png"/> -->
@@ -46,7 +46,7 @@ Template Name: HTC Homepage
 									</a>
 								</li>
 								<li class="thirds_box">
-									<a href="http://www.google.com">
+									<a href="/professionals/">
 										<div id="pros_img" class="third_contained_img"> </div>
 	<!-- 									<a href=""><img src="<?php echo get_bloginfo('template_url') ?>/images/cf_simple_icons/pros_gray.png"/></a> -->
 										<p>Build a team &</p>
@@ -77,7 +77,9 @@ Template Name: HTC Homepage
 				</div>
 				<div id="thirdpg_content" class="pgcontent">
 					<div class="content">
-						<h2>Crowdfunding Is <span>Important</span></h2>
+						<a href="/why-crowdfunding/">
+							<h2 class="title-link" >Crowdfunding Is <span>Important</span></h2>
+						</a>
 					<br>
 					<br>
 					<hr>

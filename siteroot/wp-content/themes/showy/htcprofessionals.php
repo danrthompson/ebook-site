@@ -41,7 +41,7 @@ Template Name: Professionals
 												</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="https://www.backerkit.com/" class="float-left button-outline teal">Details</a>
 												<a href="http://google.com" class="float-left button-solid teal">Message Them</a>
 											</div>
 										</div>
@@ -60,7 +60,7 @@ Template Name: Professionals
 												<p>Social media and PR services for camapaigns. Crowdfund Buzz is affordable and a great way to distribute your press release.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.crowdfundbuzz.com" class="float-left button-outline teal">Details</a>
 												<a href="http://google.com" class="float-left button-solid teal">Message Them</a>
 											</div>
 										</div>
@@ -81,7 +81,7 @@ Template Name: Professionals
 												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.acutrack.com" class="float-left button-outline teal">Details</a>
 												<a href="http://google.com" class="float-left button-solid teal">Message Them</a>
 											</div>
 										</div>

@@ -20,10 +20,10 @@ Template Name: Why Page
 					<h4 id="thin_title"> WHY YOU SHOULD CROWDFUND</h4>
 					<h4><span class="teal">YOUR IDEA</span></h4>
 					<br>
-					<p id="larger_p_text">Never before has it been so easy to raise so much money, involve so many people, and <span class="teal"> bring an idea to life.</span></p>
+					<p id="larger_p_text">Never before has it been so easy to raise so much money, involve so many people, and <span class="teal para-bold"> bring your idea to life.</span></p>
 					<br>					
 					<p>
-					Crowdfunding - the collective effort across a group to make a particular idea a reality - is taking the world by storm. In 2011, entrepreneurs raised over $1.5 Billion to make their ideas a reality. This year, that number is expected to grow to $5.1 Billion.
+					Crowdfunding - the collective effort across a group to make a particular idea a reality - is taking the world by storm. In 2011, entrepreneurs raised over <span class="teal para-bold"> $1.5 Billion </span>to make their ideas a reality. This year, that number is expected to <span class="teal para-bold"> grow to $5.1 Billion.</span>
 					</p>
 
 					<br>
@@ -31,7 +31,7 @@ Template Name: Why Page
 					<br>
 			
 					<p>
-					It's too early to tell if crowdfunding  will be the way of the future, or if it will evolve into something completely different. But for now, one thing is certain. If you’re trying to realize a dream or see an idea become a reality, it’s probably the best tool at your disposal.
+					It's too early to tell if crowdfunding  will be the way of the future, or if it will evolve into something completely different. But for now, one thing is certain.<span class="teal para-bold">  If you’re trying to realize a dream</span> or see an idea become a reality, it’s probably <span class="teal para-bold">the best tool at your disposal.</span>
 					</p>	
 					<br>
 		
@@ -43,7 +43,6 @@ Template Name: Why Page
 			<div class="content block">
 				<div class="why_pg_central_content">
 						
-					<h4 id="thin_title"></h4>
 					<h4>BUILDING <span id="orange">BRIDGES</span></h4>
 					<br>
 
@@ -51,10 +50,11 @@ Template Name: Why Page
 
 						<img class="half right-float in-text" src="<?php echo get_bloginfo('template_url') ?>/images/tall_placeholder.png"/>  
 
-						 <p>On May 18, 2012 Eric Migicovsky became a millionaire. When his Kickstarter campaign came to an end, he and his team had raised over 10 million dollars from almost 70,000 backers and moved towards production without taking a cent of venture capital. The Pebble Watch - Migicovsky's campaign - demonstrates what is possible when people converge to make good ideas happen. With the help of the crowd, everyday individuals can bring their ideas to life.</p>
+						 <p><span class="orange para-bold"> On May 18, 2012 Eric Migicovsky became a millionaire.</span> When his Kickstarter campaign came to an end, he and his team had raised over 10 million dollars from almost 70,000 backers and moved towards production without taking a cent of venture capital. The Pebble Watch - Migicovsky's campaign - demonstrates what is possible when people converge to make good ideas happen. With the help of the crowd, <span class="orange para-bold">everyday individuals can bring their ideas to life.</span></p>
 												<br>
 
-						 <p>And they are. On Kickstarter alone, almost a half a billion dollars have been pledged towards 85,000 projects. In 2013 crowdfunding is expected to grow to a $5.1 Billion industry, almost doubling over the course of a year. What's more, this growth is being spearheaded by parents and students, designers and artists, and everyday people inspired by good ideas.</p>
+						 <p>And they are. On Kickstarter alone, almost a half a billion dollars have been pledged towards <span class="orange para-bold">85,000 projects</span>. In 2013 crowdfunding is expected to grow to a $5.1 Billion industry, almost doubling over the course of a year. What's more, this growth is being spearheaded by <span class="orange para-bold">parents and students, designers and artists</span>, and everyday people inspired by good ideas.</p>
+						 <br>
 				
 					</div>
 

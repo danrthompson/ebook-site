@@ -5440,6 +5440,21 @@ a:hover{
 	color: #df7e00;
 }
 
+.title-link{
+	width: 80%;
+	padding: 30px 10px;
+	margin: auto !important;
+		-webkit-border-radius: 25px;
+		-moz-border-radius: 25px;
+		border-radius: 25px;
+
+}
+
+.title-link:hover{
+	background-color:#f9f9f9;
+
+}
+
 .why_sect_block{
 	padding:50px;
 	height: 220px;
@@ -5513,6 +5528,9 @@ a:hover{
 	color: #df7e00;
 }
 
+.orange{
+	color: #df7e00;
+}
 .teal {
 	color: #50a28b;
 }
@@ -6071,11 +6089,24 @@ a:hover{
 }
 
 
+.anyone-can-entry h6{
 
+	text-align: left;
+	height: 20px;
+	font-size: 20px;
+	font-weight: 800;
+	text-transform: uppercase;
+	color: #636363;
+	margin: 0 0 5px 0;
+}
 
+.para-bold{
+	font-weight: 400;
+}
 
-
-
+.para-bold.teal {
+	color: #33ae93;
+}
 
 
 
