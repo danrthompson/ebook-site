@@ -434,7 +434,7 @@ Template Name: Professionals
 						
 						<div class="accent"></div>
 						<div class="posts-content">
-							<div class="intro"> Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.</div>
+							<div class="intro">How do you help your networks promote your campaign? What's the best way to reach out to press? How do you keep your backers updated as the project progresses? These tools solve those problems.</div>
 
 						<div class="featured-pros-wrapper">
 							<div class="featured-pros-top-row">
@@ -645,7 +645,7 @@ Template Name: Professionals
 						
 						<div class="accent"></div>
 						<div class="posts-content">
-							<div class="intro"> Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.</div>
+							<div class="intro">Campaigns with a central video are almost twice as likely to succeed than those without a video. Here are some great contacts that can help you make an enticing, compelling video to present your story.</div>
 
 
 							<div class="featured-pros-wrapper">
@@ -857,7 +857,7 @@ Template Name: Professionals
 						
 						<div class="accent"></div>
 						<div class="posts-content">
-							<div class="intro"> Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.</div>
+							<div class="intro"> While Kickstarter or Indiegogo may be the face of your campaign, it's important to offer a place where people can go for more information or to engage with your project after the campaign is over. A website is important. These groups will help you make one.</div>
 
 							<div class="featured-pros-wrapper">
 								<div class="featured-pros-top-row">
