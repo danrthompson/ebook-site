@@ -48,7 +48,7 @@ Template Name: Why Page
 
 					<div class="">
 
-						<img class="half right-float in-text" src="<?php echo get_bloginfo('template_url') ?>/images/tall_placeholder.png"/>  
+						<img class="half right-float in-text" src="<?php echo get_bloginfo('template_url') ?>/images/building_bridges_pebble.png"/>  
 
 						 <p><span class="orange para-bold"> On May 18, 2012 Eric Migicovsky became a millionaire.</span> When his Kickstarter campaign came to an end, he and his team had raised over 10 million dollars from almost 70,000 backers and moved towards production without taking a cent of venture capital. The Pebble Watch - Migicovsky's campaign - demonstrates what is possible when people converge to make good ideas happen. With the help of the crowd, <span class="orange para-bold">everyday individuals can bring their ideas to life.</span></p>
 												<br>
