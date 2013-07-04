@@ -108,7 +108,7 @@ Template Name: Why Page
 						</div>
 					</div> <!-- END anyone-can-wrapper -->					
 				</div><!-- End Block -->
-			</div> <!-- End Content -->
+			<!-- End Content -->
 			<!-- End Third Page -->
 
 			<!-- Third PAge -->
