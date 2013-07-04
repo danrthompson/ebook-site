@@ -1068,7 +1068,7 @@ Template Name: Professionals
 						
 						<div class="accent"></div>
 						<div class="posts-content">
-							<div class="intro"> Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.</div>
+							<div class="intro"> Every product needs a logo. These firms can help you create images, animations, and other visual designs.</div>
 
 							<div class="featured-pros-wrapper">
 								<div class="featured-pros-top-row">
@@ -1279,7 +1279,7 @@ Template Name: Professionals
 						
 						<div class="accent"></div>
 						<div class="posts-content">
-							<div class="intro"> Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.</div>
+							<div class="intro"> These firms market your product by getting you press attention, managing your social media presence, coordinating ad campaigns, and more.</div>
 
 							<div class="featured-pros-wrapper">
 								<div class="featured-pros-top-row">
@@ -1490,7 +1490,7 @@ Template Name: Professionals
 						
 						<div class="accent"></div>
 						<div class="posts-content">
-							<div class="intro"> Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.</div>
+							<div class="intro"> The odds and ends.</div>
 
 							<div class="featured-pros-wrapper">
 								<div class="featured-pros-top-row">

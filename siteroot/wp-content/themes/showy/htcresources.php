@@ -14,7 +14,7 @@ Template Name: HTC Resources
 					<img src="<?php echo get_bloginfo('template_url') ?>/images/resources_title_img.png"/>
 					<br>
 					<br>
-					<div class="intro"> <p>There are thousands of resources to help you crowdfund your idea. To save you from having to read each and every one of them, we've compile a small library of the ones that are most helpful. Indulge and enjoy.</p>
+					<div class="intro"> <p>There are thousands of resources to help you crowdfund your idea. To save you from having to read each and every one of them, we've compiled a small library of those that are most helpful. Indulge and enjoy.</p>
 					</div>
 
 					<header>
