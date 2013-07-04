@@ -29,7 +29,7 @@ global $data;
 
 	<?php if ( is_singular() ) wp_enqueue_script( 'comment-reply' ); wp_head(); ?>
 
-	<script type="text/javascript" src="/wp-includes/js/jquery/jquery-1.9.1.min.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 	<script type="text/javascript" src="/wp-includes/js/jquery/jquery.scrollTo.min.js"></script>
 	<script type="text/javascript" src="/wp-includes/js/jquery/jquery.jcarousel.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="/wp-includes/skins/tango/skin.css" />
