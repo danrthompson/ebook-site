@@ -119,7 +119,7 @@ Template Name: Why Page
 					<h4><span class="teal">Help You</span></h4>
 					<br>	
 
-					<img class="wide_img" src="<?php echo get_bloginfo('template_url') ?>/images/why-wide-narrow-placeholder.png"/>
+					<img class="wide_img" src="<?php echo get_bloginfo('template_url') ?>/images/we_help.png"/>
 					
 					<p>
 					Anyone can crowdfund, but it takes a village to make your project. We've been there. From start to finish, we've launched three campaigns of our own, and been advisors to many others. Plus, we've conducted dozens of hours of research, to help you reach your crowdfunding goals.
