@@ -59,10 +59,9 @@ Template Name: HTC Homepage
 								<br>
 						<div class="caption_paragraph">
 							<p>
-								Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis 
-								vestibulum. <span>Morbi leo risus, porta ac consectetur ac</span>, vestibulum at eros. <span>Curabitur blandit </span>tempus porttitor. Cum sociis natoque
-								penatibus parturient montes, nascetur ridiculus mus. Praesent commodo cursus magna, vel scelerisque nisl consectetur
-								et. Nullam quis risus <span>et magnis dis</span> eget urna mollis ornare vel eu leo.
+								Planning, launching, and managing a campaign can be overwhelming. <span>We can help.</span> <br><br>
+								
+								Running a successful crowdfunding project means getting a lot of things right: the video, your rewards, and press coverage, to name a few. We've spent hundreds of hours researching successful campaigns, and finding the best tools to help you succeed.
 							</p>
 							<a href="/field-guide">Here's how to start</a>
 						</div>
@@ -88,13 +87,13 @@ Template Name: HTC Homepage
 							<h4>WORTH YOUR <span id="orange">TIME</span></h4>
 						</div>
 						<div class="fifty f_right">
-							<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus. Aenean lacinia bibendum nulla sed consectetur. Donec id elit non mi porta gravida at eget metus.</p>
+							<p>Last year, more than one million crowdfunding campaigns raised a total of $2.7 billion. On Kickstarter, the average successful campaign raises more than $15,000 while maintaining complete ownership of their project. If you want support from the community to help you realize your idea, crowdfunding can help.</p>
 						</div>
 					</div><!-- End Block -->
 					<hr>
 					<div class="why_sect_block">
 						<div class="fifty f_left">
-							<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus. Aenean lacinia bibendum nulla sed consectetur. Donec id elit non mi porta gravida at eget metus.</p>
+							<p>If you have an idea that could improve someone's life, then you can make it a reality through crowdfunding. Your product doesn't have to be something fancy or grandiose - more than 10% of Kickstarter campaigns asked for less than $1,000. Crowdfunding is for everyone, even you.</p>
 						</div>
 						<div class="thirty right_offset f_right">
 							<h4><span id="yellow">YOU CAN</span> DO IT!</h4>
@@ -106,7 +105,7 @@ Template Name: HTC Homepage
 							<h4>WE WILL <span id="blue">HELP YOU</span></h4>
 						</div>
 						<div class="fifty f_right">
-							<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus. Aenean lacinia bibendum nulla sed consectetur. Donec id elit non mi porta gravida at eget metus.</p>
+							<p>Our fieldguide outlines each important step you need to take, our accompanying toolkit helps you get started, and the professionals we recommend can help with the hard stuff like video production, PR, manufacturing, and delivering your product to backers. We'll help you understand what needs to be done, then you can do what you love and build a team to help with the rest.</p>
 						</div>
 					</div><!-- End Block -->
 					</div> <!-- End Content -->
