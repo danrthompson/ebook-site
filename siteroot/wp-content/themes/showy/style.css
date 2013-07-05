@@ -1116,6 +1116,7 @@ header {
 	padding-top:0px;
 	background:#202020;
 	text-align:center;
+	background:white;
 }
 
 .meta-hover {
@@ -1185,7 +1186,8 @@ header {
     	line-height: 45px;
     	text-transform:uppercase;
     	/*letter-spacing: -2px;*/
-    	padding: 20px;
+    	padding: 25px 0 10px 0;
+    	padding-left:0px;
     	text-align:left;
     	color: #FFF;
 	float:left;
@@ -1194,18 +1196,23 @@ header {
 }
 
 .logo-text a { 
-	 color: #FFF;
+	 color: #484848;
 	-webkit-transition: all 0.4s ease;
 	-moz-transition: all 0.4s ease;
 	transition: all 0.4s ease; 
 }
 
 .logo-text a #main-logo-1 {
-	font-size: 32px;
+	font-size: 28px;
+	font-weight: 300;
+	letter-spacing: 1px;
 }
 
 .logo-text a #main-logo-2 {
-	font-size: 50px;
+	font-size: 44px;
+	padding-left: 2px;
+	letter-spacing: 1px;
+	font-weight: 500;
 }
 
 h1.logo-text:hover {
@@ -1239,14 +1246,14 @@ h1.logo-text:hover {
 }
 
 .logo-text-footer a { 
-	 color: #FFF;
+	 color: #484848;
 	-webkit-transition: all 0.4s ease;
 	-moz-transition: all 0.4s ease;
 	transition: all 0.4s ease; 
 }
 
 .logo-text-footer a:hover {
-	color:#FFF !important;
+	color:#484848 !important;
 	padding-left: 12px;
 	-webkit-transition: all 0.4s ease;
 	-moz-transition: all 0.4s ease;
@@ -1418,6 +1425,7 @@ h1.logo-text:hover {
 	float:right;
 	line-height: 20px;
 	padding: 35px 0 25px 0;
+	padding: 15px 0 0 0;
 }
 
 .header-nav-right {
@@ -1444,10 +1452,12 @@ h1.logo-text:hover {
     	-webkit-transition: all 0.4s ease;
 	-moz-transition: all 0.4s ease;
 	transition: all 0.4s ease;
+	color: white;
 }
 
 #menu-main-header-menu li:hover .HTC-icon-text {
-	color:#FFF;
+	color:#484848;
+	opacity: 1;
 }
 
 #menu-main-header-menu li:hover #menu-item-12-icon {
@@ -1505,7 +1515,7 @@ h1.logo-text:hover {
 	-moz-transition: all 0.2s ease;
 	transition: all 0.2s ease;
     	vertical-align:middle;
-	
+    	opacity: .5;
 }
 
 .nav .current-menu-item > .HTC-icon-text, .nav .HTC-icon-text:hover {
@@ -1517,6 +1527,9 @@ h1.logo-text:hover {
     	-webkit-transition: all 0.2s ease;
 	-moz-transition: all 0.2s ease;
 	transition: all 0.2s ease;
+	opacity: 1;
+	color: white;
+
 }
 
 .nav li .current-menu-item ul li .HTC-icon-text {

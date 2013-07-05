@@ -73,7 +73,7 @@ global $data;
 						<?php } else { ?>
 	    
 		    				
-		    				<h1 class="logo-text"><a href="/" title="<?php bloginfo('name'); ?>"><span id="main-logo-1">Harness</span><br /><span id="main-logo-2">The Crowd</span></a></h1>
+		    				<h1 class="logo-text"><a href="/" title="<?php bloginfo('name'); ?>"><span id="main-logo-1">Harness</span><span id="main-logo-2">The Crowd</span></a></h1>
 		    				
 						
 	    					<?php } ?>
@@ -103,13 +103,13 @@ global $data;
 						<li id="menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9">
 							<a href="/professionals">
 								<div id="menu-item-9-icon"> </div>
-								<span class="HTC-icon-text">Professionals</span>
+								<span class="HTC-icon-text">Services</span>
 							</a>
 						</li>
 						<li id="menu-item-8" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8">
 							<a href="/why-crowdfunding">
 								<div id="menu-item-8-icon"> </div>
-								<span class="HTC-icon-text">Why</span>
+								<span class="HTC-icon-text">Why CF?</span>
 							</a>
 						</li>
 					</ul>
