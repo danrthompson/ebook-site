@@ -25,7 +25,7 @@ Template Name: Ebook Page
 						<h5><span class="teal thick-title left-float">LEARNING</span></h4>
 						<div class="accent"></div>
 						<p>
-						Crowdfunding is a big process. From conceptualizing your idea, to lining up press, to launching your campaign, and fulfillment once it's over there's a lot to do. Harness The Crowd provides a road map, for what to do, when to do it, and how to be successful. 
+						Crowdfunding is a big process. From conceptualizing your idea, to lining up press, to launching your campaign, to fulfillment once it's over, there's a lot to do. Harness the Crowd provides a roadmap that explains what to do, when to do it, and how to be successful. 
 						</p>
 						<div class="left-float ebook_buttons">
 							<a href="http://google.com" class="left-float ebook-teal-button-outline ebook_button">PREVIEW</a>
@@ -55,7 +55,7 @@ Template Name: Ebook Page
 						<h5><span id="blue" class="thick-title right-float">LEARNING</span></h4>
 						<div class="accent_wrapper_right"><div class="accent orange"></div></div>
 						<p>
-						A carpenter is nothing without his tools. The same is true for crowdfunding. We've compiled the  tools and resources needed to make your campaign a success. From outreach templates, to press grids, to web-pages for spreading the word, this kit will save you days of work and spur your success. 
+						A carpenter is nothing without his tools. The same is true in crowdfunding. We've compiled the  tools and resources you need to make your campaign a success. From outreach templates, to press grids, to web-pages for spreading the word, this kit will save you days of work and spur your success. 
 						</p>
 						<div class="right-float ebook_buttons">
 							

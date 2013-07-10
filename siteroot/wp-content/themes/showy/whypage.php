@@ -31,7 +31,7 @@ Template Name: Why Page
 					<br>
 			
 					<p>
-					It's too early to tell if crowdfunding  will be the way of the future, or if it will evolve into something completely different. But for now, one thing is certain.<span class="teal para-bold">  If you’re trying to realize a dream</span> or see an idea become a reality, it’s probably <span class="teal para-bold">the best tool at your disposal.</span>
+					It's too early to tell if crowdfunding  will be the way of the future, or if it will evolve into something completely different. But for now, one thing is certain.<span class="teal para-bold">  If you’re trying to realize a dream</span> or see an idea become a reality, it is <span class="teal para-bold">a powerful tool at your disposal.</span>
 					</p>	
 					<br>
 		
@@ -50,10 +50,10 @@ Template Name: Why Page
 
 						<img class="half right-float in-text" src="<?php echo get_bloginfo('template_url') ?>/images/building_bridges_pebble.png"/>  
 
-						 <p><span class="orange para-bold"> On May 18, 2012 Eric Migicovsky became a millionaire.</span> When his Kickstarter campaign came to an end, he and his team had raised over 10 million dollars from almost 70,000 backers and moved towards production without taking a cent of venture capital. The Pebble Watch - Migicovsky's campaign - demonstrates what is possible when people converge to make good ideas happen. With the help of the crowd, <span class="orange para-bold">everyday individuals can bring their ideas to life.</span></p>
+						 <p><span class="orange para-bold"> On May 18, 2012 Eric Migicovsky became a millionaire.</span> When his Kickstarter campaign came to an end, he and his team had raised over 10 million dollars from almost 70,000 backers and moved towards production without taking a cent of venture capital (or giving away a share in his company). The Pebble Watch - Migicovsky's campaign - demonstrates what is possible when people converge to make good ideas happen. With the help of the crowd, <span class="orange para-bold">everyday individuals can bring their ideas to life.</span></p>
 												<br>
 
-						 <p>And they are. On Kickstarter alone, almost a half a billion dollars have been pledged towards <span class="orange para-bold">85,000 projects</span>. In 2013 crowdfunding is expected to grow to a $5.1 Billion industry, almost doubling over the course of a year. What's more, this growth is being spearheaded by <span class="orange para-bold">parents and students, designers and artists</span>, and everyday people inspired by good ideas.</p>
+						 <p>And they are. On Kickstarter alone, more than half a billion dollars have been pledged towards <span class="orange para-bold">85,000 projects</span>. In 2013 crowdfunding is expected to grow to a $5.1 Billion industry, almost doubling over the course of a year. What's more, this growth is being spearheaded by <span class="orange para-bold">parents and students, designers and artists</span>, and everyday people inspired by good ideas.</p>
 						 <br>
 				
 					</div>
@@ -70,9 +70,9 @@ Template Name: Why Page
 					<br>			
 					<p>
 					In 2011, one million crowdfunding campaigns were funded. From third world entrepreneurs, to american artists, sites like Kiva, Indiegogo, and Kickstarter have made it possible for anyone with a good idea to realize their dreams.
-					</p>
+					</p><br>
 
-					<p>This is what makes crowdfunding so unique. It is a people's movement. It exists to help anyone realize their ideas - even you. Here are some examples of ordinary people doing extraordinary things with Crowdfunding. </p>
+					<p>This is what makes crowdfunding so unique. It is a people's movement. It exists to help anyone realize their ideas - even you. Here are some examples of ordinary people doing extraordinary things with crowdfunding. </p>
 
 					<br>
 					<div id="anyone-can-wrapper">
@@ -80,8 +80,8 @@ Template Name: Why Page
 						<div class="anyone-can-entry">
 							<img src="<?php echo get_bloginfo('template_url') ?>/images/karen.jpg" alt="" class="anyone-can-thumbnail one-third left-float">
 							<div class="anyone-can-text fifty right-float">
-								<a href=""><h5 class="para-big-bold blue">Let's give Karen A Vacation</h5></a>
-								<p>After a heartbreaking youtube video was posted showing schoolbus monitor Karen Kelein being bullied students, Max Sidorov created an Indiegogo campaign to send Karen on the vacation she could never afford. One month later, thousands came together to speak out against bullying & raising over $700,000 for Karen.
+								<a href="http://www.indiegogo.com/projects/lets-give-karen-the-bus-monitor-h-klein-a-vacation--6" target="_blank"><h5 class="para-big-bold blue" style="line-height:100%;">Let's give Karen A Vacation</h5></a>
+								<p>After a heartbreaking YouTube video was posted showing schoolbus monitor Karen Kelein being bullied, Max Sidorov created an Indiegogo campaign to send Karen on the vacation she could never afford. One month later, thousands came together to speak out against bullying and raised over $700,000 for Karen.
 								</p>
 							</div>
 						</div>
@@ -90,8 +90,8 @@ Template Name: Why Page
 							<img src="<?php echo get_bloginfo('template_url') ?>/images/porthole.jpg
 							" alt="" class="anyone-can-thumbnail one-fourth left-float">
 							<div class="anyone-can-text fifty right-float">
-								<a href=""><h5 class="para-big-bold blue">The Porthole</h5></a>
-								<p>Less than a month after launching, culinary enthusiast Martin Kastner raised nearly $750,000 for the Porthole - an artistic vessel for infusing oils and wines. It goes to show how even the simplest ideas can inspire people, and find incredible success success with crowdfunding. </p>
+								<a href="http://www.kickstarter.com/projects/692213374/the-porthole" target="_blank"><h5 class="para-big-bold blue">The Porthole</h5></a>
+								<p>Less than a month after launching, culinary enthusiast Martin Kastner raised nearly $750,000 for the Porthole - an artistic vessel for infusing oils and wines. It demonstrates that even the simplest ideas can inspire people and enjoy incredible success with crowdfunding. </p>
 							
 							</div>
 						</div>
@@ -99,7 +99,7 @@ Template Name: Why Page
 						<div class="anyone-can-entry">
 							<img src="<?php echo get_bloginfo('template_url') ?>/images/kika.jpg" alt="" class="anyone-can-thumbnail one-fourth left-float">
 							<div class="anyone-can-text fifty right-float">
-								<a href=""><h5 class="para-big-bold blue">The Kinkajou</h5></a>
+								<a href="http://www.kickstarter.com/projects/lehoux/the-kinkajou-a-bottle-cutter-with-a-new-twist" target="_blank"><h5 class="para-big-bold blue">The Kinkajou</h5></a>
 								<p>Prototyped using legos and spare bolts, over 1,000 individuals backed the Kinkajou - a tool that helps you turn glass bottles into cups. Ideas with humble beginnings can become smash hits.
 								</p>
 							</div>
@@ -122,7 +122,7 @@ Template Name: Why Page
 					<img class="wide_img" src="<?php echo get_bloginfo('template_url') ?>/images/we_help.png"/>
 					
 					<p>
-					Anyone can crowdfund, but it takes a village to make your project. We've been there. From start to finish, we've launched three campaigns of our own, and been advisors to many others. Plus, we've conducted dozens of hours of research, to help you reach your crowdfunding goals.
+					Anyone can crowdfund, but it takes a village to bring your product to reality. We've been there. From start to finish, we've launched three campaigns of our own, and been advisors to many others. Plus, we've conducted hundreds of hours of research to help you reach your crowdfunding goals.
 					</p>
 					<br>
 				<!-- 	<div class="side-by-side-imgs" style="display:block;">
