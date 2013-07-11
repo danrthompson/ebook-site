@@ -4440,7 +4440,7 @@ blockquote.right {
 .wpcf7 input[type="text"], .wpcf7 textarea {
     	border:none;
 	background: rgba(0, 0, 0, 0.05);
-	color: #FFF;
+	color: #000;
     	font: 13px/22px 'Open Sans', sans serif;
     	width: 100%;
     	padding: 10px;
@@ -6162,3 +6162,10 @@ color:#636363;
 .no-margin{
 	margin: 0;
 }
+
+/* Popup styling */
+
+.wpcf7-form-control-wrap input, .wpcf7-form-control-wrap textarea {
+	color: #000000;
+}
+
