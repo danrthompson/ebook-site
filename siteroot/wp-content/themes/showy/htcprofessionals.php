@@ -1706,7 +1706,30 @@ Template Name: Professionals
 				<div class="sidebar-inner">
 					<div onclick="javascript: $('body').scrollTo(0,500, {'offset': {'top': -10}});" style="cursor: pointer;"><h1><span>Crowdfunding</span> Services</h1></div>
 					<hr>
-					<a href="http://www.google.com">Suggest A Service</a>
+
+					<a href="#contact_form_pop_33" class="fancybox">Suggest A Service</a>
+
+					<div style="display:none" class="fancybox-hidden">
+						<div id="contact_form_pop_33">
+							<div class="wpcf7" id="wpcf7-f90-p51-o33">
+								<form action="/test/#wpcf7-f90-p51-o33" method="post" class="wpcf7-form" novalidate="novalidate">
+									<div style="display: none;">
+										<input type="hidden" name="_wpcf7" value="90" />
+										<input type="hidden" name="_wpcf7_version" value="3.4.2" />
+										<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f90-p51-o33" />
+										<input type="hidden" name="_wpnonce" value="89fe87144d" />
+									</div>
+									<p>Your Name (optional)<br /><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text" /></span></p>
+									<p>Your Email (optional)<br /><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-email" /></span></p>
+									<p>What service do you recommend and why? (required)<br /><span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span></p>
+									<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
+									<div class="wpcf7-response-output wpcf7-display-none"> </div>
+								</form>
+							</div>
+						</div>
+					</div>
+
+
 					<hr>
 					
 					<ul class="sidebar-list">
@@ -1720,7 +1743,7 @@ Template Name: Professionals
 						<li class="sidebar-list-entry"><a href="javascript: void(0);" onclick="javascript: $('body').scrollTo('#resource_sect8',500, {'offset': {'top': -10}});">MISCELLANEOUS</a></li>
 					</ul>
  
-					<a href="#resource_sect9" id="campaign_services_link">By Campaign Type</a>
+					<a href="/resources" id="campaign_services_link">Helpful Resources</a>
 
 
 				</div>

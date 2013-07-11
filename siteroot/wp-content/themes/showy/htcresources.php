@@ -196,20 +196,42 @@ Template Name: HTC Resources
 				<div class="sidebar-inner">
 					<h1><span>Crowdfunding</span> Resources</h1>
 					<hr>
-					<a href="http://www.google.com">Suggest A Resource</a>
+
+					<a href="#contact_form_pop" class="fancybox">Suggest A Resource</a>
+
+					<div style="display:none" class="fancybox-hidden">
+						<div id="contact_form_pop">
+							<div class="wpcf7" id="wpcf7-f97-p51-o1">
+								<form action="/test/#wpcf7-f97-p51-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+									<div style="display: none;">
+										<input type="hidden" name="_wpcf7" value="97" />
+										<input type="hidden" name="_wpcf7_version" value="3.4.2" />
+										<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f97-p51-o1" />
+										<input type="hidden" name="_wpnonce" value="a4d8578175" />
+									</div>
+									<p>Your Name (optional)<br /><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text" /></span></p>
+									<p>Your Email (optional)<br /><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-email" /></span></p>
+									<p>What resource do you recommend and why? (required)<br /><span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span></p>
+									<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
+									<div class="wpcf7-response-output wpcf7-display-none"> </div>
+								</form>
+							</div>
+						</div>
+					</div>
+
 					<hr>
 					
 					<ul class="sidebar-list">
-						<li class="sidebar-list-entry"><a href="#resource_sect1">Featured Resources</a></li>
-						<li class="sidebar-list-entry"><a href="#resource_sect2">Booklist</a></li>
-						<li class="sidebar-list-entry"><a href="#resource_sect3">About Crowdfunding</a></li>
-						<li class="sidebar-list-entry"><a href="#resource_sect4">Idea Development</a></li>
-						<li class="sidebar-list-entry"><a href="#resource_sect5">Campaign Prep</a></li>
-						<li class="sidebar-list-entry"><a href="#resource_sect6">Manage The Campaign</a></li>
-						<li class="sidebar-list-entry"><a href="#resource_sect7">After The Campaign</a></li>
+						<li class="sidebar-list-entry"><a href="javascript: void(0);" onclick="javascript: $('body').scrollTo('#resource_sect1',500, {'offset': {'top': -10}});">Featured Resources</a></li>
+						<li class="sidebar-list-entry"><a href="javascript: void(0);" onclick="javascript: $('body').scrollTo('#resource_sect2',500, {'offset': {'top': -10}});">Booklist</a></li>
+						<li class="sidebar-list-entry"><a href="javascript: void(0);" onclick="javascript: $('body').scrollTo('#resource_sect3',500, {'offset': {'top': -10}});">About Crowdfunding</a></li>
+						<li class="sidebar-list-entry"><a href="javascript: void(0);" onclick="javascript: $('body').scrollTo('#resource_sect4',500, {'offset': {'top': -10}});">Idea Development</a></li>
+						<li class="sidebar-list-entry"><a href="javascript: void(0);" onclick="javascript: $('body').scrollTo('#resource_sect5',500, {'offset': {'top': -10}});">Campaign Prep</a></li>
+						<li class="sidebar-list-entry"><a href="javascript: void(0);" onclick="javascript: $('body').scrollTo('#resource_sect6',500, {'offset': {'top': -10}});">Manage The Campaign</a></li>
+						<li class="sidebar-list-entry"><a href="javascript: void(0);" onclick="javascript: $('body').scrollTo('#resource_sect7',500, {'offset': {'top': -10}});">After The Campaign</a></li>
 					</ul>
 
-					<a href="www.google.com" id="campaign_services_link">Helpful Services</a>
+					<a href="/professionals" id="campaign_services_link">Helpful Services</a>
 
 
 				</div>

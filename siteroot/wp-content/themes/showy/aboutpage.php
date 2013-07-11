@@ -39,7 +39,7 @@ Template Name: About Page
 						<div class="anyone-can-entry">
 							<img src="<?php echo get_bloginfo('template_url') ?>/images/sexy.png" alt="" class="anyone-can-thumbnail one-fourth left-float">
 							<div class="anyone-can-text two-third right-float">
-								<h6>Daniel Thompson</h6>
+								<h6>Dan Thompson</h6>
 								<p>Donec id elit non mi porta gravida at eget metus. Sed posuere consectetur est at lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas.</p>
 							</div>
 						</div>
@@ -47,7 +47,7 @@ Template Name: About Page
 						<div class="anyone-can-entry">
 							<img src="<?php echo get_bloginfo('template_url') ?>/images/sexy.png" alt="" class="anyone-can-thumbnail one-fourth left-float">
 							<div class="anyone-can-text two-third right-float">
-								<h6>Lucky #3</h6>
+								<h6>Greg Lyon</h6>
 								<p>Donec id elit non mi porta gravida at eget metus. Sed posuere consectetur est at lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas.</p>
 							</div>
 						</div>
