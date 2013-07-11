@@ -16,7 +16,7 @@ Template Name: Professionals
 					
 					<header>
 						<div class="archive-titlewrapper">
-							<h2 class="entry-title" id="resource_sect1">Featured Services</h2>
+							<h2 class="entry-title" id="resource_sect1" style="padding-top:0;">Featured Services</h2>
 						</div>
 					</header>
 					
