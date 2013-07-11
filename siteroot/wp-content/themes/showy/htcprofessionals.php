@@ -12,7 +12,7 @@ Template Name: Professionals
 			<div class="professionals content-posts clearfix">
 	
 				<div class="entry-content">
-<!-- 					<img src="<?php echo get_bloginfo('template_url') ?>/images/resources_title_img.png"/>
+					<!-- <img src="<?php echo get_bloginfo('template_url') ?>/images/resources_title_img.png"/> -->
 					
 					<header>
 						<div class="archive-titlewrapper">
@@ -20,7 +20,7 @@ Template Name: Professionals
 						</div>
 					</header>
 					
-					<div class="accent"></div> -->
+					<div class="accent"></div>
 						
 					<div class="posts-content">
 <!-- 					<p class="htc-featured-services-text intro">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p> -->
@@ -36,9 +36,7 @@ Template Name: Professionals
 												<h2>Backer Kit</h2>
 												<div class="hr_wrapper"><hr></div>
 												<h4>Post-Campaign Backer Management</h4>
-												<p>
-													Backer Kit is a helpful tool that allows project creators to manage backer relations after their campaign ends. Made by Kickstarter veterans.
-												</p>
+												<p>Backer Kit is a helpful tool that allows project creators to manage backer relations after their campaign ends.</p>
 											</div>
 											<div class="left-float ebook_buttons">
 												<a href="https://www.backerkit.com/" class="float-left button-outline teal">Details</a>
@@ -129,7 +127,7 @@ Template Name: Professionals
 												<h2>Acutrack Fulfillment</h2>
 												<div class="hr_wrapper"><hr></div>
 												<h4>Backer Reward Fulfillment</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<p>Acutrack's logistics team is ready to handle your print, media, and fulfillment needs.</p>
 											</div>
 											<div class="left-float ebook_buttons">
 												<a href="http://www.acutrack.com" class="float-left button-outline teal">Details</a>
@@ -170,13 +168,13 @@ Template Name: Professionals
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>TruFuel</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<h4>Video Production</h4>
+												<p>TruFuel produces handcrafted videos to help explain your business in 60 seconds.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.trufuel.com" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_4" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -235,13 +233,13 @@ Template Name: Professionals
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>CrowdFund Mafia</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Consulting</h4> -->
+												<p>Crowdfund Mafia provides consultation, training, and PR services for creative projects looking to raise crowdfund capital.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.crowdfundmafia.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_5" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -278,13 +276,13 @@ Template Name: Professionals
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>The CrowdFun-damentals</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>The CrowdFundamentals provides a variety of consulting packages to help your project achieve lasting success.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://thecrowdfundamentals.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_6" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -323,13 +321,13 @@ Template Name: Professionals
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Martin Crowdfund Consulting</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Martin Crowdfunding Consulting offers services in three main areas: campaign launch, buzz, and rewards fulfillment.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.martincrowdfund.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_7" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -366,13 +364,13 @@ Template Name: Professionals
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Ian MacKenzie</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>A crowdfunder with multiple successes, Ian MacKenzie offers free consultations and coaching assistance for your campaign.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.ianmack.com/crowdfunding-web/crowdfunding/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_8" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -406,7 +404,7 @@ Template Name: Professionals
 
 						</div>
 
-						<h5>Example Title</h5>
+<!-- 						<h5>Example Title</h5>
 						
 						<a href=""><h6>Resource Title</h6></a>
 						<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
@@ -420,7 +418,7 @@ Template Name: Professionals
 						<h5>The Second Sub-Heading Title</h5>
 
 						<a href=""><h6>Resource Title</h6></a>
-						<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+						<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p> -->
 						<div class="centered">
 							<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
 						</div>
@@ -434,7 +432,7 @@ Template Name: Professionals
 						
 						<div class="accent"></div>
 						<div class="posts-content">
-							<div class="intro">How do you help your networks promote your campaign? What's the best way to reach out to press? How do you keep your backers updated as the project progresses? These tools solve those problems.</div>
+							<div class="intro">How do you help your networks promote your campaign? What's the best way to reach out to press? How do you keep your backers updated as the project progresses? The resources below help you answer these questions.</div>
 
 						<div class="featured-pros-wrapper">
 							<div class="featured-pros-top-row">
@@ -445,13 +443,13 @@ Template Name: Professionals
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>BackerKit</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Backer Kit is a helpful tool that allows project creators to manage backer relations after their campaign ends.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="https://backerkit.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_9" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -488,13 +486,13 @@ Template Name: Professionals
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Kicktraq</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Kicktraq is your source for analytics and discovery information related to your crowdfunding campaign.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.kicktraq.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_10" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -533,13 +531,13 @@ Template Name: Professionals
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Highrise</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Highrise is a CRM on steroids that enables you to keep track of accounts, correspondence, attachments, and more.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://highrisehq.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_11" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -576,13 +574,13 @@ Template Name: Professionals
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Celery</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>With Celery, you can accept pre-orders whenever you're ready, making it the easiest way to collect credit cards now and charge later.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="https://www.trycelery.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_12" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -616,7 +614,7 @@ Template Name: Professionals
 
 						</div>
 
-							<h5>Example Title</h5>
+<!-- 							<h5>Example Title</h5>
 							
 							<a href=""><h6>Resource Title</h6></a>
 							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
@@ -630,11 +628,11 @@ Template Name: Professionals
 							<h5>The Second Sub-Heading Title</h5>
 
 							<a href=""><h6>Resource Title</h6></a>
-							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p> -->
 							<div class="centered">
 								<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
 							</div>
-						</div>
+			</div>
 
 						<header>
 						<div class="archive-titlewrapper">
@@ -645,7 +643,7 @@ Template Name: Professionals
 						
 						<div class="accent"></div>
 						<div class="posts-content">
-							<div class="intro">Campaigns with a central video are almost twice as likely to succeed than those without a video. Here are some great contacts that can help you make an enticing, compelling video to present your story.</div>
+							<div class="intro">Campaigns with a central video are almost twice as likely to succeed than those without a video. Here are some great contacts that can help you make an enticing and compelling video that present your story.</div>
 
 
 							<div class="featured-pros-wrapper">
@@ -657,13 +655,13 @@ Template Name: Professionals
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>TruFuel</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>TruFuel produces handcrafted videos to help explain your business in 60 seconds.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.trufuel.com" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_13" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -700,13 +698,13 @@ Template Name: Professionals
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>VideoGoGo</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>VideoGoGo has crowdfunding experience and offers photo shoot, video production, and design services.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://videogogo.com/best-crowdfunding-videos/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_14" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -745,13 +743,13 @@ Template Name: Professionals
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Josh Polon</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Josh Polon is an independent video consultant who has helped 8 campaigns raise more than $300k.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.joshpolon.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_15" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -788,13 +786,13 @@ Template Name: Professionals
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Lucas McNelly</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Lucas consults on crowdfunding campaigns and offers flexible video assistance depending on exactly how much work you need.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.lucasmcnelly.com/p/crowdfunding.html" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_16" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -828,7 +826,7 @@ Template Name: Professionals
 
 							</div>
 
-							<h5>Example Title</h5>
+<!-- 							<h5>Example Title</h5>
 							
 							<a href=""><h6>Resource Title</h6></a>
 							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
@@ -842,7 +840,7 @@ Template Name: Professionals
 							<h5>The Second Sub-Heading Title</h5>
 
 							<a href=""><h6>Resource Title</h6></a>
-							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p> -->
 							<div class="centered">
 								<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
 							</div>
@@ -868,13 +866,13 @@ Template Name: Professionals
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>CrowdForce</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>CrowdForce offers custom software and website development to help you achieve the look and feel you're trying to convey.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="https://crowdforce.co/crowdfunding-web-design" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_17" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -911,13 +909,13 @@ Template Name: Professionals
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>InvestedIn</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>InvestedIn offers social fundraising and technology solutions for individuals, charities, and businesses of all sizes.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://invested.in/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_18" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -956,13 +954,13 @@ Template Name: Professionals
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>PNTHR</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>PNTHR can help you craft a Kickstarter website experience that your future customers will love.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.pnthr.com/kickstarter-consultant-boston-nyc/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_19" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -999,13 +997,13 @@ Template Name: Professionals
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Medium Rare Inc.</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Medium Rare Inc. is a distinguished technology leader with past successes as crowdfunding facilitators.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://mediumrareinc.com/tag/kickstarter/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_20" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1039,7 +1037,7 @@ Template Name: Professionals
 
 							</div>
 
-							<h5>Example Title</h5>
+<!-- 							<h5>Example Title</h5>
 							
 							<a href=""><h6>Resource Title</h6></a>
 							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
@@ -1053,7 +1051,7 @@ Template Name: Professionals
 							<h5>The Second Sub-Heading Title</h5>
 
 							<a href=""><h6>Resource Title</h6></a>
-							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p> -->
 							<div class="centered">
 								<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
 							</div>
@@ -1079,13 +1077,13 @@ Template Name: Professionals
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>crowdSPRING</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>One of the biggest marketplaces for logo, graphic design, and naming consultants at affordable prices.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.crowdspring.com/index/4/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_21" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1122,13 +1120,13 @@ Template Name: Professionals
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>99 Designs</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Choose from a variety of design packages and leverage the crowd to accomplish your design and creative needs.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://99designs.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_22" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1167,13 +1165,13 @@ Template Name: Professionals
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>DesignCrowd</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>A crowdsourced design community with over 100,000 designers and close to $10mm in completed projects.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.designcrowd.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_23" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1210,13 +1208,13 @@ Template Name: Professionals
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>BrandCrowd</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Bypass the spec-work and choose from a set of ready-made designs, or find a designer to complete a custom project.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.brandcrowd.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_24" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1250,7 +1248,7 @@ Template Name: Professionals
 
 							</div>
 
-							<h5>Example Title</h5>
+<!-- 							<h5>Example Title</h5>
 							
 							<a href=""><h6>Resource Title</h6></a>
 							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
@@ -1264,7 +1262,7 @@ Template Name: Professionals
 							<h5>The Second Sub-Heading Title</h5>
 
 							<a href=""><h6>Resource Title</h6></a>
-							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p> -->
 							<div class="centered">
 								<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
 							</div>
@@ -1290,13 +1288,13 @@ Template Name: Professionals
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>CrowdFund Buzz</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Social media and PR services for camapaigns. Crowdfund Buzz is affordable and a great way to distribute your press release.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://crowdfundbuzz.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_25" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1333,13 +1331,13 @@ Template Name: Professionals
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Agency 2.0</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Agency 2.0 offers Kickstarter campaign development and crowdfunding project marketing services at a reasonable cost.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://agency20.com/crowdfunding-kickstarter-marketing-strategy/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_26" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1378,13 +1376,13 @@ Template Name: Professionals
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Kellerey</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Kellerey is a boutique marketing and brand communication agency with experience in PR and outreach strategies.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.kellerey.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_27" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1421,13 +1419,13 @@ Template Name: Professionals
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Room 214</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Room 214 helps you achieve social media and marketing success through a comprehensive review of your campaign goals.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://room214.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_28" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1461,7 +1459,7 @@ Template Name: Professionals
 
 							</div>
 
-							<h5>Example Title</h5>
+<!-- 							<h5>Example Title</h5>
 							
 							<a href=""><h6>Resource Title</h6></a>
 							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
@@ -1475,7 +1473,7 @@ Template Name: Professionals
 							<h5>The Second Sub-Heading Title</h5>
 
 							<a href=""><h6>Resource Title</h6></a>
-							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p> -->
 							<div class="centered">
 								<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
 							</div>
@@ -1501,13 +1499,13 @@ Template Name: Professionals
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Elihuu</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<h4>Manufacturing</h4>
+												<p>Elihuu is a place where production ready designers can meet a new community of manufacturers for projects big and small.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="https://elihuu.com/home" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_29" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1544,13 +1542,13 @@ Template Name: Professionals
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Acutrack Fulfillment</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<h4>Backer Reward Fulfillment</h4>
+												<p>Acutrack's logistics team is ready to handle your print, media, and fulfillment needs.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.acutrack.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_30" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1589,13 +1587,13 @@ Template Name: Professionals
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>GameSalute</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<h4>Game Fulfillment</h4>
+												<p>GameSalute handles manufacturing, assembly, and distribution of crowdfunded video game projects.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://gamesalute.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_31" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1632,13 +1630,13 @@ Template Name: Professionals
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>VKP Productions</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<h4>Video Production</h4>
+												<p>VKP Productions is your source for afforable business video and crowdfunding campaign building.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.vkpproductions.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_32" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1672,7 +1670,7 @@ Template Name: Professionals
 
 							</div>
 
-							<h5>Example Title</h5>
+<!-- 							<h5>Example Title</h5>
 							
 							<a href=""><h6>Resource Title</h6></a>
 							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
@@ -1686,7 +1684,7 @@ Template Name: Professionals
 							<h5>The Second Sub-Heading Title</h5>
 
 							<a href=""><h6>Resource Title</h6></a>
-							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p> -->
 							<div class="centered">
 								<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
 							</div>
