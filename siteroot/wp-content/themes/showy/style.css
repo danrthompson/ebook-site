@@ -6169,3 +6169,22 @@ color:#636363;
 	color: #000000;
 }
 
+/* sidebar */
+
+.sidebar-wrapper content {
+	overflow: hidden;
+	height: 500px;
+	padding: 0;
+}
+
+#footer-bottom {
+	position: relative;
+}
+
+.posts-content h5 {
+	line-height: 100%;
+}
+
+
+
+
