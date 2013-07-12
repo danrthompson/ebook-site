@@ -12,17 +12,18 @@ Template Name: Professionals
 			<div class="professionals content-posts clearfix">
 	
 				<div class="entry-content">
-<!-- 					<img src="<?php echo get_bloginfo('template_url') ?>/images/resources_title_img.png"/>
+					<!-- <img src="<?php echo get_bloginfo('template_url') ?>/images/resources_title_img.png"/> -->
 					
 					<header>
 						<div class="archive-titlewrapper">
-							<h2 class="entry-title" id="resource_sect1">Featured Services</h2>
+							<h2 class="entry-title" id="resource_sect1" style="padding-top:0;">Featured Services</h2>
 						</div>
 					</header>
 					
-					<div class="accent"></div> -->
+					<div class="accent"></div>
 						
 					<div class="posts-content">
+						<div class="intro no-margin"> If you've ever been part of a crowdfunding campaign, you'll know it takes a village. From marketing, to PR, to backer management and product fulfillment, there's a lot to be done. Here are some groups who can help along the way.</div>
 <!-- 					<p class="htc-featured-services-text intro">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p> -->
 						<div class="featured-pros-wrapper">
 							<div class="featured-pros-top-row">
@@ -36,9 +37,7 @@ Template Name: Professionals
 												<h2>Backer Kit</h2>
 												<div class="hr_wrapper"><hr></div>
 												<h4>Post-Campaign Backer Management</h4>
-												<p>
-													Backer Kit is a helpful tool that allows project creators to manage backer relations after their campaign ends. Made by Kickstarter veterans.
-												</p>
+												<p>Backer Kit is a helpful tool that allows project creators to manage backer relations after their campaign ends.</p>
 											</div>
 											<div class="left-float ebook_buttons">
 												<a href="https://www.backerkit.com/" class="float-left button-outline teal">Details</a>
@@ -129,7 +128,7 @@ Template Name: Professionals
 												<h2>Acutrack Fulfillment</h2>
 												<div class="hr_wrapper"><hr></div>
 												<h4>Backer Reward Fulfillment</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<p>Acutrack's logistics team is ready to handle your print, media, and fulfillment needs.</p>
 											</div>
 											<div class="left-float ebook_buttons">
 												<a href="http://www.acutrack.com" class="float-left button-outline teal">Details</a>
@@ -170,13 +169,13 @@ Template Name: Professionals
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>TruFuel</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<h4>Video Production</h4>
+												<p>TruFuel produces handcrafted videos to help explain your business in 60 seconds.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.trufuel.com" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_4" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -195,7 +194,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 4" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="TruFuel" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -210,7 +209,7 @@ Template Name: Professionals
 
 						</div>
 					</div>
-					<div class="intro no-margin"> If you've ever been part of a crowdfunding campaign, you'll know it takes a village. From marketing, to PR, to backer management, and product fulfillment there's a lot to be done. Here are some groups who can help along the way.</div>
+					
 
 					<!-- ///////// ADVICE AND CONSULTING ///////// -->
 					<header>
@@ -229,19 +228,19 @@ Template Name: Professionals
 						<div class="featured-pros-wrapper">
 							<div class="featured-pros-top-row">
 								<div class="first-feature">
-									<div id="htc-feature-1" class="htc-hover htc-panel">
+									<div id="htc-feature-5" class="htc-hover htc-panel">
 										<div class="htc-front">
 
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>CrowdFund Mafia</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Consulting</h4> -->
+												<p>Crowdfund Mafia provides consultation, training, and PR services for creative projects looking to raise crowdfund capital.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.crowdfundmafia.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_5" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -260,7 +259,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 5" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="Crowdfund Mafia" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -272,19 +271,19 @@ Template Name: Professionals
 									</div>
 								</div>
 								<div class="second-feature">
-									<div id="htc-feature-2" class="htc-hover htc-panel">
+									<div id="htc-feature-6" class="htc-hover htc-panel">
 										<div class="htc-front">
 
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>The CrowdFun-damentals</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>The CrowdFundamentals provides a variety of consulting packages to help your project achieve lasting success.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://thecrowdfundamentals.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_6" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -303,7 +302,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 6" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="The CrowdFundamentals" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -317,19 +316,19 @@ Template Name: Professionals
 							</div>
 							<div class="featured-pros-bottom-row">
 								<div class="first-feature">
-									<div id="htc-feature-3" class="htc-hover htc-panel">
+									<div id="htc-feature-7" class="htc-hover htc-panel">
 										<div class="htc-front">
 
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Martin Crowdfund Consulting</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Martin Crowdfunding Consulting offers services in three main areas: campaign launch, buzz, and rewards fulfillment.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.martincrowdfund.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_7" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -348,7 +347,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 7" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="Martin Crowdfund Consulting" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -360,19 +359,19 @@ Template Name: Professionals
 									</div>
 								</div>
 								<div class="second-feature">
-									<div id="htc-feature-4" class="htc-hover htc-panel">
+									<div id="htc-feature-8" class="htc-hover htc-panel">
 										<div class="htc-front">
 
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Ian MacKenzie</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>A crowdfunder with multiple successes, Ian MacKenzie offers free consultations and coaching assistance for your campaign.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.ianmack.com/crowdfunding-web/crowdfunding/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_8" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -391,7 +390,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 8" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="Ian MacKenzie" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -406,7 +405,7 @@ Template Name: Professionals
 
 						</div>
 
-						<h5>Example Title</h5>
+<!-- 						<h5>Example Title</h5>
 						
 						<a href=""><h6>Resource Title</h6></a>
 						<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
@@ -420,7 +419,7 @@ Template Name: Professionals
 						<h5>The Second Sub-Heading Title</h5>
 
 						<a href=""><h6>Resource Title</h6></a>
-						<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+						<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p> -->
 						<div class="centered">
 							<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
 						</div>
@@ -434,24 +433,24 @@ Template Name: Professionals
 						
 						<div class="accent"></div>
 						<div class="posts-content">
-							<div class="intro">How do you help your networks promote your campaign? What's the best way to reach out to press? How do you keep your backers updated as the project progresses? These tools solve those problems.</div>
+							<div class="intro">How do you help your networks promote your campaign? What's the best way to reach out to press? How do you keep your backers updated as the project progresses? The resources below help you answer these questions.</div>
 
 						<div class="featured-pros-wrapper">
 							<div class="featured-pros-top-row">
 								<div class="first-feature">
-									<div id="htc-feature-1" class="htc-hover htc-panel">
+									<div id="htc-feature-9" class="htc-hover htc-panel">
 										<div class="htc-front">
 
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>BackerKit</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Backer Kit is a helpful tool that allows project creators to manage backer relations after their campaign ends.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="https://backerkit.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_9" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -470,7 +469,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 9" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="BackerKit" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -482,19 +481,19 @@ Template Name: Professionals
 									</div>
 								</div>
 								<div class="second-feature">
-									<div id="htc-feature-2" class="htc-hover htc-panel">
+									<div id="htc-feature-10" class="htc-hover htc-panel">
 										<div class="htc-front">
 
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Kicktraq</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Kicktraq is your source for analytics and discovery information related to your crowdfunding campaign.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.kicktraq.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_10" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -513,7 +512,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 10" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="Kicktraq" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -527,19 +526,19 @@ Template Name: Professionals
 							</div>
 							<div class="featured-pros-bottom-row">
 								<div class="first-feature">
-									<div id="htc-feature-3" class="htc-hover htc-panel">
+									<div id="htc-feature-11" class="htc-hover htc-panel">
 										<div class="htc-front">
 
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Highrise</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Highrise is a CRM on steroids that enables you to keep track of accounts, correspondence, attachments, and more.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://highrisehq.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_11" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -558,7 +557,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 11" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="Highrise" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -570,19 +569,19 @@ Template Name: Professionals
 									</div>
 								</div>
 								<div class="second-feature">
-									<div id="htc-feature-4" class="htc-hover htc-panel">
+									<div id="htc-feature-12" class="htc-hover htc-panel">
 										<div class="htc-front">
 
 										</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Celery</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>With Celery, you can accept pre-orders whenever you're ready, making it the easiest way to collect credit cards now and charge later.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="https://www.trycelery.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_12" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -601,7 +600,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 12" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="Celery" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -616,7 +615,7 @@ Template Name: Professionals
 
 						</div>
 
-							<h5>Example Title</h5>
+<!-- 							<h5>Example Title</h5>
 							
 							<a href=""><h6>Resource Title</h6></a>
 							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
@@ -630,11 +629,11 @@ Template Name: Professionals
 							<h5>The Second Sub-Heading Title</h5>
 
 							<a href=""><h6>Resource Title</h6></a>
-							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p> -->
 							<div class="centered">
 								<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
 							</div>
-						</div>
+			</div>
 
 						<header>
 						<div class="archive-titlewrapper">
@@ -645,25 +644,25 @@ Template Name: Professionals
 						
 						<div class="accent"></div>
 						<div class="posts-content">
-							<div class="intro">Campaigns with a central video are almost twice as likely to succeed than those without a video. Here are some great contacts that can help you make an enticing, compelling video to present your story.</div>
+							<div class="intro">Campaigns with a central video are almost twice as likely to succeed than those without a video. Here are some great contacts that can help you make an enticing and compelling video that present your story.</div>
 
 
 							<div class="featured-pros-wrapper">
 								<div class="featured-pros-top-row">
 									<div class="first-feature">
-										<div id="htc-feature-1" class="htc-hover htc-panel">
+										<div id="htc-feature-13" class="htc-hover htc-panel">
 											<div class="htc-front">
 
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>TruFuel</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>TruFuel produces handcrafted videos to help explain your business in 60 seconds.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.trufuel.com" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_13" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -682,7 +681,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 13" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="TruFuel" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -694,19 +693,19 @@ Template Name: Professionals
 										</div>
 									</div>
 									<div class="second-feature">
-										<div id="htc-feature-2" class="htc-hover htc-panel">
+										<div id="htc-feature-14" class="htc-hover htc-panel">
 											<div class="htc-front">
 
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>VideoGoGo</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>VideoGoGo has crowdfunding experience and offers photo shoot, video production, and design services.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://videogogo.com/best-crowdfunding-videos/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_14" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -725,7 +724,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 14" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="VideoGoGo" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -739,19 +738,19 @@ Template Name: Professionals
 								</div>
 								<div class="featured-pros-bottom-row">
 									<div class="first-feature">
-										<div id="htc-feature-3" class="htc-hover htc-panel">
+										<div id="htc-feature-15" class="htc-hover htc-panel">
 											<div class="htc-front">
 
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Josh Polon</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Josh Polon is an independent video consultant who has helped 8 campaigns raise more than $300k.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.joshpolon.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_15" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -770,7 +769,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 15" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="Josh Polon" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -782,19 +781,19 @@ Template Name: Professionals
 										</div>
 									</div>
 									<div class="second-feature">
-										<div id="htc-feature-4" class="htc-hover htc-panel">
+										<div id="htc-feature-16" class="htc-hover htc-panel">
 											<div class="htc-front">
 
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Lucas McNelly</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Lucas consults on crowdfunding campaigns and offers flexible video assistance depending on exactly how much work you need.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.lucasmcnelly.com/p/crowdfunding.html" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_16" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -813,7 +812,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 16" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="Lucas McNelly" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -828,7 +827,7 @@ Template Name: Professionals
 
 							</div>
 
-							<h5>Example Title</h5>
+<!-- 							<h5>Example Title</h5>
 							
 							<a href=""><h6>Resource Title</h6></a>
 							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
@@ -842,7 +841,7 @@ Template Name: Professionals
 							<h5>The Second Sub-Heading Title</h5>
 
 							<a href=""><h6>Resource Title</h6></a>
-							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p> -->
 							<div class="centered">
 								<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
 							</div>
@@ -862,19 +861,19 @@ Template Name: Professionals
 							<div class="featured-pros-wrapper">
 								<div class="featured-pros-top-row">
 									<div class="first-feature">
-										<div id="htc-feature-1" class="htc-hover htc-panel">
+										<div id="htc-feature-17" class="htc-hover htc-panel">
 											<div class="htc-front">
 
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>CrowdForce</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>CrowdForce offers custom software and website development to help you achieve the look and feel you're trying to convey.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="https://crowdforce.co/crowdfunding-web-design" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_17" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -893,7 +892,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 17" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="CrowdForce" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -905,19 +904,19 @@ Template Name: Professionals
 										</div>
 									</div>
 									<div class="second-feature">
-										<div id="htc-feature-2" class="htc-hover htc-panel">
+										<div id="htc-feature-18" class="htc-hover htc-panel">
 											<div class="htc-front">
 
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>InvestedIn</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>InvestedIn offers social fundraising and technology solutions for individuals, charities, and businesses of all sizes.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://invested.in/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_18" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -936,7 +935,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 18" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="InvestedIn" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -950,19 +949,19 @@ Template Name: Professionals
 								</div>
 								<div class="featured-pros-bottom-row">
 									<div class="first-feature">
-										<div id="htc-feature-3" class="htc-hover htc-panel">
+										<div id="htc-feature-19" class="htc-hover htc-panel">
 											<div class="htc-front">
 
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>PNTHR</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>PNTHR can help you craft a Kickstarter website experience that your future customers will love.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.pnthr.com/kickstarter-consultant-boston-nyc/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_19" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -981,7 +980,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 19" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="PNTHR" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -993,19 +992,19 @@ Template Name: Professionals
 										</div>
 									</div>
 									<div class="second-feature">
-										<div id="htc-feature-4" class="htc-hover htc-panel">
+										<div id="htc-feature-20" class="htc-hover htc-panel">
 											<div class="htc-front">
 
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Medium Rare Inc.</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Medium Rare Inc. is a distinguished technology leader with past successes as crowdfunding facilitators.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://mediumrareinc.com/tag/kickstarter/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_20" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1024,7 +1023,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 20" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="Medium Rare Inc." class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -1039,7 +1038,7 @@ Template Name: Professionals
 
 							</div>
 
-							<h5>Example Title</h5>
+<!-- 							<h5>Example Title</h5>
 							
 							<a href=""><h6>Resource Title</h6></a>
 							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
@@ -1053,7 +1052,7 @@ Template Name: Professionals
 							<h5>The Second Sub-Heading Title</h5>
 
 							<a href=""><h6>Resource Title</h6></a>
-							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p> -->
 							<div class="centered">
 								<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
 							</div>
@@ -1073,19 +1072,19 @@ Template Name: Professionals
 							<div class="featured-pros-wrapper">
 								<div class="featured-pros-top-row">
 									<div class="first-feature">
-										<div id="htc-feature-1" class="htc-hover htc-panel">
+										<div id="htc-feature-21" class="htc-hover htc-panel">
 											<div class="htc-front">
 
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>crowdSPRING</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>One of the biggest marketplaces for logo, graphic design, and naming consultants at affordable prices.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.crowdspring.com/index/4/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_21" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1104,7 +1103,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 21" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="crowdSPRING" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -1116,19 +1115,19 @@ Template Name: Professionals
 										</div>
 									</div>
 									<div class="second-feature">
-										<div id="htc-feature-2" class="htc-hover htc-panel">
+										<div id="htc-feature-22" class="htc-hover htc-panel">
 											<div class="htc-front">
 
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>99 Designs</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Choose from a variety of design packages and leverage the crowd to accomplish your design and creative needs.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://99designs.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_22" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1147,7 +1146,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 22" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="99 Designs" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -1161,19 +1160,19 @@ Template Name: Professionals
 								</div>
 								<div class="featured-pros-bottom-row">
 									<div class="first-feature">
-										<div id="htc-feature-3" class="htc-hover htc-panel">
+										<div id="htc-feature-23" class="htc-hover htc-panel">
 											<div class="htc-front">
 
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>DesignCrowd</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>A crowdsourced design community with over 100,000 designers and close to $10mm in completed projects.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.designcrowd.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_23" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1192,7 +1191,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 23" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="DesignCrowd" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -1204,19 +1203,19 @@ Template Name: Professionals
 										</div>
 									</div>
 									<div class="second-feature">
-										<div id="htc-feature-4" class="htc-hover htc-panel">
+										<div id="htc-feature-24" class="htc-hover htc-panel">
 											<div class="htc-front">
 
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>BrandCrowd</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Bypass the spec-work and choose from a set of ready-made designs, or find a designer to complete a custom project.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.brandcrowd.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_24" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1235,7 +1234,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 24" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="BrandCrowd" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -1250,7 +1249,7 @@ Template Name: Professionals
 
 							</div>
 
-							<h5>Example Title</h5>
+<!-- 							<h5>Example Title</h5>
 							
 							<a href=""><h6>Resource Title</h6></a>
 							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
@@ -1264,7 +1263,7 @@ Template Name: Professionals
 							<h5>The Second Sub-Heading Title</h5>
 
 							<a href=""><h6>Resource Title</h6></a>
-							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p> -->
 							<div class="centered">
 								<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
 							</div>
@@ -1284,19 +1283,19 @@ Template Name: Professionals
 							<div class="featured-pros-wrapper">
 								<div class="featured-pros-top-row">
 									<div class="first-feature">
-										<div id="htc-feature-1" class="htc-hover htc-panel">
+										<div id="htc-feature-25" class="htc-hover htc-panel">
 											<div class="htc-front">
 
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>CrowdFund Buzz</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Social media and PR services for camapaigns. Crowdfund Buzz is affordable and a great way to distribute your press release.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://crowdfundbuzz.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_25" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1315,7 +1314,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 25" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="Crowdfund Buzz" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -1327,19 +1326,19 @@ Template Name: Professionals
 										</div>
 									</div>
 									<div class="second-feature">
-										<div id="htc-feature-2" class="htc-hover htc-panel">
+										<div id="htc-feature-26" class="htc-hover htc-panel">
 											<div class="htc-front">
 
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Agency 2.0</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Agency 2.0 offers Kickstarter campaign development and crowdfunding project marketing services at a reasonable cost.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://agency20.com/crowdfunding-kickstarter-marketing-strategy/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_26" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1358,7 +1357,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 26" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="Agency 2.0" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -1372,19 +1371,19 @@ Template Name: Professionals
 								</div>
 								<div class="featured-pros-bottom-row">
 									<div class="first-feature">
-										<div id="htc-feature-3" class="htc-hover htc-panel">
+										<div id="htc-feature-27" class="htc-hover htc-panel">
 											<div class="htc-front">
 
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Kellerey</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Kellerey is a boutique marketing and brand communication agency with experience in PR and outreach strategies.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.kellerey.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_27" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1403,7 +1402,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 27" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="Kellerey" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -1415,19 +1414,19 @@ Template Name: Professionals
 										</div>
 									</div>
 									<div class="second-feature">
-										<div id="htc-feature-4" class="htc-hover htc-panel">
+										<div id="htc-feature-28" class="htc-hover htc-panel">
 											<div class="htc-front">
 
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Room 214</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<!-- <h4>Lorem ipsum dolor</h4> -->
+												<p>Room 214 helps you achieve social media and marketing success through a comprehensive review of your campaign goals.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://room214.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_28" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1446,7 +1445,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 28" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="Room 214" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -1461,7 +1460,7 @@ Template Name: Professionals
 
 							</div>
 
-							<h5>Example Title</h5>
+<!-- 							<h5>Example Title</h5>
 							
 							<a href=""><h6>Resource Title</h6></a>
 							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
@@ -1475,7 +1474,7 @@ Template Name: Professionals
 							<h5>The Second Sub-Heading Title</h5>
 
 							<a href=""><h6>Resource Title</h6></a>
-							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p> -->
 							<div class="centered">
 								<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
 							</div>
@@ -1495,19 +1494,19 @@ Template Name: Professionals
 							<div class="featured-pros-wrapper">
 								<div class="featured-pros-top-row">
 									<div class="first-feature">
-										<div id="htc-feature-1" class="htc-hover htc-panel">
+										<div id="htc-feature-29" class="htc-hover htc-panel">
 											<div class="htc-front">
 
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Elihuu</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<h4>Manufacturing</h4>
+												<p>Elihuu is a place where production ready designers can meet a new community of manufacturers for projects big and small.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="https://elihuu.com/home" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_29" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1526,7 +1525,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 29" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="Elihuu" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -1538,19 +1537,19 @@ Template Name: Professionals
 										</div>
 									</div>
 									<div class="second-feature">
-										<div id="htc-feature-2" class="htc-hover htc-panel">
+										<div id="htc-feature-30" class="htc-hover htc-panel">
 											<div class="htc-front">
 
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>Acutrack Fulfillment</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<h4>Backer Reward Fulfillment</h4>
+												<p>Acutrack's logistics team is ready to handle your print, media, and fulfillment needs.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.acutrack.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_30" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1569,7 +1568,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 30" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="Acutrack" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -1583,19 +1582,19 @@ Template Name: Professionals
 								</div>
 								<div class="featured-pros-bottom-row">
 									<div class="first-feature">
-										<div id="htc-feature-3" class="htc-hover htc-panel">
+										<div id="htc-feature-31" class="htc-hover htc-panel">
 											<div class="htc-front">
 
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>GameSalute</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<h4>Game Fulfillment</h4>
+												<p>GameSalute handles manufacturing, assembly, and distribution of crowdfunded video game projects.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://gamesalute.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_31" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1614,7 +1613,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 31" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="Gamesalute" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -1626,19 +1625,19 @@ Template Name: Professionals
 										</div>
 									</div>
 									<div class="second-feature">
-										<div id="htc-feature-4" class="htc-hover htc-panel">
+										<div id="htc-feature-32" class="htc-hover htc-panel">
 											<div class="htc-front">
 
 											</div>
 										<div class="htc-back">
 											<div class="htc-pad">
-												<h2>Lorem ipsum</h2>
+												<h2>VKP Productions</h2>
 												<div class="hr_wrapper"><hr></div>
-												<h4>Lorem ipsum dolor</h4>
-												<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+												<h4>Video Production</h4>
+												<p>VKP Productions is your source for afforable business video and crowdfunding campaign building.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://google.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.vkpproductions.com/" class="float-left button-outline teal">Details</a>
 												<a href="#contact_form_pop_32" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1657,7 +1656,7 @@ Template Name: Professionals
 												<p>Message<br />
 												    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
 												<div style='display:none;'>
-												<input type="hidden" name="service" value="Service 32" class="wpcf7-hidden" />
+												<input type="hidden" name="service" value="VKP Productions" class="wpcf7-hidden" />
 
 												</div>
 												<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
@@ -1672,7 +1671,7 @@ Template Name: Professionals
 
 							</div>
 
-							<h5>Example Title</h5>
+<!-- 							<h5>Example Title</h5>
 							
 							<a href=""><h6>Resource Title</h6></a>
 							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
@@ -1686,7 +1685,7 @@ Template Name: Professionals
 							<h5>The Second Sub-Heading Title</h5>
 
 							<a href=""><h6>Resource Title</h6></a>
-							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+							<p id="post-paragraph"> Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p> -->
 							<div class="centered">
 								<a href="http://themes.playnethemes.com/showy/the-new-imac/" class="more-link" title="read more"><i class="icon-angle-right"></i></a>
 							</div>
@@ -1706,7 +1705,30 @@ Template Name: Professionals
 				<div class="sidebar-inner">
 					<div onclick="javascript: $('body').scrollTo(0,500, {'offset': {'top': -10}});" style="cursor: pointer;"><h1><span>Crowdfunding</span> Services</h1></div>
 					<hr>
-					<a href="http://www.google.com">Suggest A Service</a>
+
+					<a href="#contact_form_pop_33" class="fancybox">Suggest A Service</a>
+
+					<div style="display:none" class="fancybox-hidden">
+						<div id="contact_form_pop_33">
+							<div class="wpcf7" id="wpcf7-f90-p51-o33">
+								<form action="/test/#wpcf7-f90-p51-o33" method="post" class="wpcf7-form" novalidate="novalidate">
+									<div style="display: none;">
+										<input type="hidden" name="_wpcf7" value="90" />
+										<input type="hidden" name="_wpcf7_version" value="3.4.2" />
+										<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f90-p51-o33" />
+										<input type="hidden" name="_wpnonce" value="89fe87144d" />
+									</div>
+									<p>Your Name (optional)<br /><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text" /></span></p>
+									<p>Your Email (optional)<br /><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-email" /></span></p>
+									<p>What service do you recommend and why? (required)<br /><span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span></p>
+									<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
+									<div class="wpcf7-response-output wpcf7-display-none"> </div>
+								</form>
+							</div>
+						</div>
+					</div>
+
+
 					<hr>
 					
 					<ul class="sidebar-list">
@@ -1720,7 +1742,7 @@ Template Name: Professionals
 						<li class="sidebar-list-entry"><a href="javascript: void(0);" onclick="javascript: $('body').scrollTo('#resource_sect8',500, {'offset': {'top': -10}});">MISCELLANEOUS</a></li>
 					</ul>
  
-					<a href="#resource_sect9" id="campaign_services_link">By Campaign Type</a>
+					<a href="/resources" id="campaign_services_link">Helpful Resources</a>
 
 
 				</div>
