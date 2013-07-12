@@ -23,6 +23,7 @@ Template Name: Professionals
 					<div class="accent"></div>
 						
 					<div class="posts-content">
+						<div class="intro no-margin"> If you've ever been part of a crowdfunding campaign, you'll know it takes a village. From marketing, to PR, to backer management and product fulfillment, there's a lot to be done. Here are some groups who can help along the way.</div>
 <!-- 					<p class="htc-featured-services-text intro">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p> -->
 						<div class="featured-pros-wrapper">
 							<div class="featured-pros-top-row">
@@ -208,7 +209,7 @@ Template Name: Professionals
 
 						</div>
 					</div>
-					<div class="intro no-margin"> If you've ever been part of a crowdfunding campaign, you'll know it takes a village. From marketing, to PR, to backer management, and product fulfillment there's a lot to be done. Here are some groups who can help along the way.</div>
+					
 
 					<!-- ///////// ADVICE AND CONSULTING ///////// -->
 					<header>
