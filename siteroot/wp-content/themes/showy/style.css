@@ -5700,21 +5700,133 @@ a:hover{
 }
 
 #htc-feature-1 .htc-front {
-	background-image: url(/wp-content/themes/showy/images/test_img_1.jpg);
+	background-image: url(/wp-content/themes/showy/images/service_logos/backerkit.png);
 }
 
 #htc-feature-2 .htc-front {
-	background-image: url(/wp-content/themes/showy/images/test_img_2.jpg);
+	background-image: url(/wp-content/themes/showy/images/service_logos/crowdfundbuzz.png);
 }
 
-
 #htc-feature-3 .htc-front {
-	background-image: url(/wp-content/themes/showy/images/test_img_3.jpg);
+	background-image: url(/wp-content/themes/showy/images/service_logos/acutrack.png);
 }
 
 #htc-feature-4 .htc-front {
-	background-image: url(/wp-content/themes/showy/images/test_img_4.jpg);
+	background-image: url(/wp-content/themes/showy/images/service_logos/trufuel.png);
 }
+
+#htc-feature-5 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/crowdfundmafia.png);
+}
+
+#htc-feature-6 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/thecrowdfundamentals.png);
+}
+
+#htc-feature-7 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/martincrowdfundconsulting.png);
+}
+
+#htc-feature-8 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/ianlogo.png);
+}
+
+#htc-feature-9 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/backerkit.png);
+}
+
+#htc-feature-10 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/kicktraq.png);
+}
+
+#htc-feature-11 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/highrise.png);
+}
+
+#htc-feature-12 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/celery.png);
+}
+
+#htc-feature-13 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/trufuel.png);
+}
+
+#htc-feature-14 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/videogogo.png);
+}
+
+#htc-feature-15 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/test_img_3.jpg);
+}
+
+#htc-feature-16 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/test_img_4.jpg);
+}
+
+#htc-feature-17 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/crowdforce.png);
+}
+
+#htc-feature-18 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/investedin.png);
+}
+
+#htc-feature-19 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/pnthr.png);
+}
+
+#htc-feature-20 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/mediumrare.png);
+}
+
+#htc-feature-21 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/crowdspring.png);
+}
+
+#htc-feature-22 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/99designs.png);
+}
+
+#htc-feature-23 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/designcrowd.png);
+}
+
+#htc-feature-24 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/test_img_4.jpg);
+}
+
+#htc-feature-25 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/crowdfundbuzz.png);
+}
+
+#htc-feature-26 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/test_img_2.jpg);
+}
+
+#htc-feature-27 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/kellerey.png);
+}
+
+#htc-feature-28 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/room214.png);
+}
+
+#htc-feature-29 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/elihuu.png);
+}
+
+#htc-feature-30 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/acutrack.png);
+}
+
+#htc-feature-31 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/test_img_3.jpg);
+}
+
+#htc-feature-32 .htc-front {
+	background-image: url(/wp-content/themes/showy/images/service_logos/vkpproductions.png);
+}
+
 
 /*  */
 
@@ -6213,6 +6325,7 @@ color:#636363;
 .posts-content h5 {
 	line-height: 100%;
 }
+
 
 
 
