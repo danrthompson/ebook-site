@@ -40,7 +40,7 @@ Template Name: Professionals
 												<p>Backer Kit is a helpful tool that allows project creators to manage backer relations after their campaign ends.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="https://www.backerkit.com/" class="float-left button-outline teal">Details</a>
+												<a href="https://www.backerkit.com/" class="float-left button-outline teal" onClick="_gaq.push(['_trackEvent', 'Services', 'Click', 'BackerKit1', ]);">Details</a>
 												<a href="#contact_form_pop_1" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
