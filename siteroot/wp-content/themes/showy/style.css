@@ -5792,7 +5792,7 @@ a:hover{
 }
 
 #htc-feature-24 .htc-front {
-	background-image: url(/wp-content/themes/showy/images/service_logos/test_img_4.jpg);
+	background-image: url(/wp-content/themes/showy/images/service_logos/brandcrowd.png);
 }
 
 #htc-feature-25 .htc-front {
@@ -5800,7 +5800,7 @@ a:hover{
 }
 
 #htc-feature-26 .htc-front {
-	background-image: url(/wp-content/themes/showy/images/service_logos/test_img_2.jpg);
+	background-image: url(/wp-content/themes/showy/images/service_logos/agency20.png);
 }
 
 #htc-feature-27 .htc-front {
@@ -5820,7 +5820,7 @@ a:hover{
 }
 
 #htc-feature-31 .htc-front {
-	background-image: url(/wp-content/themes/showy/images/service_logos/test_img_3.jpg);
+	background-image: url(/wp-content/themes/showy/images/service_logos/gamesalute.png);
 }
 
 #htc-feature-32 .htc-front {
@@ -6324,6 +6324,10 @@ color:#636363;
 
 .posts-content h5 {
 	line-height: 100%;
+}
+
+.celery-link{
+	cursor: pointer;
 }
 
 
