@@ -27,10 +27,10 @@ Template Name: HTC Resources
 					<div class="posts-content">
 						<div class="intro">There's a lot to know about crowdfunding. Here are a few resources carefully selected to get you started. </div>
 						
-						<a href="http://bit.ly/11ONp1m"><h6>The Crowdfunding Bible</h6></a>
+						<a href="http://bit.ly/11ONp1m" onClick="ga('send', 'event', 'Resources_Featured', 'Click', 'The Crowdfunding Bible', 1);"><h6>The Crowdfunding Bible</h6></a>
 						<p id="post-paragraph"> The Crowdfunding Bible' ebook was written to guide you through the process of raising money for any startup or project. Valuable contents include the pros and cons of crowdfunding as well as the types of projects that can use crowdfunding as a valuable investment source.</p>
 
-						<a href="http://bit.ly/12rsUGR"><h6>The Ultimate Crowdfunding To-Do List</h6></a>
+						<a href="http://bit.ly/12rsUGR" onClick="ga('send', 'event', 'Resources_Featured', 'Click', 'The Ultimate Crowdfunding To-Do List', 2);"><h6>The Ultimate Crowdfunding To-Do List</h6></a>
 						<p id="post-paragraph"> An extensive to-do list and terrific reminder material for the basics of ideating, completing, and fulfilling a successful crowdfunding campaign.</p>
 					
 						<div class="centered">
