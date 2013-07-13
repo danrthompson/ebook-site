@@ -100,7 +100,7 @@ Template Name: HTC Resources
 						<a href="http://bit.ly/12rsUGR"><h6>The Ultimate Crowdfunding To-Do List</h6></a>
 						<p id="post-paragraph"> An extensive to-do list and terrific reminder material for the basics of ideating, completing, and fulfilling a successful crowdfunding campaign.</p>
 
-						<h5>Crowdfunding as in Industry</h5>
+						<h5>Crowdfunding as an Industry</h5>
 
 						<a href="http://bit.ly/11JKgDl"><h6>A Snapshot on Crowdfunding</h6></a>
 						<p id="post-paragraph"> The Snapshot on Crowdfunding PDF ebook describes the phenomenon crowdfunding and explores the different business models of crowdfunding. The book examines the economic relevance of crowdfunding on an empirical basis.</p>
