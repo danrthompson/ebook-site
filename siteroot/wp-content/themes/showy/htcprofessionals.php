@@ -328,8 +328,8 @@ Template Name: Professionals
 												<p>Martin Crowdfunding Consulting offers services in three main areas: campaign launch, buzz, and rewards fulfillment.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://www.martincrowdfund.com/" class="float-left button-outline teal">Details</a>
-												<a href="#contact_form_pop_7" class="fancybox float-left button-solid teal" onClick="ga('send', 'event', 'Services_AdviceAndConsultingFeatured', 'Click', 'Martin Crowdfund Consulting', 7);">Message Them</a>
+												<a href="http://www.martincrowdfund.com/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_AdviceAndConsultingFeatured', 'Click', 'Martin Crowdfund Consulting', 7);">Details</a>
+												<a href="#contact_form_pop_7" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
 												<div id="contact_form_pop_7">
@@ -371,8 +371,8 @@ Template Name: Professionals
 												<p>A crowdfunder with multiple successes, Ian MacKenzie offers free consultations and coaching assistance for your campaign.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://www.ianmack.com/crowdfunding-web/crowdfunding/" class="float-left button-outline teal">Details</a>
-												<a href="#contact_form_pop_8" class="fancybox float-left button-solid teal" onClick="ga('send', 'event', 'Services_AdviceAndConsultingFeatured', 'Click', 'Ian MacKenzie', 8);">Message Them</a>
+												<a href="http://www.ianmack.com/crowdfunding-web/crowdfunding/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_AdviceAndConsultingFeatured', 'Click', 'Ian MacKenzie', 8);">Details</a>
+												<a href="#contact_form_pop_8" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
 												<div id="contact_form_pop_8">
@@ -450,8 +450,8 @@ Template Name: Professionals
 												<p>Backer Kit is a helpful tool that allows project creators to manage backer relations after their campaign ends.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="https://backerkit.com/" class="float-left button-outline teal">Details</a>
-												<a href="#contact_form_pop_9" class="fancybox float-left button-solid teal" onClick="ga('send', 'event', 'Services_CampaignManagementToolsFeatured', 'Click', 'BackerKit', 9);">Message Them</a>
+												<a href="https://backerkit.com/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_CampaignManagementToolsFeatured', 'Click', 'BackerKit', 9);">Details</a>
+												<a href="#contact_form_pop_9" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
 												<div id="contact_form_pop_9">
