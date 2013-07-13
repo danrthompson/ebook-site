@@ -40,7 +40,7 @@ Template Name: Professionals
 												<p>Backer Kit is a helpful tool that allows project creators to manage backer relations after their campaign ends.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="https://www.backerkit.com/" class="float-left button-outline teal" onClick="_gaq.push(['_trackEvent', 'Services', 'Click', 'BackerKit1', ]);">Details</a>
+												<a href="https://www.backerkit.com/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_FeaturedFeatured', 'Click', 'BackerKit', 1);">Details</a>
 												<a href="#contact_form_pop_1" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -86,7 +86,7 @@ Template Name: Professionals
 												<p>Social media and PR services for camapaigns. Crowdfund Buzz is affordable and a great way to distribute your press release.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://www.crowdfundbuzz.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.crowdfundbuzz.com" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_FeaturedFeatured', 'Click', 'Crowdfund Buzz', 2);">Details</a>
 												<a href="#contact_form_pop_2" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -131,7 +131,7 @@ Template Name: Professionals
 												<p>Acutrack's logistics team is ready to handle your print, media, and fulfillment needs.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://www.acutrack.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.acutrack.com" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_FeaturedFeatured', 'Click', 'Acutrack', 3);">Details</a>
 												<a href="#contact_form_pop_3" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -175,7 +175,7 @@ Template Name: Professionals
 												<p>TruFuel produces handcrafted videos to help explain your business in 60 seconds.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://www.trufuel.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.trufuel.com" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_FeaturedFeatured', 'Click', 'TruFuel', 4);">Details</a>
 												<a href="#contact_form_pop_4" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -240,7 +240,7 @@ Template Name: Professionals
 												<p>Crowdfund Mafia provides consultation, training, and PR services for creative projects looking to raise crowdfund capital.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://www.crowdfundmafia.com/" class="float-left button-outline teal">Details</a>
+												<a href="http://www.crowdfundmafia.com/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_AdviceAndConsultingFeatured', 'Click', 'Crowdfund Mafia', 5);">Details</a>
 												<a href="#contact_form_pop_5" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -283,7 +283,7 @@ Template Name: Professionals
 												<p>The CrowdFundamentals provides a variety of consulting packages to help your project achieve lasting success.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://thecrowdfundamentals.com/" class="float-left button-outline teal">Details</a>
+												<a href="http://thecrowdfundamentals.com/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_AdviceAndConsultingFeatured', 'Click', 'The CrowdFundamentals', 6);">Details</a>
 												<a href="#contact_form_pop_6" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -329,7 +329,7 @@ Template Name: Professionals
 											</div>
 											<div class="left-float ebook_buttons">
 												<a href="http://www.martincrowdfund.com/" class="float-left button-outline teal">Details</a>
-												<a href="#contact_form_pop_7" class="fancybox float-left button-solid teal">Message Them</a>
+												<a href="#contact_form_pop_7" class="fancybox float-left button-solid teal" onClick="ga('send', 'event', 'Services_AdviceAndConsultingFeatured', 'Click', 'Martin Crowdfund Consulting', 7);">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
 												<div id="contact_form_pop_7">
@@ -372,7 +372,7 @@ Template Name: Professionals
 											</div>
 											<div class="left-float ebook_buttons">
 												<a href="http://www.ianmack.com/crowdfunding-web/crowdfunding/" class="float-left button-outline teal">Details</a>
-												<a href="#contact_form_pop_8" class="fancybox float-left button-solid teal">Message Them</a>
+												<a href="#contact_form_pop_8" class="fancybox float-left button-solid teal" onClick="ga('send', 'event', 'Services_AdviceAndConsultingFeatured', 'Click', 'Ian MacKenzie', 8);">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
 												<div id="contact_form_pop_8">
@@ -451,7 +451,7 @@ Template Name: Professionals
 											</div>
 											<div class="left-float ebook_buttons">
 												<a href="https://backerkit.com/" class="float-left button-outline teal">Details</a>
-												<a href="#contact_form_pop_9" class="fancybox float-left button-solid teal">Message Them</a>
+												<a href="#contact_form_pop_9" class="fancybox float-left button-solid teal" onClick="ga('send', 'event', 'Services_CampaignManagementToolsFeatured', 'Click', 'BackerKit', 9);">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
 												<div id="contact_form_pop_9">
@@ -493,7 +493,7 @@ Template Name: Professionals
 												<p>Kicktraq is your source for analytics and discovery information related to your crowdfunding campaign.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://www.kicktraq.com/" class="float-left button-outline teal">Details</a>
+												<a href="http://www.kicktraq.com/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_CampaignManagementToolsFeatured', 'Click', 'Kicktraq', 10);">Details</a>
 												<a href="#contact_form_pop_10" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -538,7 +538,7 @@ Template Name: Professionals
 												<p>Highrise is a CRM on steroids that enables you to keep track of accounts, correspondence, attachments, and more.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://highrisehq.com/" class="float-left button-outline teal">Details</a>
+												<a href="http://highrisehq.com/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_CampaignManagementToolsFeatured', 'Click', 'Highrise', 11);">Details</a>
 												<a href="#contact_form_pop_11" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -581,7 +581,7 @@ Template Name: Professionals
 												<p>With Celery, you can accept pre-orders whenever you're ready, making it the easiest way to collect credit cards now and charge later.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="https://www.trycelery.com/" class="float-left button-outline teal">Details</a>
+												<a href="https://www.trycelery.com/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_CampaignManagementToolsFeatured', 'Click', 'Celery', 12);">Details</a>
 												<a href="#contact_form_pop_12" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -662,7 +662,7 @@ Template Name: Professionals
 												<p>TruFuel produces handcrafted videos to help explain your business in 60 seconds.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://www.trufuel.com" class="float-left button-outline teal">Details</a>
+												<a href="http://www.trufuel.com" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_VideoProductionFeatured', 'Click', 'TruFuel', 13);">Details</a>
 												<a href="#contact_form_pop_13" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -705,7 +705,7 @@ Template Name: Professionals
 												<p>VideoGoGo has crowdfunding experience and offers photo shoot, video production, and design services.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://videogogo.com/best-crowdfunding-videos/" class="float-left button-outline teal">Details</a>
+												<a href="http://videogogo.com/best-crowdfunding-videos/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_VideoProductionFeatured', 'Click', 'VideoGoGo', 14);">Details</a>
 												<a href="#contact_form_pop_14" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -750,7 +750,7 @@ Template Name: Professionals
 												<p>Josh Polon is an independent video consultant who has helped 8 campaigns raise more than $300k.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://www.joshpolon.com/" class="float-left button-outline teal">Details</a>
+												<a href="http://www.joshpolon.com/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_VideoProductionFeatured', 'Click', 'Josh Polon', 15);">Details</a>
 												<a href="#contact_form_pop_15" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -793,7 +793,7 @@ Template Name: Professionals
 												<p>Lucas consults on crowdfunding campaigns and offers flexible video assistance depending on exactly how much work you need.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://www.lucasmcnelly.com/p/crowdfunding.html" class="float-left button-outline teal">Details</a>
+												<a href="http://www.lucasmcnelly.com/p/crowdfunding.html" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_VideoProductionFeatured', 'Click', 'Lucas McNelly', 16);">Details</a>
 												<a href="#contact_form_pop_16" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -873,7 +873,7 @@ Template Name: Professionals
 												<p>CrowdForce offers custom software and website development to help you achieve the look and feel you're trying to convey.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="https://crowdforce.co/crowdfunding-web-design" class="float-left button-outline teal">Details</a>
+												<a href="https://crowdforce.co/crowdfunding-web-design" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_WebDevFeatured', 'Click', 'CrowdForce', 17);">Details</a>
 												<a href="#contact_form_pop_17" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -916,7 +916,7 @@ Template Name: Professionals
 												<p>InvestedIn offers social fundraising and technology solutions for individuals, charities, and businesses of all sizes.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://invested.in/" class="float-left button-outline teal">Details</a>
+												<a href="http://invested.in/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_WebDevFeatured', 'Click', 'InvestedIn', 18);">Details</a>
 												<a href="#contact_form_pop_18" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -961,7 +961,7 @@ Template Name: Professionals
 												<p>PNTHR can help you craft a Kickstarter website experience that your future customers will love.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://www.pnthr.com/kickstarter-consultant-boston-nyc/" class="float-left button-outline teal">Details</a>
+												<a href="http://www.pnthr.com/kickstarter-consultant-boston-nyc/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_WebDevFeatured', 'Click', 'PNTHR', 19);">Details</a>
 												<a href="#contact_form_pop_19" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1004,7 +1004,7 @@ Template Name: Professionals
 												<p>Medium Rare Inc. is a distinguished technology leader with past successes as crowdfunding facilitators.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://mediumrareinc.com/tag/kickstarter/" class="float-left button-outline teal">Details</a>
+												<a href="http://mediumrareinc.com/tag/kickstarter/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_WebDevFeatured', 'Click', 'Medium Rare Inc.', 20);">Details</a>
 												<a href="#contact_form_pop_20" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1084,7 +1084,7 @@ Template Name: Professionals
 												<p>One of the biggest marketplaces for logo, graphic design, and naming consultants at affordable prices.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://www.crowdspring.com/index/4/" class="float-left button-outline teal">Details</a>
+												<a href="http://www.crowdspring.com/index/4/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_GraphicDesignFeatured', 'Click', 'crowdSPRING', 21);">Details</a>
 												<a href="#contact_form_pop_21" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1127,7 +1127,7 @@ Template Name: Professionals
 												<p>Choose from a variety of design packages and leverage the crowd to accomplish your design and creative needs.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://99designs.com/" class="float-left button-outline teal">Details</a>
+												<a href="http://99designs.com/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_GraphicDesignFeatured', 'Click', '99 Designs', 22);">Details</a>
 												<a href="#contact_form_pop_22" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1172,7 +1172,7 @@ Template Name: Professionals
 												<p>A crowdsourced design community with over 100,000 designers and close to $10mm in completed projects.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://www.designcrowd.com/" class="float-left button-outline teal">Details</a>
+												<a href="http://www.designcrowd.com/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_GraphicDesignFeatured', 'Click', 'DesignCrowd', 23);">Details</a>
 												<a href="#contact_form_pop_23" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1215,7 +1215,7 @@ Template Name: Professionals
 												<p>Bypass the spec-work and choose from a set of ready-made designs, or find a designer to complete a custom project.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://www.brandcrowd.com/" class="float-left button-outline teal">Details</a>
+												<a href="http://www.brandcrowd.com/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_GraphicDesignFeatured', 'Click', 'BrandCrowd', 24);">Details</a>
 												<a href="#contact_form_pop_24" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1295,7 +1295,7 @@ Template Name: Professionals
 												<p>Social media and PR services for camapaigns. Crowdfund Buzz is affordable and a great way to distribute your press release.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://crowdfundbuzz.com/" class="float-left button-outline teal">Details</a>
+												<a href="http://crowdfundbuzz.com/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_PrMarketingFeatured', 'Click', 'Crowdfund Buzz', 25);">Details</a>
 												<a href="#contact_form_pop_25" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1338,7 +1338,7 @@ Template Name: Professionals
 												<p>Agency 2.0 offers Kickstarter campaign development and crowdfunding project marketing services at a reasonable cost.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://agency20.com/crowdfunding-kickstarter-marketing-strategy/" class="float-left button-outline teal">Details</a>
+												<a href="http://agency20.com/crowdfunding-kickstarter-marketing-strategy/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_PrMarketingFeatured', 'Click', 'Agency 2.0', 26);">Details</a>
 												<a href="#contact_form_pop_26" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1383,7 +1383,7 @@ Template Name: Professionals
 												<p>Kellerey is a boutique marketing and brand communication agency with experience in PR and outreach strategies.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://www.kellerey.com/" class="float-left button-outline teal">Details</a>
+												<a href="http://www.kellerey.com/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_PrMarketingFeatured', 'Click', 'Kellerey', 27);">Details</a>
 												<a href="#contact_form_pop_27" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1426,7 +1426,7 @@ Template Name: Professionals
 												<p>Room 214 helps you achieve social media and marketing success through a comprehensive review of your campaign goals.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://room214.com/" class="float-left button-outline teal">Details</a>
+												<a href="http://room214.com/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_PrMarketingFeatured', 'Click', 'Room 214', 28);">Details</a>
 												<a href="#contact_form_pop_28" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1506,7 +1506,7 @@ Template Name: Professionals
 												<p>Elihuu is a place where production ready designers can meet a new community of manufacturers for projects big and small.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="https://elihuu.com/home" class="float-left button-outline teal">Details</a>
+												<a href="https://elihuu.com/home" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_MiscFeatured', 'Click', 'Elihuu', 29);">Details</a>
 												<a href="#contact_form_pop_29" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1549,7 +1549,7 @@ Template Name: Professionals
 												<p>Acutrack's logistics team is ready to handle your print, media, and fulfillment needs.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://www.acutrack.com/" class="float-left button-outline teal">Details</a>
+												<a href="http://www.acutrack.com/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_MiscFeatured', 'Click', 'Acutrack', 30);">Details</a>
 												<a href="#contact_form_pop_30" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1594,7 +1594,7 @@ Template Name: Professionals
 												<p>GameSalute handles manufacturing, assembly, and distribution of crowdfunded video game projects.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://gamesalute.com/" class="float-left button-outline teal">Details</a>
+												<a href="http://gamesalute.com/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_MiscFeatured', 'Click', 'Gamesalute', 31);">Details</a>
 												<a href="#contact_form_pop_31" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
@@ -1637,7 +1637,7 @@ Template Name: Professionals
 												<p>VKP Productions is your source for afforable business video and crowdfunding campaign building.</p>
 											</div>
 											<div class="left-float ebook_buttons">
-												<a href="http://www.vkpproductions.com/" class="float-left button-outline teal">Details</a>
+												<a href="http://www.vkpproductions.com/" class="float-left button-outline teal" onClick="ga('send', 'event', 'Services_MiscFeatured', 'Click', 'VKP Productions', 32);">Details</a>
 												<a href="#contact_form_pop_32" class="fancybox float-left button-solid teal">Message Them</a>
 
 												<div style="display:none" class="fancybox-hidden">
