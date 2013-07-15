@@ -8,6 +8,8 @@ Template Name: Ebook Page
 <!-- Cellery Javascript Link -->
 <script type="text/javascript" src="https://www.trycelery.com/js/celery.js"></script>
 
+<script type="text/javascript" src="https://getdpd.com/js/cart.js"></script>
+
 <div id="why_page">
 	<div id="" class="content">
 		
@@ -32,7 +34,9 @@ Template Name: Ebook Page
 						</p>
 						<div class="left-float ebook_buttons">
 							<a href="<?php echo get_bloginfo('template_url') ?>/htc-preview.pdf" class="left-float ebook-teal-button-outline ebook_button">PREVIEW</a>
-							<a data-celery="htc-ebook" class="left-float ebook-button-solid ebook_button celery-link">Get It!</a>
+							<!-- <a data-celery="htc-ebook" class="left-float ebook-button-solid ebook_button celery-link">Get It!</a> -->
+							<a target="_top" class="left-float ebook-button-solid ebook_button dpdcart iframe" href="https://harnessthecrowd.dpdcart.com/cart/add?product_id=64900&amp;method_id=66768">Get It!</a>
+
 
 							<!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="left-float" target="_blank">
 							<input type="hidden" name="cmd" value="_s-xclick">
@@ -63,8 +67,12 @@ Template Name: Ebook Page
 						</p>
 						<div class="right-float ebook_buttons">
 							
-<!-- 							<button data-celery="htc-ebook" class="right-float ebook-blue-button-outline ebook_button">PREVIEW</button>
- -->							<a data-celery="htc-kit" class="right-float ebook-blue-button-outline ebook_button celery-link">Get It!</a>
+							<!-- <button data-celery="htc-ebook" class="right-float ebook-blue-button-outline ebook_button">PREVIEW</button> -->
+							
+ <!-- <a data-celery="htc-kit" class="right-float ebook-blue-button-outline ebook_button celery-link">Get It!</a> -->
+
+ 							<a target="_top" class="right-float ebook-blue-button-outline ebook_button dpdcart iframe" href="https://harnessthecrowd.dpdcart.com/cart/add?product_id=64910&amp;method_id=66778">Get It!</a>
+
 <!-- 
 							<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank" class="right-float">
 							<input type="hidden" name="cmd" value="_s-xclick">
