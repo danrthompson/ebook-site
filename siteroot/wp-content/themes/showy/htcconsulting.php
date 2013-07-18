@@ -24,11 +24,11 @@ Template Name: HTC Consulting
 						<img class="wide_img" id="ebook-img" src="<?php echo get_bloginfo('template_url') ?>/images/HTC-LOGO-TOP-TRANSPARENT.png"/>
 					</div>
 					<div class="half right-float top-margin">
-						<h5 id="left-float">Receive Hands-On</h5>
+						<h5 id="left-float"> Hands-On</h5>
 						<h5><span class="teal thick-title left-float">CONSULTING</span></h5>
 						<div class="accent"></div>
 						<p>
-						We've been through the entire crowdfunding process successfully 3 times, raising a total of over $200,000. From ideation to video to PR and press outreach, we're here to provide hands-on assistance to help you realize your ideas. 
+						We've been through the entire crowdfunding process three times, raising over $200,000. From ideation to video to PR and press outreach, we're here to provide hands-on assistance to help you realize your ideas. 
 						</p>
 						<div class="left-float ebook_buttons">
 
