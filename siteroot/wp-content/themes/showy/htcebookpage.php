@@ -26,8 +26,8 @@ Template Name: Ebook Page
 						<img class="wide_img" id="ebook-img" src="<?php echo get_bloginfo('template_url') ?>/images/book_placeholder.png"/>
 					</div>
 					<div class="half right-float top-margin">
-						<h5 id="left-float"> This Is How To Start</h4>
-						<h5><span class="teal thick-title left-float">LEARNING</span></h4>
+						<h5 id="left-float"> Start Learning With Our</h4>
+						<h5><span class="teal thick-title left-float">EBOOK</span></h4>
 						<div class="accent"></div>
 						<p>
 						Crowdfunding is a big process. From conceptualizing your idea, to lining up press, to launching your campaign, to fulfillment once it's over, there's a lot to do. Harness the Crowd provides a roadmap that explains what to do, when to do it, and how to be successful. 
@@ -59,8 +59,8 @@ Template Name: Ebook Page
 						<img class="wide_img" id="kit-img" src="<?php echo get_bloginfo('template_url') ?>/images/kit_placeholder.png"/>
 					</div>
 					<div class="half left-float top-margin">
-						<h5 class="text-right"> This Is How To Start</h4>
-						<h5><span id="blue" class="thick-title right-float">LEARNING</span></h4>
+						<h5 class="text-right"> Start Doing With Our</h4>
+						<h5><span id="blue" class="thick-title right-float">TOOLKIT</span></h4>
 						<div class="accent_wrapper_right"><div class="accent orange"></div></div>
 						<p>
 						A carpenter is nothing without his tools. The same is true in crowdfunding. We've compiled the  tools and resources you need to make your campaign a success. From outreach templates, to press grids, to web-pages for spreading the word, this kit will save you days of work and spur your success. 
@@ -86,6 +86,29 @@ Template Name: Ebook Page
 				</div><!-- End Block -->
 			</div> <!-- End Content -->
 
+	<div id="why_pg" class="pgcontent">
+			<div class="content block ebook_pg">
+			
+				<div class="why_pg_central_content">
+					<div class="half left-float">
+						<img class="wide_img" id="ebook-img" src="<?php echo get_bloginfo('template_url') ?>/images/book_placeholder.png"/>
+					</div>
+					<div class="half right-float top-margin">
+						<h5 id="left-float">Receive Hands-On</h4>
+						<h5><span class="teal thick-title left-float">CONSULTING</span></h4>
+						<div class="accent"></div>
+						<p>
+						We've been through the entire crowdfunding process successfully 3 times, raising a total of over $200,000. From ideation to video to PR and press outreach, we're here to provide hands-on assistance to help you realize your ideas. 
+						</p>
+						<div class="left-float ebook_buttons">
+							<!-- <a href="<?php echo get_bloginfo('template_url') ?>/htc-preview.pdf" class="left-float ebook-teal-button-outline ebook_button">PREVIEW</a> -->
+							<!-- <a data-celery="htc-ebook" class="left-float ebook-button-solid ebook_button celery-link">Get It!</a> -->
+							<a target="_top" class="left-float ebook-button-solid ebook_button dpdcart iframe" href="https://harnessthecrowd.dpdcart.com/cart/add?product_id=64900&amp;method_id=66768">Get Started!</a>
+
+						</div>
+					</div>
+				</div><!-- End Block -->
+			</div> <!-- End Content -->
 			
 			
 	<!-- </div>
