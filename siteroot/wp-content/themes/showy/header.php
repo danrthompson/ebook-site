@@ -95,15 +95,15 @@ global $data;
 				<div class="menu-main-header-menu-container">
 					<ul id="menu-main-header-menu" class="nav">
 						<li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12">
-							<a href="/">
+							<a href="/field-guide">
 								<div id="menu-item-12-icon"> </div>
-								<span class="HTC-icon-text">Home</span>
+								<span class="HTC-icon-text">Our Tools</span>
 							</a>
 						</li>
 						<li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11">
-							<a href="/field-guide">
+							<a href="/consulting">
 								<div id="menu-item-11-icon"> </div>
-								<span class="HTC-icon-text">Fieldguide</span>
+								<span class="HTC-icon-text">Consulting</span>
 							</a>
 						</li>
 						<li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10">
@@ -121,7 +121,7 @@ global $data;
 						<li id="menu-item-8" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8">
 							<a href="/why-crowdfunding">
 								<div id="menu-item-8-icon"> </div>
-								<span class="HTC-icon-text">Why CF?</span>
+								<span class="HTC-icon-text" style="position:relative; right:5px;">Why<br />Crowdfunding?</span>
 							</a>
 						</li>
 					</ul>

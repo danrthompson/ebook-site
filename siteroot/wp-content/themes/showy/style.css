@@ -1461,11 +1461,11 @@ h1.logo-text:hover {
 }
 
 #menu-main-header-menu li:hover #menu-item-12-icon {
-	background-image: url(/wp-content/themes/showy/images/nav_icons/home_colored.png);
+	background-image: url(/wp-content/themes/showy/images/nav_icons/bulb_colored.png);
 }
 
 #menu-main-header-menu li:hover #menu-item-11-icon {
-	background-image: url(/wp-content/themes/showy/images/nav_icons/bulb_colored.png);
+	background-image: url(/wp-content/themes/showy/images/nav_icons/consulting_colored.png);
 }
 
 #menu-main-header-menu li:hover #menu-item-10-icon {
@@ -1481,11 +1481,11 @@ h1.logo-text:hover {
 }
 
 #menu-main-header-menu #menu-item-12-icon {
-	background-image: url(/wp-content/themes/showy/images/nav_icons/home.png);
+	background-image: url(/wp-content/themes/showy/images/nav_icons/bulb.png);
 }
 
 #menu-main-header-menu #menu-item-11-icon {
-	background-image: url(/wp-content/themes/showy/images/nav_icons/bulb.png);
+	background-image: url(/wp-content/themes/showy/images/nav_icons/consulting.png);
 }
 
 #menu-main-header-menu #menu-item-10-icon {
@@ -5432,6 +5432,10 @@ a:hover{
 		margin-bottom: 60px;
 		padding-bottom: 20px;
 
+}
+
+#why_pg {
+	padding-top: 0;
 }
 
 .white-content-box {
